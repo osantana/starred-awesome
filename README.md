@@ -11,13 +11,21 @@
   - [Arduino](#arduino)
   - [Assembly](#assembly)
   - [Batchfile](#batchfile)
+  - [Brainfuck](#brainfuck)
   - [C](#c)
+  - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
+  - [Common Lisp](#common lisp)
+  - [Dart](#dart)
   - [Eagle](#eagle)
+  - [Elixir](#elixir)
+  - [Emacs Lisp](#emacs lisp)
   - [Erlang](#erlang)
+  - [FreeMarker](#freemarker)
+  - [GDScript](#gdscript)
   - [Go](#go)
   - [HCL](#hcl)
   - [HTML](#html)
@@ -26,31 +34,44 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter notebook)
+  - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Nginx](#nginx)
+  - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Objective-C++](#objective-c++)
-  - [Objective-J](#objective-j)
   - [Others](#others)
   - [PHP](#php)
+  - [PLSQL](#plsql)
+  - [PLpgSQL](#plpgsql)
   - [Pascal](#pascal)
   - [Perl](#perl)
+  - [Pony](#pony)
   - [PostScript](#postscript)
   - [Python](#python)
+  - [QML](#qml)
+  - [R](#r)
+  - [Roff](#roff)
   - [Ruby](#ruby)
-  - [SQL](#sql)
+  - [Rust](#rust)
   - [Scala](#scala)
   - [Shell](#shell)
+  - [Smalltalk](#smalltalk)
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [VHDL](#vhdl)
+  - [Vim script](#vim script)
   - [VimL](#viml)
   - [Visual Basic](#visual basic)
+  - [Vue](#vue)
   - [XSLT](#xslt)
 
 ## ActionScript 
 
+- [as3sfxr](https://github.com/SFBTom/as3sfxr) - A port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10.
+- [bfxr](https://github.com/increpare/bfxr) - Flash + AIR sound effects generator.   Based on Sfxr.
 - [flashls](https://github.com/mangui/flashls) - HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr)
 - [scratch-flash](https://github.com/LLK/scratch-flash) - Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website.
 
@@ -65,25 +86,83 @@
 ## Arduino 
 
 - [signal-hackpack](https://github.com/brentschooley/signal-hackpack) - Code for the Twilio Signal Hackpack out-of-box experience
-- [TinyBasicPlus](https://github.com/BleuLlama/TinyBasicPlus) - A C implementation of Tiny Basic, with a focus on support for Arduino
 
 ## Assembly 
 
+- [pcmos386v501](https://github.com/roelandjansen/pcmos386v501) - PC-MOS/386 v5.01 final release including cdrom driver sources.
+- [x86-assembly-cheat](https://github.com/cirosantilli/x86-assembly-cheat) - x86 userland minimal examples tutorial. Hundreds of runnable asserts. IO done with libc, so OS portable in theory. Tested in Ubuntu 14.04. Containers (ELF), linking, calling conventions. System land cheat at: https://github.com/cirosantilli/x86-bare-metal-examples
+- [unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+- [msxsdmapper](https://github.com/fbelavenuto/msxsdmapper) - Automatically exported from code.google.com/p/msxsdmapper
 - [8086tiny](https://github.com/adriancable/8086tiny) - Official repository for 8086tiny: a tiny PC emulator/virtual machine
 - [flappybird4msx](https://github.com/plainspooky/flappybird4msx) - My version of Flappy Bird for MSX Computers
 - [Oldies](https://github.com/ricbit/Oldies) - Old code written by Ricbit
 - [2048-2600](https://github.com/chesterbr/2048-2600) - A port of the 2048 game to the Atari 2600 VCS
+- [SecondReality](https://github.com/mtuomi/SecondReality) - Source code and data of Second Reality by Future Crew in 1993
 - [Prince-of-Persia-Apple-II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89
 
 ## Batchfile 
 
+- [A2osX](https://github.com/burniouf/A2osX) - Multi-Tasking OS for Apple II
 - [python-guide](https://github.com/kennethreitz/python-guide) - Python best practices guidebook, written for Humans.
+
+## Brainfuck 
+
+- [printbf](https://github.com/HexHive/printbf) - Brainfuck interpreter inside printf
 
 ## C 
 
-- [radare2](https://github.com/radare/radare2) - unix-like reverse engineering framework and commandline tools
-- [pymunk](https://github.com/viblo/pymunk) - Pymunk is a easy-to-use pythonic 2d physics library that can be used whenever  you need 2d rigid body physics from Python
+- [micropython](https://github.com/bbcmicrobit/micropython) - Port of MicroPython for the BBC micro:bit
+- [mbed-classic](https://github.com/lancaster-university/mbed-classic) - 
+- [mbed-os](https://github.com/ARMmbed/mbed-os) - ARM Mbed OS is a platform operating system designed for the internet of things
+- [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Hardware scanning laser rangefinder
+- [immutables](https://github.com/MagicStack/immutables) - A high-performance immutable mapping type for Python.
+- [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+- [doom3do](https://github.com/Olde-Skuul/doom3do) - The complete archive for DOOM for the 3DO
+- [raspi-kernel](https://github.com/jsandler18/raspi-kernel) - 
+- [system-bus-radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware.
+- [pg_similarity](https://github.com/eulerto/pg_similarity) - set of functions and operators for executing similarity queries
+- [ldare](https://github.com/marciovmf/ldare) - A game engine being developed from scratch for learning and practcing essential game development skills. Each and every single feature is written from scratch with absolutely no third party code or libraries.
+- [TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
+- [wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
+- [TIC-80](https://github.com/frenetic/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
+- [VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
+- [linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
+- [os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
+- [python-Levenshtein](https://github.com/ztane/python-Levenshtein) - The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
+- [fuzzy](https://github.com/yougov/fuzzy) - 
+- [tidy-html5](https://github.com/htacg/tidy-html5) - The granddaddy of HTML tools, with support for modern standards
+- [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
+- [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
+- [mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
+- [thredis](https://github.com/grisha/thredis) - Thredis is Threaded Redis. Thredis is a fork of Redis that allows for complex operations to be processed in parallel threads for better performance on multi-core systems. See thredis.org and README-THREDIS file.
+- [ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - [WIP] Learn FFmpeg libav the Hard Way
+- [darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror)
+- [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
+- [zork](https://github.com/devshane/zork) - The DUNGEON (Zork I) source
+- [postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see http://wiki.postgresql.org/wiki/Submitting_a_Patch
+- [timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series database optimized for fast ingest and complex queries.  Engineered up from PostgreSQL, packaged as an extension.
+- [pyuv](https://github.com/saghul/pyuv) - Python interface for libuv
+- [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
+- [asterisk](https://github.com/asterisk/asterisk) - Mirror of the official Asterisk Project repository No pull requests here please.  Use Gerrit:
+- [snoopy](https://github.com/a2o/snoopy) - Log every executed command to syslog (a.k.a. Snoopy Logger).
+- [numpy](https://github.com/numpy/numpy) - Numpy main repository
+- [bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
+- [preeny](https://github.com/zardus/preeny) - Some helpful preload libraries for pwning stuff.
+- [nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
+- [kamailio](https://github.com/kamailio/kamailio) - Kamailio - The Open Source SIP Server -
+- [picohttpparser](https://github.com/h2o/picohttpparser) - tiny HTTP parser written in C (used in HTTP::Parser::XS et al.)
+- [japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
+- [c-jwt-cracker](https://github.com/brendan-rius/c-jwt-cracker) - JWT brute force cracker written in C
+- [FAP80](https://github.com/dekuNukem/FAP80) - A Z80 retro computer without the retro baggage
+- [jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
+- [ultrajson](https://github.com/esnme/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
+- [pglogical](https://github.com/2ndQuadrant/pglogical) - Logical Replication extension for PostgreSQL 9.4, 9.5 and 9.6 (Postgres), providing much faster replication than Slony, Bucardo or Londiste, as well as cross-version upgrades.
+- [patchkit](https://github.com/lunixbochs/patchkit) - binary patching from Python
+- [unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
+- [capstone](https://github.com/aquynh/capstone) - Capstone disassembly/disassembler framework: Core (Arm, Arm64, M68K, Mips, PPC, Sparc, SystemZ, X86, X86_64, XCore) + bindings (Python, Java, Ocaml, PowerShell)
+- [radare2](https://github.com/radare/radare2) - unix-like reverse engineering framework and commandline tools security
 - [nanomsg](https://github.com/nanomsg/nanomsg) - nanomsg library
 - [lzfse](https://github.com/lzfse/lzfse) - LZFSE compression library and command line tool
 - [dmtx-wrappers](https://github.com/dmtx/dmtx-wrappers) - libdmtx Wrappers
@@ -92,9 +171,9 @@
 - [nginx-video-thumbextractor-module](https://github.com/wandenberg/nginx-video-thumbextractor-module) - Nginx module to extract thumbs from a video file
 - [repsheet-nginx](https://github.com/repsheet/repsheet-nginx) - The nginx module for Repsheet
 - [tis-100](https://github.com/eviltrout/tis-100) - An emulator for the TIS-100 CPU
-- [netdata](https://github.com/firehol/netdata) - Real-time performance monitoring, done right!
-- [autopy](https://github.com/msanders/autopy) - A simple, cross-platform GUI automation toolkit for Python.
-- [citus](https://github.com/citusdata/citus) - Scalable PostgreSQL for real-time workloads
+- [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/
+- [autopy-legacy](https://github.com/autopilot-rs/autopy-legacy) - DEPRECATED: Replaced by https://github.com/autopilot-rs/autopy
+- [citus](https://github.com/citusdata/citus) - Scalable PostgreSQL for multi-tenant and real-time workloads
 - [ctypes.sh](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash.
 - [rsyslog](https://github.com/rsyslog/rsyslog) - a Rocket-fast SYStem for LOG processing
 - [riofs](https://github.com/skoobe/riofs) - Userspace S3 filesystem
@@ -107,10 +186,11 @@
 - [pgemailaddr](https://github.com/petere/pgemailaddr) - email address type for PostgreSQL
 - [icmptunnel](https://github.com/DhavalKapil/icmptunnel) - Transparently tunnel your IP traffic through ICMP echo and reply packets.
 - [phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) - The password hash Argon2, winner of PHC
-- [mkeykernel](https://github.com/arjun024/mkeykernel) - a kernel that can read from keyboard and print on-screen
+- [mkeykernel](https://github.com/arjun024/mkeykernel) - A kernel that can read from keyboard and print on-screen
 - [crobots](https://github.com/tpoindex/crobots) - CROBOTS is a programming game, for programmers (or aspiring programmers.)
 - [nchan](https://github.com/slact/nchan) - Fast, horizontally scalable, multiprocess pub/sub queuing server and proxy for HTTP, long-polling, Websockets and EventSource (SSE), powered by Nginx.
 - [balde](https://github.com/balde/balde) - A microframework for C based on GLib and bad intentions.
+- [vmprof-python](https://github.com/vmprof/vmprof-python) - vmprof - a statistical program profiler
 - [movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler
 - [soletta](https://github.com/solettaproject/soletta) - Soletta Project is a framework for making IoT devices.  With Soletta Project's libraries developers can easily write software for devices that control actuators/sensors and communicate using standard technologies. It enables adding smartness even on the smallest edge devices.
 - [xhyve](https://github.com/mist64/xhyve) - xhyve, a lightweight OS X virtualization solution
@@ -119,7 +199,6 @@
 - [meinheld](https://github.com/mopemope/meinheld) - meinheld is a high performance asynchronous WSGI Web Server (based on picoev)
 - [uwsgi-realtime](https://github.com/unbit/uwsgi-realtime) - a uWSGI plugin exposing offloaded realtime features like SSE, socket.io and media streaming
 - [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
-- [scandir](https://github.com/benhoyt/scandir) - Better directory iterator and faster os.walk(), now in the Python 3.5 stdlib
 - [nginx-xmpp](https://github.com/robn/nginx-xmpp) - nginx with XMPP proxy support
 - [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
 - [uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
@@ -132,92 +211,129 @@
 - [nginx-log-zmq](https://github.com/alticelabs/nginx-log-zmq) - nginx module to log messages over ZeroMQ
 - [FUZIX](https://github.com/EtchedPixels/FUZIX) - FuzixOS: Because Small Is Beautiful
 - [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
-- [pg_shard](https://github.com/citusdata/pg_shard) - ATTENTION: pg_shard is deprecated. Its more powerful replacement is Citus: https://github.com/citusdata/citus
-- [qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored.
+- [pg_shard](https://github.com/citusdata/pg_shard) - ATTENTION: pg_shard is superseded by Citus, its more powerful replacement
+- [qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server
 - [hiredis-py](https://github.com/redis/hiredis-py) - Python wrapper for hiredis
 - [nginx-statsd](https://github.com/zebrafishlabs/nginx-statsd) - An nginx module for sending stats to statsd.
 - [dyad](https://github.com/rxi/dyad) - Asynchronous networking for C
 - [python-Levenshtein](https://github.com/miohtama/python-Levenshtein) - The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
-- [guava](https://github.com/StarfruitStack/guava) - Guava is a lightweight Python web framework written in C
+- [guava](https://github.com/RockLi/guava) - Guava is a lightweight Python web framework written in C
 - [micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [librsync](https://github.com/dropbox/librsync) - Dropbox modified version of librysnc
-- [dedrop](https://github.com/kholia/dedrop) - Looking inside the (Drop) box. Security Analysis of Dropbox. Updated WOOT '13 paper and other goodies.
 - [Avalon](https://github.com/GeorgeHahn/Avalon) - Second generation Bitcoin miner. GPLv3 and public domain.
 - [js0n](https://github.com/quartzjer/js0n) - Flexible Zero-Footprint JSON Parser in C
 - [psmouse-alps](https://github.com/emmanuelthome/psmouse-alps) - dkms module for psmouse
 - [twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
-- [bjoern](https://github.com/jonashaag/bjoern) - A screamingly fast Python WSGI server written in C.
+- [bjoern](https://github.com/jonashaag/bjoern) - A screamingly fast Python 2/3 WSGI server written in C.
+
+## C# # 
+
+- [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 
 ## C++ 
 
-- [fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
+- [faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
+- [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python  with strong GPU acceleration
+- [yacreader](https://github.com/YACReader/yacreader) - This repo contains the code of YACReader's desktop version.
+- [microbit-dal](https://github.com/lancaster-university/microbit-dal) - 
+- [mumble](https://github.com/mumble-voip/mumble) - Mumble VoIP Client/Server
+- [MultiMail](https://github.com/wmcbrine/MultiMail) - Offline reader for QWK, Blue Wave, etc. Multi-platform, curses-based.
+- [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
+- [Mycraft](https://github.com/Clapeysron/Mycraft) - A minecraft clone project based on modern OpenGL completed in ZJU computer graphics course.
+- [snowcrash](https://github.com/apiaryio/snowcrash) - API Blueprint Parser
+- [goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
+- [incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx) - Automatic PageSpeed optimization module for Nginx
+- [NEEDOS_ARDUINO](https://github.com/tuliopo/NEEDOS_ARDUINO) - This project is based in a simple scheduler created by me ported to ARDUINO.
+- [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
+- [pedis](https://github.com/fastio/pedis) - NoSQL data store using the SEASTAR framework, compatible with Redis
+- [solidity](https://github.com/ethereum/solidity) - Solidity, the Contract-Oriented Programming Language
+- [sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
+- [proxy](https://github.com/istio/proxy) - The Istio proxy components.
+- [vokoscreen](https://github.com/vkohaupt/vokoscreen) - vokoscreen is an easy to use screencast creator to record educational videos, live recordings of browser, installation, videoconferences, etc.
+- [DsTools](https://github.com/renatolond/DsTools) - Tools for ease of development for Nintendo DS
+- [uWebSockets](https://github.com/uNetworking/uWebSockets) - Tiny WebSockets
+- [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
+- [LaiNES](https://github.com/AndreaOrru/LaiNES) - Cycle-accurate NES emulator in ~1000 lines of code
+- [pyflame](https://github.com/uber/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python
+- [hackassemblereditor](https://github.com/setanta/hackassemblereditor) - GUI Editor for the Hack assembly language, written in C++ with Qt 5.
+- [Pyjion](https://github.com/Microsoft/Pyjion) - Pyjion - A JIT for Python based upon CoreCLR
+- [keystone](https://github.com/keystone-engine/keystone) - Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bindings
 - [uzebox](https://github.com/Uzebox/uzebox) - A retro-minimalist game console engine for the ATMega644
 - [bistro](https://github.com/facebook/bistro) - Bistro is a flexible distributed scheduler, a high-performance framework supporting multiple paradigms while retaining ease of configuration, management, and monitoring.
-- [pystack](https://github.com/eklitzke/pystack) - Examine Python stack traces on Linux using the magic of ptrace(2).
 - [osquery](https://github.com/facebook/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+- [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
 - [lepton](https://github.com/dropbox/lepton) - Lepton is a tool and file format for losslessly compressing JPEGs by an average of 22%.
 - [dsd](https://github.com/szechyjs/dsd) - Digital Speech Decoder
-- [aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, Mac OS X, Linux)
+- [360Controller](https://github.com/360Controller/360Controller) - TattieBogle Xbox 360 Driver (with improvements)
+- [aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [cryfs](https://github.com/cryfs/cryfs) - Cryptographic filesystem for the cloud
 - [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [USB_Host_Shield_2.0](https://github.com/felis/USB_Host_Shield_2.0) - Revision 2.0 of USB Host Library for Arduino.
 - [xboxdrv](https://github.com/xboxdrv/xboxdrv) - Xbox Gamepad Userspace Driver for Linux
 - [pushpin](https://github.com/fanout/pushpin) - Reverse proxy for realtime web services
-- [python-rapidjson](https://github.com/kenrobbins/python-rapidjson) - Python wrapper around rapidjson
+- [python-rapidjson](https://github.com/python-rapidjson/python-rapidjson) - Python wrapper around rapidjson
 - [swift](https://github.com/apple/swift) - The Swift Programming Language
-- [fastonosql](https://github.com/fastogt/fastonosql) - FastoNoSQL is a crossplatform Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB GUI management tool.
+- [fastonosql](https://github.com/fastogt/fastonosql) - FastoNoSQL is a crossplatform Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, UpscaleDB, ForestDB, Pika GUI management tool.
 - [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
-- [fnordmetric](https://github.com/paulasmuth/fnordmetric) - FnordMetric allows you collect and visualize timeseries data with SQL.
-- [pythran](https://github.com/serge-sans-paille/pythran) - a claimless python to c++ converter
-- [pastec](https://github.com/Visu4link/pastec) - Image recognition open source index and search engine
+- [zdb](https://github.com/asmuth/zdb) - Embeddable database library with columnar storage
+- [pastec](https://github.com/magwyz/pastec) - Image recognition open source index and search engine
 - [Another-World-Bytecode-Interpreter](https://github.com/fabiensanglard/Another-World-Bytecode-Interpreter) - "Fabother World" an interpreter for Another World (Out of this world).
 - [Bento4](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH library and tools
 - [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [lnav](https://github.com/tstack/lnav) - Log file navigator
-- [stunserver](https://github.com/jselbie/stunserver) - New version 1.2.  This is the source code to STUNTMAN - an open source STUN server and client code by john selbie.  Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489. The stun server code is part of a larger personal project involving P2P file sharing and NAT traversal. Version 1.2 compiles on Linux, MacOS, BSD, and Solaris. Additional features are in development.
+- [TinyBasicPlus](https://github.com/BleuLlama/TinyBasicPlus) - A C implementation of Tiny Basic, with a focus on support for Arduino
+- [stunserver](https://github.com/jselbie/stunserver) - Version 1.2. This is the source code to STUNTMAN - an open source STUN server and client code by john selbie.  Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489. Compiles on Linux, MacOS, BSD, Solaris, and Win32 with Cygwin. Windows binaries avaialble from www.stunprotocol.org.
 - [webrtc-everywhere](https://github.com/sarandogou/webrtc-everywhere) - WebRTC plugin for Internet Explorer and Safari
 - [server](https://github.com/MariaDB/server) - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.
 - [Zorkduino](https://github.com/rossumur/Zorkduino) - Play Zork on your TV with an Arduino.
 - [ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
 - [cocaine-core](https://github.com/cocaine/cocaine-core) - An open platform to build your own PaaS clouds.
 - [rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
-- [SecondReality](https://github.com/mtuomi/SecondReality) - Source code and data of Second Reality by Future Crew in 1993
 
 ## CSS 
 
+- [tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4
+- [dist-prog-book](https://github.com/heathermiller/dist-prog-book) - 
+- [progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
+- [cloudy_vision](https://github.com/goberoi/cloudy_vision) - Cloudy Vision is an open source tool to test the image labeling capabilities of different computer vision API vendors.
+- [django-cruds-adminlte](https://github.com/oscarmlage/django-cruds-adminlte) - django-cruds is simple drop-in django app that creates CRUD for faster prototyping
+- [littleosbook](https://github.com/littleosbook/littleosbook) - Source for the little book about OS development
+- [coredocs](https://github.com/core-api/coredocs) - An API Documentation generator.
+- [awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest
 - [abrash-black-book](https://github.com/jagregory/abrash-black-book) - Markdown source for Michael Abrash's Graphics Programming Black Book
-- [workflow](https://github.com/deis/workflow) - Deis Workflow, an open source Kubernetes PaaS.
+- [workflow](https://github.com/deis/workflow) - The open source PaaS for Kubernetes.
 - [hogwatch](https://github.com/akshayKMR/hogwatch) - find out what's hogging your internet connection.
-- [scooter](https://github.com/dropbox/scooter) - An SCSS framework & UI library for Dropbox Web.
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack
 - [starboard](https://github.com/heroku/starboard) - onboarding, offboarding, or crossboarding made easy
 - [karnaugh](https://github.com/joaorafaelm/karnaugh) - A Karnaught Map builder
 - [hamburgers](https://github.com/jonsuh/hamburgers) - Tasty CSS-animated Hamburgers
 - [paperless](https://github.com/danielquinn/paperless) - Scan, index, and archive all of your paper documents
 - [pev](https://github.com/AlexTatiyants/pev) - Postgres Explain Visualizer
-- [http2-explained](https://github.com/bagder/http2-explained) - http2 explained is a detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
+- [http2-explained](https://github.com/bagder/http2-explained) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
 - [photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
-- [django-jet](https://github.com/geex-arts/django-jet) - Modern template for Django admin interface with improved functionality
+- [django-markdownx](https://github.com/neutronX/django-markdownx) - Comprehensive Markdown plugin built for Django
 - [postgresguide.com](https://github.com/craigkerstiens/postgresguide.com) - 
+- [django-material](https://github.com/viewflow/django-material) - Material Design for Django
 - [Mokki-Editor](https://github.com/arryanggaputra/Mokki-Editor) - Mokki Editor is a lightweight HTML5 WYSIWYG / HTML Rich Text Edito
 - [12factor](https://github.com/heroku/12factor) - 
-- [fixmydjango](https://github.com/vintasoftware/fixmydjango) - http://fixmydjango.com shows common Django exceptions and how to fix them
-- [boletosimples-api](https://github.com/BoletoSimples/boletosimples-api) - Código fonte da documentação da API do Boleto Simples
+- [fixmydjango](https://github.com/fixmydjango/fixmydjango) - http://fixmydjango.com shows common Django exceptions and how to fix them
 - [restcookbook](https://github.com/restcookbook/restcookbook) - Jekyll cms site for restcookbook.com
 - [screencat](https://github.com/maxogden/screencat) - :cat2: webrtc screensharing electron app for mac os (Alpha)
+- [DataTables](https://github.com/DataTables/DataTables) - Tables plug-in for jQuery
 - [Jcrop](https://github.com/tapmodo/Jcrop) - Jcrop (official) - Image Cropping Plugin for jQuery
-- [django-flat-theme](https://github.com/elky/django-flat-theme) - A flat theme for Django admin interface. Modern, fresh, simple.
 - [json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 - [flakes](https://github.com/kumailht/flakes) - Flakes is an Admin Template Framework. A combination of CSS Libraries, JavaScript Libraries and Design files that help you build business tools very quickly.
 - [schema](https://github.com/danmalarkey/schema) - A light, lean, and responsive front-end UI framework. — Built with LESS.
 - [docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
 - [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) - Material design theme for Bootstrap 3 and 4
 - [flexiblegs-scss-plus](https://github.com/flexiblegs/flexiblegs-scss-plus) - Flexible Grid System Scss Plus
-- [solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
+- [picnic](https://github.com/franciscop/picnic) - :handbag: A beautiful CSS library to kickstart your projects
 - [simpsons-in-css](https://github.com/pattle/simpsons-in-css) - Simpsons characters in CSS
 - [bump](https://github.com/stevepeak/bump) - Bump it. Bootstrap sliding panels
 - [chin-up](https://github.com/ckcollab/chin-up) - Track your metrics (motivation, happiness, relationships) and find correlations in your behaviors
@@ -226,64 +342,186 @@
 - [gridforms](https://github.com/kumailht/gridforms) - Data entry can be beautiful
 - [flatdoc](https://github.com/rstacruz/flatdoc) - Build sites fast from Markdown
 - [almost-flat-ui](https://github.com/websymphony/almost-flat-ui) - Almost Flat UI Theme for Foundation Framework
+- [Flat-UI](https://github.com/designmodo/Flat-UI) - Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.
 - [blueprint-css](https://github.com/joshuaclayton/blueprint-css) - A CSS framework that aims to cut down on your CSS development time
+- [django-suit](https://github.com/darklow/django-suit) - Modern theme for Django admin interface
 - [ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
 
 ## Clojure 
 
-- [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
+- [pronoun.is](https://github.com/witch-house/pronoun.is) - Show people how to use pronouns!
+- [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
 
 ## CoffeeScript 
 
+- [cyclotron](https://github.com/ExpediaInceCommercePlatform/cyclotron) - A web platform for constructing dashboards.
 - [turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [butterfly](https://github.com/paradoxxxzero/butterfly) - A web terminal based on websocket and tornado
 - [marp](https://github.com/yhatt/marp) - Markdown presentation writer, powered by Electron.
-- [zxcvbn](https://github.com/dropbox/zxcvbn) - A realistic password strength estimator.
-- [galley](https://github.com/twitter-fabric/galley) - Orchestrator for local Docker containers
+- [zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation
+- [galley](https://github.com/google-fabric/galley) - Orchestrator for local Docker containers
 - [trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [beautiful-docs](https://github.com/beautiful-docs/beautiful-docs) - A beautiful way to read documentation
+- [payform](https://github.com/jondavidjohn/payform) - :credit_card: A library for building credit card forms, validating inputs, and formatting numbers.
 - [atom-django-templates](https://github.com/benjohnson/atom-django-templates) - Atom support for Django templates.
 - [taiga-front](https://github.com/taigaio/taiga-front) - Project management web application with scrum in mind! Built on top of Django and AngularJS (Front)
-- [cloudtunes](https://github.com/jkbrzt/cloudtunes) - Web-based music player for the cloud :cloud: :notes:
-- [autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
+- [cloudtunes](https://github.com/jakubroztocil/cloudtunes) - Web-based music player for the cloud :cloud: :notes:
+
+## Common Lisp 
+
+- [pgcharts](https://github.com/dimitri/pgcharts) - Turn your PostgreSQL queries into Charts
+
+## Dart 
+
+- [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
 
 ## Eagle 
 
-- [msxsdmapper](https://github.com/fbelavenuto/msxsdmapper) - Automatically exported from code.google.com/p/msxsdmapper
 - [Pomodoro](https://github.com/fakufaku/Pomodoro) - A custom built timer for the pomodoro technique to be more productive.
+
+## Elixir 
+
+- [perhap](https://github.com/Perhap/perhap) - Perhap is an purely functional event store and service framework inspired by domain driven design and reactive architectures.
+- [spacesuit](https://github.com/relistan/spacesuit) - API Gateway with URL remapping
+- [exchat](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React(redux)
+
+## Emacs Lisp 
+
+- [awesome-cs-education](https://github.com/zamansky/awesome-cs-education) - 
 
 ## Erlang 
 
+- [rooster](https://github.com/fbeline/rooster) - Erlang REST framework
+- [cowboy](https://github.com/ninenines/cowboy) - Small, fast, modern HTTP server for Erlang/OTP.
+- [webmachine](https://github.com/webmachine/webmachine) - A REST-based system for building web applications.
 - [vegur](https://github.com/heroku/vegur) - Vegur: HTTP Proxy Library
 - [logplex](https://github.com/heroku/logplex) - Heroku log router
 
+## FreeMarker 
+
+- [screenshots](https://github.com/mozilla-services/screenshots) - Firefox Screenshots: the best way to take screenshots on the web.
+
+## GDScript 
+
+- [ansiture](https://github.com/w84death/ansiture) - Adventure platformer using only text based (DOS ANSi) characters
+
 ## Go 
 
+- [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
+- [feeda](https://github.com/pengux/feeda) - Feeds (RSS2/Atom) aggregator as a CLI tool
+- [ghostferry](https://github.com/Shopify/ghostferry) - The swiss army knife of live data migrations
+- [bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and attacks.
+- [textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
+- [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing
+- [gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
+- [datacol](https://github.com/datacol-io/datacol) - Datacol provides Heroku-like workflow for deploying apps in your cloud account (AWS/GCP)
+- [komiser](https://github.com/mlabouardy/komiser) - AWS Environment Inspector 👮
+- [skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
+- [wsify](https://github.com/alash3al/wsify) - Just a tiny, simple and real-time self-hosted pub/sub messaging service
+- [authn-server](https://github.com/keratin/authn-server) - Authentication service that keeps you in control without forcing you to be an expert in web security.
+- [ladon](https://github.com/ory/ladon) - A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go.
+- [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network
+- [guard](https://github.com/jiajunhuang/guard) - A generic high performance circuit breaker & proxy server written in Go
+- [gobis](https://github.com/orange-cloudfoundry/gobis) - Gobis is a lightweight API Gateway written in go which can be used programmatically or as a standalone server.
+- [sandglass](https://github.com/celrenheit/sandglass) - Sandglass is a distributed, horizontally scalable, persistent, time sorted message queue.
+- [httplive](https://github.com/gencebay/httplive) - HTTP Request & Response Service, Mock HTTP
+- [jj](https://github.com/tidwall/jj) - JSON Stream Editor (command line utility)
+- [fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts
+- [go-django-hashers](https://github.com/meehow/go-django-hashers) - Go implementation of password hashers used in Django
+- [sift](https://github.com/svent/sift) - A fast and powerful alternative to grep
+- [shaas](https://github.com/heroku/shaas) - Shell as a Service: API to inspect and execute scripts in a server's environment via HTTP and WebSockets
+- [flagr](https://github.com/checkr/flagr) - Flagr is a feature flagging, A/B testing and dynamic configuration microservice
+- [fireworq](https://github.com/fireworq/fireworq) - Fireworq is a lightweight, high-performance, language-independent job queue system.
+- [loginsrv](https://github.com/tarent/loginsrv) - JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, ..
+- [automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
+- [edward](https://github.com/yext/edward) - A tool for managing local microservice instances
+- [direnv](https://github.com/direnv/direnv) - Unclutter your .profile
+- [pdfcpu](https://github.com/hhrutter/pdfcpu) - A PDF processor written in Go.
+- [primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
+- [skm](https://github.com/TimothyYe/skm) - A simple and powerful SSH keys manager
+- [pg2kafka](https://github.com/blendle/pg2kafka) - Ship changes in Postgres 🐘 to Kafka 📖
+- [slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
+- [request-baskets](https://github.com/darklynx/request-baskets) - HTTP requests collector to test webhooks, notifications, REST clients and more ...
+- [chronograf](https://github.com/influxdata/chronograf) - Open source monitoring and visualization UI for the TICK stack
+- [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
+- [kapacitor](https://github.com/influxdata/kapacitor) - Open source framework for processing, monitoring, and alerting on time series data
+- [fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
+- [ergo](https://github.com/cristianoliveira/ergo) - The management of multiple local services running on different ports made easy
+- [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing System
+- [ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
+- [jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
+- [pqstream](https://github.com/tmc/pqstream) - pqstream turns your postgres database into an event stream
+- [github-contrib](https://github.com/nikhita/github-contrib) - Generate a list of PRs and Issues you contributed across all repos in an org :rocket:
+- [scaleway-cli](https://github.com/scaleway/scaleway-cli) - :computer: Manage BareMetal Servers from Command Line (as easily as with Docker)
+- [certspotter](https://github.com/SSLMate/certspotter) - Certificate Transparency Log Monitor
+- [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
+- [instrumentedsql](https://github.com/ExpansiveWorlds/instrumentedsql) - A sql driver that will wrap any other driver and log/trace all its calls
+- [acra](https://github.com/cossacklabs/acra) - Acra database protection suite
+- [usql](https://github.com/xo/usql) - usql is a universal command-line interface for SQL databases
+- [httplab](https://github.com/gchaincl/httplab) - The interactive web server
+- [oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
+- [bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
+- [creeper](https://github.com/wspl/creeper) - :paw_prints: Creeper - The Next Generation Crawler Framework (Go)
+- [upspin](https://github.com/upspin/upspin) - Upspin: A framework for naming everyone's everything.
+- [awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
+- [Sia](https://github.com/NebulousLabs/Sia) - Blockchain-based marketplace for file storage
+- [termshare](https://github.com/progrium/termshare) - Quick and easy terminal sharing.
+- [pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
+- [beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
+- [pgdiff](https://github.com/joncrlsn/pgdiff) - Compares the PostgreSQL schema between two databases and generates SQL statements that can be run manually against the second database to make their schemas match.
+- [finch](https://github.com/emreler/finch) - Source code for https://usefinch.co
+- [buford](https://github.com/RobotsAndPencils/buford) - A push notification delivery engine for the new HTTP/2 APNS service.
+- [meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
+- [oklog](https://github.com/oklog/oklog) - A distributed and coördination-free log management system
+- [csvtk](https://github.com/shenwei356/csvtk) - A cross-platform, efficient and practical CSV/TSV toolkit in Golang
+- [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite.
+- [banshee](https://github.com/eleme/banshee) - Anomalies detection system for periodic metrics.
+- [tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go
+- [gitql](https://github.com/cloudson/gitql) - A git query language
+- [jid](https://github.com/simeji/jid) - json incremental digger
+- [ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
+- [pepper](https://github.com/genuinetools/pepper) - Named after Pepper Potts. Set all your GitHub repos master branches to be protected.
+- [dkron](https://github.com/victorcoder/dkron) - Dkron - Distributed, fault tolerant job scheduling system http://dkron.io
+- [bouncer](https://github.com/pjwerneck/bouncer) - Throttling, rate-limiting and synchronization for distributed applications.
+- [benthos](https://github.com/Jeffail/benthos) - A streaming swiss army knife written in Go.
+- [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
+- [sneaker](https://github.com/codahale/sneaker) - A tool for securely storing secrets on S3 using Amazon KMS.
+- [teleport](https://github.com/gravitational/teleport) - Modern SSH server for clusters and teams.
+- [vuls](https://github.com/future-architect/vuls) - Vulnerability scanner for Linux/FreeBSD, agentless, written in Go
+- [gojot](https://github.com/schollz/gojot) - A command-line journal that is distributed and encrypted, making it easy to jot notes :notebook:
+- [dex](https://github.com/coreos/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
+- [fwd](https://github.com/kintoandar/fwd) - 🚂 The little forwarder that could
+- [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
+- [logcool](https://github.com/wgliang/logcool) - A high performance and near real time log collector.
+- [vulcan](https://github.com/digitalocean/vulcan) - Vulcan extends Prometheus adding horizontal scalability and long-term storage
+- [open-lambda](https://github.com/open-lambda/open-lambda) - An open source serverless computing platform
+- [atlantis](https://github.com/ooyala/atlantis) - Open Source PaaS Built on Docker
+- [doorman](https://github.com/youtube/doorman) - Doorman: Global Distributed Client Side Rate Limiting.
 - [checkup](https://github.com/sourcegraph/checkup) - Distributed, lock-free, self-hosted health checks and status pages
 - [noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
-- [sabayon](https://github.com/dmathieu/sabayon) - Automated generation and renewal of ACME/Letsencrypt SSL certificates for Heroku apps.
+- [sabayon](https://github.com/dmathieu/sabayon) - DEPRECATED. DO NOT USE.
 - [boom](https://github.com/rakyll/boom) - HTTP(S) load generator, ApacheBench (ab) replacement, written in Go
 - [biscuit](https://github.com/dcoker/biscuit) - Biscuit is a multi-region HA key-value store for your AWS infrastructure secrets.
 - [shipbuilder](https://github.com/jaytaylor/shipbuilder) - The Open-source self-hosted Platform-as-a-Service written in Go
 - [gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git
-- [integram](https://github.com/Requilence/integram) - Integrate Telegram into your workflow – https://integram.org
+- [integram](https://github.com/requilence/integram) - Integrate Telegram into your workflow – https://integram.org
 - [gnatsd](https://github.com/nats-io/gnatsd) - High-Performance server for NATS, the cloud native messaging system.
-- [minio](https://github.com/minio/minio) - Minio is an object storage server compatible with Amazon S3 and licensed under Apache 2.0 License
+- [minio](https://github.com/minio/minio) - Minio is an open source object storage server compatible with Amazon S3 APIs
 - [snap](https://github.com/intelsdi-x/snap) - The open telemetry framework
-- [lgtm](https://github.com/lgtmco/lgtm) - LGTM is a simple pull request approval system
-- [unik](https://github.com/emc-advanced-dev/unik) - The Unikernel Compilation and Deployment Platform
+- [lgtm](https://github.com/lgtmco/lgtm) - LGTM is a simple pull request approval system [ARCHIVE]
+- [unik](https://github.com/solo-io/unik) - The Unikernel Compilation and Deployment Platform
 - [torus](https://github.com/coreos/torus) - Torus Distributed Storage
 - [httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
-- [simplehttp2server](https://github.com/GoogleChrome/simplehttp2server) - A simple HTTP/2 server for development
-- [GoAws](https://github.com/p4tin/GoAws) - AWS (SQS/SNS) Clone for Development testing
-- [hydra](https://github.com/ory-am/hydra) - Run your very own api-only cloud native OAuth2 and OpenID Connect provider within minutes. Integrates with existing authentication mechanisms. Written in Google Go.
-- [toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A proxy to simulate network and system conditions
+- [simplehttp2server](https://github.com/GoogleChromeLabs/simplehttp2server) - A simple HTTP/2 server for development
+- [goaws](https://github.com/p4tin/goaws) - AWS (SQS/SNS) Clone for Development testing
+- [hydra](https://github.com/ory/hydra) - OAuth2 server with OpenID Connect - cloud native, security-first, open source API security for your infrastructure. Written in Go. SDKs for any language.
+- [toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [sudolikeaboss](https://github.com/ravenac95/sudolikeaboss) - Get 1password access from iterm2
-- [rack](https://github.com/convox/rack) - Open-source PaaS on AWS
+- [rack](https://github.com/convox/rack) - Open-source PaaS. Built entirely on AWS cloud services for maximum privacy and minimum upkeep.
 - [pginsight](https://github.com/lafikl/pginsight) - CLI tool to easily dig deep inside your Postgresql database.
-- [concourse](https://github.com/concourse/concourse) - BOSH Release
 - [situation-room](https://github.com/mojotech/situation-room) - Like pingdom, but with more cachet
-- [cockroach](https://github.com/cockroachdb/cockroach) - A Scalable, Survivable, Strongly-Consistent SQL Database
+- [cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native SQL database.
 - [log-shuttle](https://github.com/heroku/log-shuttle) - HTTP log transport.
 - [silk](https://github.com/matryer/silk) - Markdown based document-driven RESTful API testing.
 - [seesaw](https://github.com/google/seesaw) - Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
@@ -292,31 +530,32 @@
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [gizmo](https://github.com/NYTimes/gizmo) - A Microservice Toolkit from The New York Times
 - [git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
-- [sup](https://github.com/pressly/sup) - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers
-- [nanobox](https://github.com/nanobox-io/nanobox) - Local Development Done Right
+- [sup](https://github.com/pressly/sup) - Super simple deployment tool - think of it like 'make' for a network of servers
+- [nanobox](https://github.com/nanobox-io/nanobox) - The ideal platform for developers
 - [mist](https://github.com/nanopack/mist) - A distributed, tag-based pub-sub service for modern web applications and container-driven cloud.
 - [butter](https://github.com/nanopack/butter) - A small, git-based deployment service with pluggable authentication and deployment strategies.
-- [facette](https://github.com/facette/facette) - Time series data visualization and graphing software
+- [facette](https://github.com/facette/facette) - Time series data visualization software
 - [yoke](https://github.com/nanopack/yoke) - Postgres high-availability cluster with auto-failover and automated cluster recovery.
+- [sops](https://github.com/mozilla/sops) - Secrets management stinks, use some sops!
 - [xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 - [clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers
-- [fabio](https://github.com/eBay/fabio) - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul.
+- [fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
 - [devd](https://github.com/cortesi/devd) - A local webserver for developers
-- [traefik](https://github.com/containous/traefik) - Træfɪk, a modern reverse proxy
+- [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy
 - [imohash](https://github.com/kalafut/imohash) - Fast hashing for large files
 - [rtop](https://github.com/rapidloop/rtop) - rtop is an interactive, remote system monitoring tool based on SSH
-- [consul](https://github.com/hashicorp/consul) - Consul is a tool for service discovery, monitoring and configuration.
+- [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [localtunnel](https://github.com/progrium/localtunnel) - Expose localhost servers to the Internet
-- [otto](https://github.com/hashicorp/otto) - Development and deployment made easy.
 - [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
+- [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [k8s-http-router](https://github.com/eldarion-gondor/k8s-http-router) - HTTP router for Kubernetes
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [empire](https://github.com/remind101/empire) - A PaaS built on top of Amazon EC2 Container Service (ECS)
 - [pester](https://github.com/sethgrid/pester) - Go (golang) http calls with retries and backoff
-- [rkt](https://github.com/coreos/rkt) - rkt is an App Container runtime for Linux
-- [vault](https://github.com/hashicorp/vault) - A tool for managing secrets.
-- [git-lfs](https://github.com/github/git-lfs) - Git extension for versioning large files
+- [rkt](https://github.com/rkt/rkt) - rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
+- [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
+- [git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [logxi](https://github.com/mgutz/logxi) - A 12-factor app logger built for performance and happy development
 - [temaki](https://github.com/rochacon/temaki) - Disposable test environments for 12factor applications using Docker.
 - [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
@@ -326,22 +565,21 @@
 - [gorouter](https://github.com/cloudfoundry/gorouter) - CF Router
 - [go](https://github.com/golang/go) - The Go programming language
 - [httpmock](https://github.com/jarcoal/httpmock) - HTTP mocking for Golang
-- [aptly](https://github.com/smira/aptly) - aptly - Debian repository management tool
+- [aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
 - [cgrates](https://github.com/cgrates/cgrates) - Real-time Charging System for Telecom & ISP environments
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [vitess](https://github.com/youtube/vitess) - vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
-- [packer](https://github.com/mitchellh/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
+- [packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
 - [tenyks](https://github.com/kyleterry/tenyks) - The Tenyks IRC bot.
 - [pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
 - [s3gof3r](https://github.com/rlmcpherson/s3gof3r) - Fast, concurrent, streaming access to Amazon S3, including gof3r, a CLI. http://godoc.org/github.com/rlmcpherson/s3gof3r
 - [flynn](https://github.com/flynn/flynn) - A next generation open source platform as a service (PaaS)
-- [gogs](https://github.com/gogits/gogs) - Gogs (Go Git Service) is a painless self-hosted Git service.
+- [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service.
 - [beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [grafana](https://github.com/grafana/grafana) - Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB
+- [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 - [serf](https://github.com/hashicorp/serf) - Service orchestration and management tool.
-- [goread](https://github.com/mjibson/goread) - RSS reader in go on app engine
 - [tsuru](https://github.com/tsuru/tsuru) - Open source, extensible and Docker-based Platform as a Service (PaaS).
 
 ## HCL 
@@ -351,69 +589,97 @@
 
 ## HTML 
 
-- [spaCy](https://github.com/spacy-io/spaCy) - Industrial-strength Natural Language Processing with Python and Cython
-- [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit
+- [et-book](https://github.com/edwardtufte/et-book) - A webfont of the typeface used in Edward Tufte’s books.
+- [tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
+- [circuit-classics](https://github.com/starsimpson/circuit-classics) - 
+- [openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+- [PythonEditor](https://github.com/bbcmicrobit/PythonEditor) - A MicroPython editor for the BBC micro:bit that works with browsers.
+- [webauthn](https://github.com/w3c/webauthn) - Web Authentication WG: https://www.w3.org/Webauthn       Editors' Draft:
+- [mkdocs-bootstra386](https://github.com/hed854/mkdocs-bootstra386) - Adaptation of bootstra.386 theme for Mkdocs
+- [webdash](https://github.com/jadjoubran/webdash) - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
+- [pyroma](https://github.com/regebro/pyroma) - Rate your Python packages package friendliness
+- [learn-to-send-email-via-google-script-html-no-server](https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server) - :email: An Example of using an HTML form (e.g: "Contact Us" on a website) to send Email without a Backend Server (using a Google Script)
+- [goose3](https://github.com/goose3/goose3) - A Python 3 compatible version of goose http://goose3.readthedocs.io/en/latest/index.html
+- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+- [design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
+- [blockchain-demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts.
+- [bootflat.github.io](https://github.com/bootflat/bootflat.github.io) - BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework. It provides a faster, easier and less repetitive way for web developers to create elegant web apps.
+- [steroidesign](https://github.com/sruda/steroidesign) - Themes based on the biggest StartUps (buttons, color palette, components, etc.) ready to use in your own projects.
+- [python-api-checklist](https://github.com/vintasoftware/python-api-checklist) - Useful checklist for building good Python library APIs, based on "How to make a good library API" PyCon 2017 talk: https://www.youtube.com/watch?v=4mkFfce46zE
+- [correios.postmon.com.br](https://github.com/PostmonAPI/correios.postmon.com.br) - 
+- [Flaskex](https://github.com/anfederico/Flaskex) - Simple flask example for quick prototypes and small applications
+- [solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
+- [mountebank](https://github.com/bbyars/mountebank) - Over the wire test doubles
+- [django-apps-checklist](https://github.com/vintasoftware/django-apps-checklist) - Useful checklist for build great Django apps. Feel free to contribute!
+- [spectacle](https://github.com/sourcey/spectacle) - Beautiful static documentation generator for OpenAPI/Swagger 2.0
+- [django-webpack-heroku-example](https://github.com/SamSamskies/django-webpack-heroku-example) - Example app using Django, Webpack, and React
+- [minix86](https://github.com/xem/minix86) - x86 (MS-DOS) documentation, disassembler and emulator - WIP
+- [drf-autodocs](https://github.com/iMakedonsky/drf-autodocs) - Ultimately automated DRF documentation rendering
+- [illacceptanything](https://github.com/illacceptanything/illacceptanything) - The project where literally anything* goes. See also https://github.com/illacceptanything/illacceptanything.github.io
+- [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App
+- [timtec](https://github.com/hacklabr/timtec) - MOOC platform built with Django and Angular to deliver and manage courses, classes and student activities
+- [scrapely](https://github.com/scrapy/scrapely) - A pure-python HTML screen-scraping library
+- [socialmedia-leak](https://github.com/RobinLinus/socialmedia-leak) - A demo of cross origin login detection for most major web platforms
+- [fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
+- [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [postmon](https://github.com/PostmonAPI/postmon) - Uma API para consulta de informações relacionadas a endereçamento e entrega no Brasil.
-- [pytube](https://github.com/nficano/pytube) - A Python library for downloading YouTube videos
 - [pypub](https://github.com/wcember/pypub) - Python library to programatically create epub files
+- [guia-do-trabalho-remoto](https://github.com/nomadsonrails/guia-do-trabalho-remoto) - :airplane: Conjunto de informações, experiências e burocracias para poder trabalhar remotamente para empresas do mundo todo
 - [logomono](https://github.com/andyfitz/logomono) - Bare-bones, single color, SVG logos
-- [hjson](https://github.com/laktak/hjson) - Hjson, the Human JSON
+- [hjson](https://github.com/hjson/hjson) - Hjson, a user interface for JSON
 - [awesome-cpus](https://github.com/larsbrinkhoff/awesome-cpus) - All CPU and MCU documentation in one place
 - [googlegroupexporter](https://github.com/henriquebastos/googlegroupexporter) - GoogleGroup Exporter - Unlock your mailing list
-- [mailtrain](https://github.com/andris9/mailtrain) - Self hosted newsletter app
-- [Transcrypt](https://github.com/JdeH/Transcrypt) - Lean and mean Python to JavaScript compiler with multiple inheritance, sourcemaps and selective operator overloading.
 - [TheJavaScriptEncyclopedia](https://github.com/douglascrockford/TheJavaScriptEncyclopedia) - The JavaScript Encyclopedia
 - [gentelella](https://github.com/puikinsh/gentelella) - Free Bootstrap 3 Admin Template
 - [queues.io](https://github.com/lukaszx0/queues.io) - Queues, all of them.
 - [chosen](https://github.com/harvesthq/chosen) - Chosen is a library for making long, unwieldy select boxes more friendly.
 - [magicmethods](https://github.com/RafeKettler/magicmethods) - Guide to Python's magic methods
-- [pure](https://github.com/yahoo/pure) - A set of small, responsive CSS modules that you can use in every web project.
+- [pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [wamp-proto](https://github.com/wamp-proto/wamp-proto) - WAMP Protocol Spec
 - [talks](https://github.com/berinhard/talks) - 
 - [techradar](https://github.com/bdargan/techradar) - Build your own Technology Radar. Inspired by ThoughtWorks Technology Radar.
 - [SdFat](https://github.com/greiman/SdFat) - Arduino FAT16/FAT32 Library
+- [twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
+- [otto](https://github.com/hashicorp/otto) - Development and deployment made easy.
 - [build-a-saas-app-with-flask](https://github.com/nickjj/build-a-saas-app-with-flask) - Learn how to build a production ready web app with Flask and Docker.
 - [djangobook-Updated-to-1.8](https://github.com/big-nige/djangobook-Updated-to-1.8) - Django Book, revised and updated for Django 1.8LTS
 - [gentelella](https://github.com/jonathansp/gentelella) - admin template
-- [UpUp](https://github.com/TalAter/UpUp) - :airplane: Easily create sites that work offline as well as online
-- [fullstackpython.com](https://github.com/makaimc/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
+- [fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
 - [distsysbook](https://github.com/mixu/distsysbook) - The book Distributed systems: for fun and profit
 - [x-gif](https://github.com/geelen/x-gif) - A custom element for flexible GIF playback
 - [transactional-email-templates](https://github.com/mailgun/transactional-email-templates) - Responsive transactional HTML email templates
-- [py4fi](https://github.com/yhilpisch/py4fi) - Python for Finance (O'Reilly)
 - [edge](https://github.com/arocks/edge) - A Django project skeleton that is modern and cutting edge.
 - [moya](https://github.com/moyaproject/moya) - Web development platform
 - [ariabones](https://github.com/iandevlin/ariabones) - Simplifying WAI-ARIA
-- [tinderbox](https://github.com/crockpotveggies/tinderbox) - Automate Tinder swiping and introductions with Eigenfaces and StanfordNLP.
+- [tinderbox](https://github.com/crockpotveggies/tinderbox) - Automate Tinder swiping and introductions with Eigenfaces and StanfordNLP. NOTE: support for this project has been sunset, and the original author has since directed efforts towards Bernie AI.
 - [webrtc-ips](https://github.com/diafygi/webrtc-ips) - Demo: https://diafygi.github.io/webrtc-ips/
 - [formatjs-site](https://github.com/yahoo/formatjs-site) - Documentation for client/server internationalization in JavaScript.
 - [django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
 - [py-must-watch](https://github.com/s16h/py-must-watch) - Must-watch videos about Python
 - [eatiht](https://github.com/rodricios/eatiht) - An exercise in unsupervised machine learning: Extract Article's Text in HTml documents.
 - [voice-elements](https://github.com/zenorocha/voice-elements) - :speaker: Web Component wrapper to the Web Speech API, that allows you to do voice recognition and speech synthesis using Polymer
+- [dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates for Bootstrap 📊✨
 - [do-install-button](https://github.com/seven1m/do-install-button) - experimental installer for getting apps running quickly on DigitalOcean
-- [picnic](https://github.com/picnicss/picnic) - :handbag: A beautiful CSS library to kickstart your projects
-- [jquery-focuspoint](https://github.com/jonom/jquery-focuspoint) - jQuery plugin for 'responsive cropping'. Dynamically crop images to fill available space without cutting out the image's subject. Great for full-screen images.
-- [angular-dragdrop](https://github.com/codef0rmer/angular-dragdrop) - Implementing jQueryUI Drag and Drop functionality in AngularJS (with Animation) is easier than ever
+- [1pass](https://github.com/georgebrock/1pass) - A command line interface for 1Password
+- [angular-xeditable](https://github.com/vitalets/angular-xeditable) - Edit in place for AngularJS
 - [country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [djamin](https://github.com/hersonls/djamin) - A new style for Django admin
 - [textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [scrumblr](https://github.com/aliasaria/scrumblr) - Collaborative Online Scrum Tool Using Websockets, Node.js, jQuery, and CSS3
 - [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A vintage 1980s DOS inspired Twitter Bootstrap theme
-- [SysAdminBoard](https://github.com/flakshack/SysAdminBoard) - Collection of sysadmin gadgets for the Panic Statusboard iPad app.
-- [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - AdminLTE - Free Premium Admin control Panel Theme That Is Based On Bootstrap 3.x
-- [resrc](https://github.com/vhf/resrc) - Source code of reSRC.io
+- [SysAdminBoard](https://github.com/flakshack/SysAdminBoard) - Simple dashboard system for sysadmins with modules for VMware, SNMP, REST API and more
+- [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x
+- [resrc](https://github.com/vhf/resrc) - 
 - [sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
+- [sicp-kindle](https://github.com/twcamper/sicp-kindle) - Structure and Interpretation of Computer Programs, 2nd Edition, by  Harold Abelson and Gerald Jay Sussman with Julie Sussman, The MIT Press.formatted and built for mobi/kindle
 - [python-readability](https://github.com/buriy/python-readability) - fast python port of arc90's readability tool, updated to match latest readability.js!
 - [youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
-- [coderev](https://github.com/ymattw/coderev) - A toolkit generates side-by-side html pages for code review
 - [python-goose](https://github.com/grangier/python-goose) - Html Content / Article Extractor, web scrapping lib in Python
 - [markdownplease.com](https://github.com/kennethreitz/markdownplease.com) - Give it a URL, it'll give you Markdown. Powered by Readability.
-- [grip](https://github.com/joeyespo/grip) - Preview GitHub Markdown files like Readme locally before committing them.
 - [topcoat](https://github.com/topcoat/topcoat) - CSS for clean and fast web apps
 - [singlepageappbook](https://github.com/mixu/singlepageappbook) - Content and site generator for Single page apps in depth (my book on single page applications)
-- [django-suit](https://github.com/darklow/django-suit) - Modern theme for Django admin interface
 - [django-admin-bootstrapped](https://github.com/django-admin-bootstrapped/django-admin-bootstrapped) - A Django admin theme using Twitter Bootstrap. It doesn't need any kind of modification on your side, just add it to the installed apps.
+- [django-fiber](https://github.com/django-fiber/django-fiber) - Django Fiber - a simple, user-friendly CMS for all your Django projects
 
 ## Handlebars 
 
@@ -421,23 +687,39 @@
 
 ## Haskell 
 
-- [github-backup](https://github.com/joeyh/github-backup) - backs up everything github knows about a repository, to the repository
+- [luna](https://github.com/luna/luna) - Hybrid textual and visual functional programming.
 - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
-- [postgrest](https://github.com/begriffs/postgrest) - REST API for any Postgres database
+- [postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [webcloud](https://github.com/mxswd/webcloud) - Turn an optparse-applicative program into a CGI program!
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 ## Java 
 
+- [ksql](https://github.com/confluentinc/ksql) - KSQL - the Streaming SQL Engine for Apache Kafka
+- [bistro](https://github.com/asavinov/bistro) - A general-purpose data analysis engine radically changing the way batch and stream data is processed
+- [gitpitch](https://github.com/gitpitch/gitpitch) - The Markdown Presentation Service For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.
+- [strongbox](https://github.com/schibsted/strongbox) - A secret manager for AWS
+- [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
+- [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
+- [kairosdb](https://github.com/kairosdb/kairosdb) - Fast scalable time series database
+- [druid](https://github.com/druid-io/druid) - Column oriented distributed data store ideal for powering interactive applications
+- [heroic](https://github.com/spotify/heroic) - The Heroic Time Series Database
+- [conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine - https://netflix.github.io/conductor/
+- [egads](https://github.com/yahoo/egads) - Extendible Generic Anomaly Detection System
+- [syncany](https://github.com/syncany/syncany) - Syncany is a cloud storage and filesharing application with a focus on security and abstraction of storage.
+- [pycode-minecraft](https://github.com/r1chardj0n3s/pycode-minecraft) - Python in Minecraft
+- [apiman](https://github.com/apiman/apiman) - API Management
+- [ice](https://github.com/Teevity/ice) - AWS Usage Tool
+- [incubator-pulsar](https://github.com/apache/incubator-pulsar) - Pulsar - distributed pub-sub messaging system
 - [cmb](https://github.com/Comcast/cmb) - A highly available, horizontally scalable queuing and notification service compatible with AWS SQS and SNS
 - [airpal](https://github.com/airbnb/airpal) - Web UI for PrestoDB.
 - [presto](https://github.com/prestodb/presto) - Distributed SQL query engine for big data
-- [dbeaver](https://github.com/serge-rider/dbeaver) - Free universal database manager and SQL client
+- [dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client
 - [stagemonitor](https://github.com/stagemonitor/stagemonitor) - an open source solution to application performance monitoring for java server applications
 - [swagger2markup](https://github.com/Swagger2Markup/swagger2markup) - A Swagger to AsciiDoc or Markdown converter to simplify the generation of an up-to-date RESTful API documentation by combining documentation that’s been hand-written with auto-generated API documentation.
-- [EnvFile](https://github.com/Ashald/EnvFile) - Env File is a plugin for PyCharm that allows you to set environment variables from files for Python-based run configurations
+- [EnvFile](https://github.com/Ashald/EnvFile) - EnvFile 2.1 is a plugin for JetBrains IDEs that allows you to set environment variables for your run configurations from one or multiple files.
+- [gitstar-ranking](https://github.com/k0kubun/gitstar-ranking) - GitHub star ranking for users, organizations and repositories
 - [zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
-- [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 - [j2objc](https://github.com/google/j2objc) - A Java to iOS Objective-C translation tool and runtime.
 - [eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
 - [KeyBox](https://github.com/skavanagh/KeyBox) - KeyBox is a web-based SSH console that centrally manages administrative access to systems. Web-based administration is combined with management and distribution of user's public SSH keys.
@@ -446,40 +728,127 @@
 
 ## JavaScript 
 
+- [livepython](https://github.com/agermanidis/livepython) - Visually trace Python code in real-time.
+- [PyPlay](https://github.com/ryanpcmcquen/PyPlay) - An offline Python 3 REPL for the web.
+- [tui.calendar](https://github.com/nhnent/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
+- [Js2Py](https://github.com/PiotrDabkowski/Js2Py) - JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python🚀 Try it online:
+- [crudlfap](https://github.com/yourlabs/crudlfap) - Material Design DRY Django Creates Reads Updates Deletes Lists Forms Actions + views
+- [text2mindmap](https://github.com/tobloef/text2mindmap) - Online tool for making mindmaps by writing indented lists
+- [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local domains
+- [pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
+- [Marker](https://github.com/fabiocolacio/Marker) - 🖊 A gtk3 markdown editor
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Algorithms study materials, behavioral content and tips for rocking your coding interview
+- [cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
+- [MailDev](https://github.com/djfarrelly/MailDev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
+- [metrics-graphics](https://github.com/metricsgraphics/metrics-graphics) - A library optimized for concise and principled data graphics and layouts.
+- [tui.editor](https://github.com/nhnent/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+- [showdown](https://github.com/showdownjs/showdown) - A Markdown to HTML converter written in Javascript
+- [carbon](https://github.com/dawnlabs/carbon) - 🎨 Create and share beautiful images of your source code
+- [Booktype](https://github.com/booktype/Booktype) - Booktype is a free, open source platform that produces beautiful, engaging books formatted for print, Amazon, iBooks and almost any ereader within minutes.
+- [refined-github](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features
+- [motepair](https://github.com/motepair/motepair) - Remote pair programming tool for Atom. Lag free!
+- [thelounge](https://github.com/thelounge/thelounge) - 💬 The Lounge — Modern self-hosted web IRC client
+- [Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist) - 🌈  A Curated List of Checklists ✔︎✔︎
+- [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
+- [pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies
+- [Docusaurus](https://github.com/facebook/Docusaurus) - Easy to maintain open source documentation websites.
+- [distributed](https://github.com/funretro/distributed) - :thumbsup: Easy to use and beautiful restrospective tool
+- [techan.js](https://github.com/andredumas/techan.js) - A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3.
+- [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [nylas-perftools](https://github.com/nylas/nylas-perftools) - Distributed profiling on the cheap
+- [super-productivity](https://github.com/johannesjo/super-productivity) - To Do List / Time Tracker with Jira Integration. Makes you super productive!
+- [muuri](https://github.com/haltu/muuri) - Responsive, sortable, filterable and draggable grid layouts
+- [django-formset-js](https://github.com/pretix/django-formset-js) - Fork of the identically named pypi package but adding support for ordering formsets
+- [awesome-byo](https://github.com/cristianoliveira/awesome-byo) - A curated list of open content for "building your own sth". 🛠
+- [libretaxi](https://github.com/ro31337/libretaxi) - LibreTaxi, free and open source Uber/Lyft alternative to connect passengers and drivers.
+- [falcon-sql-client](https://github.com/plotly/falcon-sql-client) - Free, open-source SQL client for Windows and Mac 🦅
+- [datasette](https://github.com/simonw/datasette) - Instantly publish structured data to the internet with a JSON API
+- [kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology
+- [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
+- [zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories
+- [writing](https://github.com/josephernest/writing) - Writing is a lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported).
+- [jslogo](https://github.com/inexorabletash/jslogo) - Logo in JavaScript
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Have your own Slack like online chat, built with Meteor.
+- [dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Framework
+- [heroku-accounts](https://github.com/heroku/heroku-accounts) - Helps use multiple accounts on Heroku.
+- [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [AREPL](https://github.com/Almenon/AREPL) - python scratchpad with real-time code evaluation
+- [bootstrap-tldr](https://github.com/anvoz/bootstrap-tldr) - All Bootstrap's components in one page. Briefly presented with their own CSS selectors.
+- [PixelKit-Bootstrap-UI-Kits](https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits) - Free UI Kits built on Bootstrap for any developer that wants to build a cool looking and functional website. Enjoy!
+- [code2flow](https://github.com/scottrogowski/code2flow) - Turn your Python and Javascript code into DOT flowcharts
+- [etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+- [nteract](https://github.com/nteract/nteract) - 📘 Desktop, Jupyter Extension, libraries, and more
+- [amplitudejs](https://github.com/521dimensions/amplitudejs) - Amplitude.js is the HTML5 Audio Player for the modern era. No dependencies required.
+- [heroku-pg-extras](https://github.com/heroku/heroku-pg-extras) - A heroku plugin for awesome pg:* commands that are also great and fun and super.
+- [substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
+- [insomnia](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
+- [django-rest-raml](https://github.com/tomchristie/django-rest-raml) - RAML Documentation Generator for Django REST framework
+- [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
+- [django-urltags](https://github.com/callowayproject/django-urltags) - A Django application that provides URL modification tags
+- [web](https://github.com/standardnotes/web) - A safe and private place for your life's work. This is the Standard Notes web app. | https://standardnotes.org
+- [signalhub](https://github.com/mafintosh/signalhub) - Simple signalling server that can be used to coordinate handshaking with webrtc or other fun stuff.
+- [graphite-web](https://github.com/graphite-project/graphite-web) - A highly scalable real-time graphing system
+- [cerebro](https://github.com/KELiON/cerebro) - Open-source productivity booster with a brain
+- [Abricotine](https://github.com/brrd/Abricotine) - Markdown editor with inline preview
+- [S3](https://github.com/scality/S3) - Zenko CloudServer, an open-source Node.js implementation of a server handling the Amazon S3 protocol
+- [django_markdown](https://github.com/klen/django_markdown) - Django markdown support and wysiwig
+- [lambda-scraper-queue](https://github.com/jimpick/lambda-scraper-queue) - Demo project showing how to create a simple web scraping service using AWS Lambda and API Gateway
+- [autoNumeric](https://github.com/autoNumeric/autoNumeric) - autoNumeric is a standalone library that provides live as-you-type formatting for international numbers and currencies.
+- [mdmath](https://github.com/goessner/mdmath) - LaTeX Math for Markdown inside of Visual Studio Code.
+- [amazon-cognito-identity-js](https://github.com/amazon-archives/amazon-cognito-identity-js) - Amazon Cognito Identity SDK for JavaScript
+- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
+- [kong-dashboard](https://github.com/PGBI/kong-dashboard) - Dashboard for managing Kong gateway
+- [deform](https://github.com/Pylons/deform) - A Python HTML form library.
+- [drawio](https://github.com/jgraph/drawio) - Source to www.draw.io
+- [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for 62 Languages 📖🎉🖥
+- [rql](https://github.com/persvr/rql) - Resource Query Language
+- [book](https://github.com/redis-essentials/book) - Harness the power of Redis to integrate and manage your projects efficiently
+- [git-webui](https://github.com/alberthier/git-webui) - A standalone local web based user interface for git repositories
+- [Inputmask](https://github.com/RobinHerbots/Inputmask) - Input Mask plugin
+- [jQuery-Mask-Plugin](https://github.com/igorescobar/jQuery-Mask-Plugin) - A jQuery Plugin to make masks on form fields and HTML elements.
+- [l20n.js](https://github.com/l20n/l20n.js) - A next-gen localization framework from Mozilla.
+- [django-markdown-app](https://github.com/sv0/django-markdown-app) - Django markdown support and wysiwyg.
+- [django-nested-inline](https://github.com/s-block/django-nested-inline) - Nested inline support for Django admin
+- [guia-de-desenvolvimento-tecnico](https://github.com/ThoughtWorksInc/guia-de-desenvolvimento-tecnico) - 
+- [regl-cnn](https://github.com/Erkaman/regl-cnn) - Digit recognition with Convolutional Neural Networks in WebGL
+- [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
+- [sqlectron-term](https://github.com/sqlectron/sqlectron-term) - A simple and lightweight SQL client terminal-based interface with cross database and platform support
 - [apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
-- [samples](https://github.com/webrtc/samples) - WebRTC demos and samples
+- [samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
+- [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [time-elements](https://github.com/github/time-elements) - Web component extensions to the standard &lt;time&gt; element.
 - [Pedant](https://github.com/Decagon/Pedant) - Find and fix bothersome punctuation and formatting errors in English texts.
 - [collaborative-code-conference](https://github.com/crcastle/collaborative-code-conference) - Setup a collaborative coding session with one click -- audio, video, shared coding
 - [resumable.js](https://github.com/23/resumable.js) - A JavaScript library for providing multiple simultaneous, stable, fault-tolerant and resumable/restartable uploads via the HTML5 File API.
+- [awesome-berlin](https://github.com/marlonbernardes/awesome-berlin) - 🇩🇪 A guide aiming to help newcomers to have a successful start in Berlin!
 - [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors.
 - [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [lambci](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
 - [github-go-to-definition](https://github.com/capablemonkey/github-go-to-definition) - 'Go to definition' for GitHub pull request diffs and file views
-- [megadraft](https://github.com/globocom/megadraft) - Megadraft is a Rich Text editor built on top of Facebook's draft.js featuring a nice default base of components and extensibility
+- [megadraft](https://github.com/globocom/megadraft) - Megadraft is a Rich Text editor built on top of Facebook's Draft.JS featuring a nice default base of components and extensibility
 - [kanban](https://github.com/leanlabsio/kanban) - Lean project management for GitLab
 - [umlaut](https://github.com/Kozea/umlaut) - Because a picture is worth a thousand words
 - [teleirc](https://github.com/FruitieX/teleirc) - A simple Telegram ↔ IRC gateway.
 - [parker](https://github.com/katiefenn/parker) - Stylesheet analysis tool.
-- [json5](https://github.com/json5/json5) - JSON for the ES5 era. (Not an official successor to JSON.)
-- [heroku-config](https://github.com/xavdid/heroku-config) - Push and pull heroku environment variables to your local env
+- [json5](https://github.com/json5/json5) - JSON for humans
+- [heroku-config](https://github.com/xavdid/heroku-config) - [Project] Push and pull heroku environment variables to your local env
 - [blueocean-plugin](https://github.com/jenkinsci/blueocean-plugin) - Blue Ocean is a reboot of the Jenkins CI/CD User Experience
-- [django-prettyjson](https://github.com/kevinmickey/django-prettyjson) - Enables pretty JSON viewer in Django forms, admin, or templates
-- [fine-uploader](https://github.com/FineUploader/fine-uploader) - Multiple file upload plugin with progress-bar, drag-and-drop, direct-to-S3 & Azure uploading, client-side image scaling, preview generation, form support, chunking, auto-resume, and tons of other features.
-- [bower-dist](https://github.com/FineUploader/bower-dist) - A bower build for FineUploader/fine-uploader
+- [fine-uploader](https://github.com/FineUploader/fine-uploader) - Multiple file upload plugin with image previews, drag and drop, progress bars. S3 and Azure support, image scaling, form support, chunking, resume, pause, and tons of other features.
 - [docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
-- [octotree](https://github.com/buunguyen/octotree) - Code tree for GitHub and GitLab
+- [octotree](https://github.com/buunguyen/octotree) - Code tree for GitHub
 - [PCDN](https://github.com/Iragne/PCDN) - PCDN is an Peer to peer CDN for video,  it's Hybrid CDN/P2P Architecture. HTTP Live Streaming, WebRTC, videojs and peerjs, HLS and Video for broadcasts
 - [viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
 - [trycode.io](https://github.com/arguello/trycode.io) - An online, interactive coding tutorial
 - [dingo-project-management](https://github.com/zeeshanu/dingo-project-management) - A full-featured personal project management tool with task boards.
 - [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
-- [skype-unofficial-client](https://github.com/haskellcamargo/skype-unofficial-client) - A Skype client built on top of node webkit
+- [skype-unofficial-client](https://github.com/haskellcamargo/skype-unofficial-client) - A Skype client for Linux built on top of node webkit
 - [jaspy](https://github.com/koehlma/jaspy) - a Python VM written entirely from scratch in JavaScript with some unique features
-- [django-helpdesk](https://github.com/rossp/django-helpdesk) - A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
+- [mailtrain](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter app
 - [textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
 - [flux](https://github.com/facebook/flux) - Application Architecture for Building User Interfaces
+- [Transcrypt](https://github.com/QQuick/Transcrypt) - Python 3.6 to JavaScript compiler - Lean, fast, open! -
 - [dashing](https://github.com/Shopify/dashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
 - [dokieli](https://github.com/linkeddata/dokieli) - :bulb: dokieli is a clientside editor for decentralised article publishing, annotations and social interactions
 - [politespace](https://github.com/filamentgroup/politespace) - Politely add spaces to numeric form values to increase readability (credit card numbers, phone numbers, etc).
@@ -487,81 +856,75 @@
 - [HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [frock](https://github.com/urbanairship/frock) - A plugin-based tool for running fake HTTP and socket services
 - [InlineVideo](https://github.com/newshorts/InlineVideo) - A library to allow video to play inline if you're user is on an iphone.
-- [structor](https://github.com/ipselon/structor) - An advanced GUI editor for React
-- [netcapsule](https://github.com/ikreymer/netcapsule) - Browse old web pages the old way with virtual browsers in the browser
+- [structor](https://github.com/ipselon/structor) - Structor - React UI Builder
+- [netcapsule](https://github.com/oldweb-today/netcapsule) - Browse old web pages the old way with virtual browsers in the browser
 - [ContentTools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
-- [mention-bot](https://github.com/facebook/mention-bot) - Automatically mention potential reviewers on pull requests.
+- [mention-bot](https://github.com/facebookarchive/mention-bot) - Automatically mention potential reviewers on pull requests.
 - [microm](https://github.com/zzarcon/microm) - :musical_note: Beautiful library to convert browser microphone to mp3 in Javascript :musical_note:
 - [django-bootstrap-calendar](https://github.com/sandlbn/django-bootstrap-calendar) - simple django calendar app based on the bootstrap calendar of http://bootstrap-calendar.azurewebsites.net/
 - [whatsdeployed](https://github.com/peterbe/whatsdeployed) - What's deployed from a Github repo on various server environments?
 - [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
 - [wopr](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics
-- [react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS Sierra and Windows 10
+- [react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS High Sierra and Windows 10
 - [hipache](https://github.com/hipache/hipache) - Hipache: a distributed HTTP and websocket proxy
 - [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web
-- [sandstorm](https://github.com/sandstorm-io/sandstorm) - Personal Cloud Sandbox
-- [twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
-- [exercism.io](https://github.com/exercism/exercism.io) - Level up your programming skills.
-- [N1](https://github.com/nylas/N1) - :love_letter: An extensible desktop mail app built on the modern web.
+- [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
+- [sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
+- [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [CallRoulette](https://github.com/saghul/CallRoulette) - A WebRTC demo using Python (asyncio + aiohttp) as the backend
 - [swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
-- [django-agnocomplete](https://github.com/novafloss/django-agnocomplete) - A front-end agnostic toolbox for autocompletion fields
 - [deck-of-cards](https://github.com/pakastin/deck-of-cards) - HTML5 Deck of Cards
 - [StarCraft](https://github.com/gloomyson/StarCraft) - HTML5 version of StarCraft game
-- [platform](https://github.com/mattermost/platform) - Open source Slack-alternative in Golang and React - Mattermost
-- [batavia](https://github.com/pybee/batavia) - A Javascript implementation of the Python virtual machine.
-- [django-material](https://github.com/viewflow/django-material) - Material Design for django forms and admin
+- [UpUp](https://github.com/TalAter/UpUp) - ✈️ Easily create sites that work offline as well as online
+- [batavia](https://github.com/pybee/batavia) - A JavaScript implementation of the Python virtual machine.
 - [slate](https://github.com/lord/slate) - Beautiful static documentation for your API
 - [markdown-editor](https://github.com/jbt/markdown-editor) - Live (Github-flavored) Markdown Editor
 - [tutanota](https://github.com/tutao/tutanota) - Tutanota is the end-to-end encrypted mail client that enables you to communicate securely with anyone.
-- [VisualAlchemist](https://github.com/prahladyeri/VisualAlchemist) - Open source web-based database diagramming and automation tool
+- [VisualAlchemist](https://github.com/prahladyeri/VisualAlchemist) - Open source database diagramming and automation tool
 - [oboe.js](https://github.com/jimhigson/oboe.js) - A streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes.
-- [mockbin](https://github.com/Mashape/mockbin) - Mock, Test & Track HTTP Requests and Responses.
+- [boletosimples-api](https://github.com/BoletoSimples/boletosimples-api) - API do Boleto Simples - Sistema para emissão de boletos com registro
+- [mockbin](https://github.com/Kong/mockbin) - Mock, Test & Track HTTP Requests and Responses.
 - [quickstartup](https://github.com/osantana/quickstartup) - Quickstartup package used by Quickstartup Template disponível em:
 - [whatiscode](https://github.com/BloombergMedia/whatiscode) - Paul Ford’s “What Is Code?”
 - [pdfmake](https://github.com/bpampuch/pdfmake) - Client/server side PDF printing in pure JavaScript
 - [webpack-bundle-tracker](https://github.com/owais/webpack-bundle-tracker) - Spits out some stats about webpack compilation process to a file
 - [ari-examples](https://github.com/asterisk/ari-examples) - ARI examples in Python and JavaScript.
-- [ocr](https://github.com/mateogianolio/ocr) - Trains a multi-layer perceptron (MLP) neural network to perform optical character recognition (OCR).
+- [ocr](https://github.com/mateogianolio/ocr) - Neural network OCR.
 - [easy6502](https://github.com/skilldrick/easy6502) - 
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API
 - [dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
-- [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework
 - [rsted](https://github.com/anru/rsted) - Online reStructuredText editor
 - [ocrad.js](https://github.com/antimatter15/ocrad.js) - OCR in Javascript via Emscripten
 - [write-good](https://github.com/btford/write-good) - Naive linter for English prose
-- [DataTables](https://github.com/DataTables/DataTables) - Tables plug-in for jQuery
 - [django-dashing](https://github.com/talpor/django-dashing) - django-dashing is a customisable, modular dashboard application framework for Django to visualize interesting data about your project. Inspired in the dashboard framework Dashing
 - [curvytron](https://github.com/Curvytron/curvytron) - A web multiplayer Tron game like with curves
-- [fingerprintjs2](https://github.com/Valve/fingerprintjs2) - Modern & flexible browser fingerprinting library, a successor to the original fingerprintjs
+- [fingerprintjs2](https://github.com/Valve/fingerprintjs2) - Modern & flexible browser fingerprinting library
 - [accounting.js](https://github.com/openexchangerates/accounting.js) - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
-- [payform](https://github.com/jondavidjohn/payform) - :credit_card: A library for building credit card forms, validating inputs, and formatting numbers.
 - [gifv-player](https://github.com/globocom/gifv-player) - Javascript library for playing video files with gif fallback
 - [markdownify](https://github.com/tibastral/markdownify) - The simplest markdown editor with built in cloudinary image upload.
 - [tcomb-form](https://github.com/gcanti/tcomb-form) - Forms library for react
-- [kaiwa](https://github.com/digicoop/kaiwa) - A modern XMPP Web client
-- [ios-runtime](https://github.com/NativeScript/ios-runtime) - iOS runtime for NativeScript (based on JavaScriptCore)
+- [kaiwa](https://github.com/digicoop/kaiwa) - [UNMAINTAINED] A modern XMPP Web client
+- [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
+- [ios-runtime](https://github.com/NativeScript/ios-runtime) - iOS Runtime for NativeScript
 - [slideout](https://github.com/Mango/slideout) - A touch slideout navigation menu for your mobile web apps.
-- [JsBarcode](https://github.com/lindell/JsBarcode) - Barcode generation library that works in both the browser and on Node.js http://lindell.me/JsBarcode
+- [JsBarcode](https://github.com/lindell/JsBarcode) - Barcode generation library written in JavaScript that works in both the browser and on Node.js
 - [mui](https://github.com/muicss/mui) - Lightweight CSS framework
 - [favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
 - [datedropper](https://github.com/felicegattuso/datedropper) - datedropper is a jQuery plugin that provides a quick and easy way to manage dates for input fields.
-- [reapp](https://github.com/reapp/reapp) - Make hybrid mobile apps with power
-- [riot](https://github.com/riot/riot) - A React-like, user interface library
+- [reapp](https://github.com/reapp/reapp) - [deprecated!] Make hybrid mobile apps with power
+- [riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
 - [react-canvas](https://github.com/Flipboard/react-canvas) - High performance &lt;canvas&gt; rendering for React components
-- [newforms](https://github.com/insin/newforms) - [INACTIVE] Isomorphic form-handling for React
-- [pageshot](https://github.com/mozilla-services/pageshot) - An experiment in creating better shareable versions of content
-- [react-dnd](https://github.com/gaearon/react-dnd) - Drag and Drop for React
+- [newforms](https://github.com/insin/newforms) - Isomorphic form-handling for React
 - [medium-editor-markdown](https://github.com/IonicaBizau/medium-editor-markdown) - :pencil: A Medium Editor extension to add markdown support.
 - [breach_core](https://github.com/breach/breach_core) - A Browser written in JS. Free. Modular. Hackable.
 - [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [wekan](https://github.com/wekan/wekan) - The open-source Trello-like kanban (built with Meteor)
-- [insignia](https://github.com/bevacqua/insignia) - :bookmark: Customizable tag input. Progressive. No non-sense!
+- [insignia](https://github.com/bevacqua/insignia) - 🔖 Customizable tag input. Progressive. No non-sense!
 - [blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
 - [deadorbit](https://github.com/cloudflare/deadorbit) - Polyglot utility to log errors in Node and the browser
-- [jam-py](https://github.com/jam-py/jam-py) - Jam.py “all in the browser” framework is the fastest way to create a web database application
+- [jam-py](https://github.com/jam-py/jam-py) - Jam.py is an event-driven framework for the development of web database applications.
 - [videoconverter.js](https://github.com/bgrins/videoconverter.js) - Convert videos in your browser
 - [codeyourcloud](https://github.com/mkaminsky11/codeyourcloud) - In browser code editor for Google Drive and Onedrive
 - [websync](https://github.com/furier/websync) - websync is intended to be an rsync manager, where rsync tasks can be added, scheduled and maintained in a sane manner.
@@ -572,90 +935,89 @@
 - [libre](https://github.com/commonwealth-of-puerto-rico/libre) - LIBRE = Libre Information Batch Restructuring Engine.
 - [rtc-signaller](https://github.com/rtc-io/rtc-signaller) - Transport agnostic signalling designed for WebRTC
 - [intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A jQuery plugin for entering and validating international telephone numbers
-- [material-ui](https://github.com/callemall/material-ui) - React Components that Implement Google's Material Design.
-- [dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates for Bootstrap
+- [material-ui](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design.
 - [clockpicker](https://github.com/weareoutman/clockpicker) - A clock-style timepicker for Bootstrap (or jQuery). Sorry but no longer maintained.
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [rtc-core](https://github.com/rtc-io/rtc-core) - Core definitions and functions for the rtc.io suite
 - [rtc-tools](https://github.com/rtc-io/rtc-tools) - Helpful Tools and Utilities for working with WebRTC
 - [perfmap](https://github.com/zeman/perfmap) - Front-end performance heatmap bookmarklet.
 - [crud-admin-generator](https://github.com/jonseg/crud-admin-generator) - An open source tool to generate a complete backend from a MySql database.
-- [converse.js](https://github.com/jcbrand/converse.js) - Web-based XMPP/Jabber chat client written in javascript
+- [converse.js](https://github.com/conversejs/converse.js) - Web-based XMPP/Jabber chat client written in JavaScript
+- [www](https://github.com/writethedocs/www) - The main website for Write the Docs.
 - [franc](https://github.com/wooorm/franc) - Natural language detection
 - [gifshot](https://github.com/yahoo/gifshot) - JavaScript library that can create animated GIFs from media streams, videos, or images
 - [turbopascal](https://github.com/lkesteloot/turbopascal) - Web-based Turbo Pascal compiler.
 - [JsSIP](https://github.com/versatica/JsSIP) - JsSIP, the JavaScript SIP library
 - [bootlint](https://github.com/twbs/bootlint) - HTML linter for Bootstrap projects
 - [json-editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor
-- [eslint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
+- [eslint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript
 - [bootstrap-tokenfield](https://github.com/sliptree/bootstrap-tokenfield) - A jQuery tag/token input plugin for Twitter's Bootstrap, by the guys from Sliptree
+- [solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
 - [KaTeX](https://github.com/Khan/KaTeX) - Fast math typesetting for the web.
 - [shout](https://github.com/erming/shout) - Shout — The self-hosted web IRC client
-- [vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top. Written in node.js
-- [webtorrent](https://github.com/feross/webtorrent) - :zap: Streaming torrent client for the web
+- [jquery-focuspoint](https://github.com/jonom/jquery-focuspoint) - jQuery plugin for 'responsive cropping'. Dynamically crop images to fill available space without cutting out the image's subject. Great for full-screen images.
+- [vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top.
+- [webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 - [blast](https://github.com/julianshapiro/blast) - Blast text apart to make it manipulable.
 - [impulse](https://github.com/luster-io/impulse) - Dynamic Physics Interactions for the Mobile Web
 - [exceptions.js](https://github.com/steaks/exceptions.js) - JS error reporting with stacktraces, screenshots & DOM dumps
 - [OSXAuditor](https://github.com/jipegit/OSXAuditor) - OS X Auditor is a free Mac OS X computer forensics tool
 - [kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
-- [tal](https://github.com/fmtvp/tal) - TV Application Layer
+- [tal](https://github.com/bbc/tal) - TV Application Layer
+- [autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
 - [kandan](https://github.com/kandanapp/kandan) - Kandan is an Open Source Alternative to HipChat
 - [EpicEditor](https://github.com/OscarGodson/EpicEditor) - EpicEditor is an embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more. For developers, it offers a robust API, can be easily themed, and allows you to swap out the bundled Markdown parser with anything you throw at it.
-- [pgcharts](https://github.com/dimitri/pgcharts) - Turn your PostgreSQL queries into Charts
 - [panamax-ui](https://github.com/CenturyLinkLabs/panamax-ui) - The Web GUI for Panamax
-- [django-wysiwyg-redactor](https://github.com/douglasmiranda/django-wysiwyg-redactor) - A lightweight wysiwyg editor for Django
+- [django-s3direct](https://github.com/bradleyg/django-s3direct) - Add direct uploads to S3 with a progress bar to file input fields. Perfect for Heroku.
 - [angular-off-canvas](https://github.com/cironunes/angular-off-canvas) - easily add an off-canvas navigation to your angular app
 - [extensionizr](https://github.com/altryne/extensionizr) - Extensionizr! Create a chrome extension in 15 seconds!
 - [graphitejs](https://github.com/prestontimmons/graphitejs) - A jQuery plugin for displaying graphite graphs
 - [cubism](https://github.com/square/cubism) - Cubism.js: A JavaScript library for time series visualization.
-- [OnsenUI](https://github.com/OnsenUI/OnsenUI) - Hybrid Mobile App UI Framework for iOS and Material Design with Angular and React Components
+- [OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
 - [angus](https://github.com/nickjanssen/angus) - Declarative build tool for the web.
 - [generator-ember](https://github.com/deprecate/generator-ember) - [deprecated] Yeoman generator for Ember.js web applications
 - [webrtc-benchmark](https://github.com/FruitieX/webrtc-benchmark) - WebRTC benchmarking web application
-- [angular-xeditable](https://github.com/vitalets/angular-xeditable) - Edit in place for AngularJS
+- [angular-dragdrop](https://github.com/codef0rmer/angular-dragdrop) - Implementing jQueryUI Drag and Drop functionality in AngularJS (with Animation) is easier than ever
 - [ethercalc](https://github.com/audreyt/ethercalc) - Node.js port of Multi-user SocialCalc
-- [editor](https://github.com/lepture/editor) - A markdown editor. still on development.
+- [editor](https://github.com/lepture/editor) - A markdown editor. http://lab.lepture.com/editor/
 - [html5-qrcode](https://github.com/dwa012/html5-qrcode) - A cross platform HTML5 QR code reader.
 - [summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
 - [fingerprintjs](https://github.com/Valve/fingerprintjs) - Anonymous browser fingerprint
 - [gitforteams](https://github.com/emmajane/gitforteams) - 
 - [videojs-playLists](https://github.com/jgallen23/videojs-playLists) - VideoJS playlists done right!
-- [Ghost](https://github.com/TryGhost/Ghost) - Just a blogging platform
+- [Ghost](https://github.com/TryGhost/Ghost) - The platform for professional publishers
 - [minicart](https://github.com/jeffharrell/minicart) - The minicart is a great way to improve your PayPal shopping cart integration.
-- [piskel](https://github.com/juliandescottes/piskel) - A simple web-based tool for Spriting and Pixel art.
+- [piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [dropzone](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 - [selectize.js](https://github.com/selectize/selectize.js) - Selectize is the hybrid of a textbox and &lt;select&gt; box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
 - [jscapture](https://github.com/mgechev/jscapture) - Screen recording and capturing with pure client-side JavaScript.
 - [bipolar-server](https://github.com/marinho/bipolar-server) - Open source feature toggle system, based on Django
-- [vanilla-masker](https://github.com/BankFacil/vanilla-masker) - VanillaMasker is a pure javascript mask input
+- [vanilla-masker](https://github.com/vanilla-masker/vanilla-masker) - VanillaMasker is a pure javascript mask input
 - [litewrite](https://github.com/litewrite/litewrite) - Distraction-free writing.
 - [popcorn-app](https://github.com/popcorn-official/popcorn-app) - Allow easily streaming from torrents, without any particular knowledge.
-- [quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API
+- [quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [angular-strap](https://github.com/mgcrea/angular-strap) - AngularJS 1.2+ native directives for Bootstrap 3.
 - [token](https://github.com/mixu/token) - Time-limited, HMAC-based authentication token generation
 - [peerjs-server](https://github.com/peers/peerjs-server) - Server for PeerJS
 - [peerjs](https://github.com/peers/peerjs) - Peer-to-peer data in the browser.
 - [planout](https://github.com/facebook/planout) - PlanOut is a library and interpreter for designing online experiments.
-- [gitbook](https://github.com/GitbookIO/gitbook) - Modern book format and toolchain using Git and Markdown
+- [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
-- [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
-- [shim](https://github.com/swong15/shim) - A vim inspired text editor
 - [tUnE.js](https://github.com/LevyGuy/tUnE.js) - Web Speech recognition grammar POC for webkit  using the Levenshtein distance algorithm
 - [slate](https://github.com/slate/slate) - Slate IRC client
 - [assembler-simulator](https://github.com/Schweigi/assembler-simulator) - Simple 8-bit Assembler Simulator with Angular.js
-- [matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web
+- [matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
 - [qr-code](https://github.com/educastellano/qr-code) - Web Component for generating QR codes
 - [hotdish](https://github.com/mozilla/hotdish) - Explorations on being together in the browser
 - [togetherjs](https://github.com/mozilla/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time.
 - [easyrtc](https://github.com/priologic/easyrtc) - EasyRTC is a bundle of Open Source WebRTC joy!   Our Javascript API hides the differences between Chrome and Firefox browsers and simplifies coding needed for working WebRTC apps. Signalling server using socket.io built on node.js.  Tons of free code so you can build WebRTC apps in a few hours that just work.  Demos include Instant messaging, Multiparty chatroom, Audio + Video, Screen sharing, Data channel Messaging and File sharing, and more.
 - [SimpleWebRTC](https://github.com/andyet/SimpleWebRTC) - Simplest WebRTC ever
+- [mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [clmtrackr](https://github.com/auduno/clmtrackr) - Javascript library for precise tracking of facial features via Constrained Local Models
 - [gaskit](https://github.com/bkeepers/gaskit) - a git-backed issue tracker
-- [shipyard](https://github.com/shipyard/shipyard) - Composable Docker Management
 - [holla](https://github.com/contra/holla) - An abstraction over P2P video/voice/data connections using WebRTC
-- [ui-for-docker](https://github.com/kevana/ui-for-docker) - An unofficial web interface for Docker, formerly known as DockerUI
+- [ui-for-docker](https://github.com/kevana/ui-for-docker) - A web interface for Docker, formerly known as DockerUI. This repo is not maintained
 - [angular-socket.io-mock](https://github.com/nullivex/angular-socket.io-mock) - Mock Socket.io bindings for AngularJS, useful for testing as a drop in replacement
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [socrates](https://github.com/segmentio/socrates) - Write and read Markdown in real-time with anyone you want.
@@ -664,85 +1026,186 @@
 - [angular-test-patterns](https://github.com/daniellmb/angular-test-patterns) - A High-Quality Guide for Testing Angular 1.x
 - [angular-seed](https://github.com/angular/angular-seed) - Seed project for angular apps.
 - [adminjs](https://github.com/getoutreach/adminjs) - The backend agnostic administration framework.
-- [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps
+- [angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
 - [DocEditable](https://github.com/Foliotek/DocEditable) - Clean WYSIWYG editing in your browser
 - [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
-- [stackedit](https://github.com/benweet/stackedit) - In-browser markdown editor
+- [stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 - [skeuocard](https://github.com/kenkeiter/skeuocard) - Skeuocard progressively enhances credit card inputs to provide a skeuomorphic interface.
 - [popline](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar
 - [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
 - [pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
 - [django-epiced](https://github.com/belug23/django-epiced) - EpicEditor implementation for django
+- [goread](https://github.com/mjibson/goread) - RSS reader in go on app engine; formerly goread.io
 - [flask-classy](https://github.com/apiguy/flask-classy) - Class based views for Flask
 - [python-readable](https://github.com/phensley/python-readable) - Python port of Arc90's Readability content extraction rules
 - [wysihtml5](https://github.com/xing/wysihtml5) - Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.
-- [ember-restless](https://github.com/bustlelabs/ember-restless) - A lightweight data model library for Ember.js
+- [ember-restless](https://github.com/bustle/ember-restless) - A lightweight data model library for Ember.js
 - [restangular](https://github.com/mgonto/restangular) - AngularJS service to handle Rest API Restful Resources properly and easily
-- [mashape-oauth](https://github.com/Mashape/mashape-oauth) - OAuth Modules for Node.js - Supporting RSA, HMAC, PLAINTEXT, 2,3-Legged, 1.0a, Echo, XAuth, and 2.0
-- [Flat-UI](https://github.com/designmodo/Flat-UI) - Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.
+- [mashape-oauth](https://github.com/Kong/mashape-oauth) - OAuth Modules for Node.js - Supporting RSA, HMAC, PLAINTEXT, 2,3-Legged, 1.0a, Echo, XAuth, and 2.0
 - [screw-unit](https://github.com/nkallen/screw-unit) - A Javascript BDD Framework with nested describes, a convenient assertion syntax, and an intuitive test browser.
 - [inspiritas-bootstrap](https://github.com/littke/inspiritas-bootstrap) - 
 - [django-require](https://github.com/etianen/django-require) - A Django staticfiles post-processor for optimizing with RequireJS.
 - [mailcheck](https://github.com/mailcheck/mailcheck) - Reduce misspelled email addresses in your web apps.
 - [select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
-- [jQuery-CPF-Validate](https://github.com/carlosjrcabello/jQuery-CPF-Validate) - A plugin to validate CPFs
+- [jQuery-CPF-Validate](https://github.com/carlosspohr/jQuery-CPF-Validate) - A plugin to validate CPFs
 - [GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client
-- [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for Backbone.js, Ember.js, AngularJS, and many more
+- [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
 - [MilkChart](https://github.com/theiviaxx/MilkChart) - Graphing library for MooTools
 
 ## Jupyter Notebook 
 
+- [SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots to play any game you own!
+- [hackermath](https://github.com/amitkaps/hackermath) - Introduction to Statistics and Basics of Mathematics for Data Science - The Hacker's Way
+- [pytudes](https://github.com/norvig/pytudes) - Python programs to practice or demonstrate skills.
+- [talks](https://github.com/pythonbrasil/talks) - 
+- [lolviz](https://github.com/parrt/lolviz) - A simple Python data-structure visualization tool for lists of lists, lists, dictionaries; primarily for use in Jupyter notebooks / presentations
+- [Curso_Blockchain](https://github.com/fccoelho/Curso_Blockchain) - Curso introdutório a Criptomoedas e outras aplicações da tecnologia da Blockchain. Disciplina eletiva do Mestrado em modelagem matemática da FGV
+- [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
+- [captcha-breaker](https://github.com/jaysonsantos/captcha-breaker) - A simple machine learning powered captcha breaker
 - [LSTMVis](https://github.com/HendrikStrobelt/LSTMVis) - Visualization Toolbox for Long Short Term Memory networks (LSTMs)
 - [python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) - Learn python3 in one picture.
+- [py4fi](https://github.com/yhilpisch/py4fi) - Python for Finance (O'Reilly)
 - [ocropy](https://github.com/tmbdev/ocropy) - Python-based tools for document analysis and OCR
 - [BinPy](https://github.com/BinPy/BinPy) - An electronic simulation library written in pure Python
 - [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 
+## Kotlin 
+
+- [sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🤖 Sourcerer app makes a visual profile from your GitHub and git repositories.
+- [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
+
 ## Lua 
 
-- [dotfiles](https://github.com/rochacon/dotfiles) - My Salt states for desktop setup
-- [kong](https://github.com/Mashape/kong) - :monkey: The Open-Source API Gateway and Microservice Management Layer, built on NGINX
+- [LIKO-12](https://github.com/RamiLego4Game/LIKO-12) - LIKO-12 is an open source fantasy computer made using LÖVE.
+- [lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
+- [VeryNginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
+- [kong](https://github.com/Kong/kong) - :monkey: The Microservice API Gateway
 - [nuax](https://github.com/tarekziade/nuax) - Micro-Framework in Lua
 - [turbo](https://github.com/kernelsauce/turbo) - Turbo is a framework built for LuaJIT 2 to simplify the task of building fast and scalable network applications. It uses a event-driven, non-blocking, no thread design to deliver excellent performance and minimal footprint to high-load applications while also providing excellent support for embedded uses.
 - [turbo](https://github.com/enotodden/turbo) - LuaJIT evented Web framework and server. Pure object oriented Lua implementation with FFI for syscalls. Emphasis on speed and simplicity. Modeled after the Tornado API.
 - [lua-lockbox](https://github.com/somesocks/lua-lockbox) - A collection of cryptographic primitives written in pure Lua
-- [lain](https://github.com/copycat-killer/lain) - Awesome WM complements
+- [lain](https://github.com/lcpz/lain) - Awesome WM complements
 
 ## Makefile 
 
-- [free-game-art](https://github.com/saniv/free-game-art) - Graphics with Public Domain,CC-BY-SA,GPL,BSD,MIT licenses
-- [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
+- [minimum_python_ide](https://github.com/minimumbuilds/minimum_python_ide) - 
+- [prest](https://github.com/prest/prest) - pREST is a way to serve a RESTful API from any databases written in Go
+- [manta](https://github.com/joyent/manta) - Manta, Triton’s object storage and converged analytics solutions, is a HTTP-based object store that uses OS containers to allow compute on data at rest.
+- [awesome-django](https://github.com/rosarior/awesome-django) - Repository mirror of GitLab: https://gitlab.com/rosarior/awesome-django
 
 ## Nginx 
 
+- [nginx-vod-module-fmp4-hls](https://github.com/flavioribeiro/nginx-vod-module-fmp4-hls) - Play fragmented mp4's on HLS using nginx-vod-module
 - [server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
+
+## OCaml 
+
+- [pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 
 ## Objective-C 
 
+- [AnyBar](https://github.com/tonsky/AnyBar) - OS X menubar status indicator
+- [AppGrid](https://github.com/sdegutis/AppGrid) - macOS window manager with Vim–like hotkeys
+- [spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
+- [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system for Mac OS X
+- [Soundflower](https://github.com/mattingalls/Soundflower) - MacOS system extension that allows applications to pass audio to other applications.
+- [Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 200+ API documentation sets
 - [slate](https://github.com/jigish/slate) - A window management application (replacement for Divvy/SizeUp/ShiftIt)
-- [360Controller](https://github.com/360Controller/360Controller) - TattieBogle Xbox 360 Driver (with improvements)
-- [sequelpro](https://github.com/sequelpro/sequelpro) - MySQL database management for Mac OS X
+- [sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS
 - [gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X
 - [iconping](https://github.com/fnando/iconping) - Icon Ping - visual ping to 4.2.2.2 and 8.8.8.8
 - [CNAB-Rapido](https://github.com/BoletoSimples/CNAB-Rapido) - Aplicativo para Mac OS X que monitora um diretório pelos arquivos CNAB e envia pra o servidor do Boleto Simples auotmaticamente.
 - [Loading](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for OS X
-- [origami](https://github.com/facebook/origami) - A Quartz Composer framework that enables interactive design prototyping without programming.
+- [origami](https://github.com/facebookarchive/origami) - A Quartz Composer framework that enables interactive design prototyping without programming.
 - [Boxer](https://github.com/alunbestor/Boxer) - The DOS game emulator that's fit for your Mac.
-- [macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for OS X.
+- [macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
 - [StatusBarApp](https://github.com/lepture/StatusBarApp) - Demo for Status Bar App
-- [NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 
 ## Objective-C++ 
 
 - [componentkit](https://github.com/facebook/componentkit) - A React-inspired view framework for iOS.
 
-## Objective-J 
-
-- [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler, assembler, and disassembler
-
 ## Others 
 
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [hardware](https://github.com/bbcmicrobit/hardware) - Hardware designs for the BBC micro:bit
+- [awesome-distributed-systems](https://github.com/rShetty/awesome-distributed-systems) - Awesome list of distributed systems resources
+- [python-linters-and-code-analysis](https://github.com/vintasoftware/python-linters-and-code-analysis) - Python Linters and Code Analysis tools curated list
+- [work-at-olist](https://github.com/olist/work-at-olist) - Apply for a job at Olist's Development Team: https://bit.ly/olist-webdev
+- [do_zero_ao_deploy](https://github.com/cassiobotaro/do_zero_ao_deploy) - :rocket: Do zero ao deploy utilizando python
+- [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
+- [legalfile-proposal](https://github.com/Sirikon/legalfile-proposal) - Legalfile - A proposal for defining software legal terms in a structured way
+- [wiki](https://github.com/brazil-tech-expats/wiki) - https://brazil-tech-expats.gitbooks.io/wiki/content/
+- [ascii-emoji](https://github.com/dysfunc/ascii-emoji) - Essential Emoji
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-End Design Patterns
+- [opensource](https://github.com/olist/opensource) - Olist Open Source Projects
+- [open-product-management](https://github.com/tron1991/open-product-management) - A curated list of product management advice for technical people.
+- [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
+- [awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
+- [bandit](https://github.com/openstack/bandit) - Python AST-based static analyzer from OpenStack Security Group
+- [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [front-end-interview-preparation-guide](https://github.com/Jobeir/front-end-interview-preparation-guide) - The single source for preparing for a Frontend interview
+- [agile-development-cheat-sheet](https://github.com/tucaz/agile-development-cheat-sheet) - 2017 Agile Development Cheat Sheet
+- [iA-Fonts](https://github.com/iaolo/iA-Fonts) - 
+- [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
+- [A-Microservice-Maturity-Model](https://github.com/MarcosX/A-Microservice-Maturity-Model) - A guide for teams adopting a SOA based on Microservices
+- [conferences](https://github.com/python-organizers/conferences) - List of Python Conferences around the World
+- [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
+- [alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
+- [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
+- [awesome-pytest](https://github.com/augustogoulart/awesome-pytest) - A curated list of awesome pytest resources
+- [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
+- [awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
+- [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
+- [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
+- [awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
+- [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
+- [awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
+- [readme](https://github.com/inessadl/readme) - A few examples of README files and notes about how to write them.
+- [datascience-pizza](https://github.com/leportella/datascience-pizza) - Repositório para juntar informações sobre materiais de estudo em análise de dados e áreas afins, empresas que trabalham com dados e dicionário de conceitos
+- [awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval) - A curated list of awesome information retrieval resources
+- [awesome-engineering-managers-reading-list](https://github.com/jesselpalmer/awesome-engineering-managers-reading-list) - Reading list for managing or leading a team of software engineers
+- [guides](https://github.com/todogroup/guides) - TODO Group Guides
+- [awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
+- [awesome-etl](https://github.com/pawl/awesome-etl) - A curated list of awesome ETL frameworks, libraries, and software.
+- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
+- [awesome_time_series_in_python](https://github.com/MaxBenChrist/awesome_time_series_in_python) - This curated list contains  python packages for time series analysis
+- [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
+- [awesome-coins](https://github.com/kennethreitz/awesome-coins) - ₿ A guide (for humans!) to cryto-currencies and their algos.
+- [Guides](https://github.com/codingforentrepreneurs/Guides) - Guides for learning + doing better web and app development. Created by Coding for Entrepreneurs.
+- [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of awesome Site Reliability and Production Engineering resources.
+- [wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat 🖧
+- [feedmereadmes](https://github.com/LappleApple/feedmereadmes) - Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
+- [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
+- [awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
+- [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers
+- [abstraction-talk](https://github.com/makmanalp/abstraction-talk) - PyCon 2017 talk about using abstraction to help with Library UX
+- [pact-specification](https://github.com/pact-foundation/pact-specification) - Describes the pact format and verification specifications
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2018
+- [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
+- [awesome-PICO-8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of awesome PICO-8 resources, carts, tools and more
+- [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation
+- [rst-cheatsheet](https://github.com/ralsina/rst-cheatsheet) - A two-page cheatsheet for restructured text
+- [keyboard-pcb-guide](https://github.com/ruiqimao/keyboard-pcb-guide) - Guide on how to design keyboard PCBs with KiCad
+- [Public-APIs](https://github.com/abhishekbanthia/Public-APIs) - 📚 A public list of APIs from round the web.
+- [awesome-api](https://github.com/Kikobeats/awesome-api) - A curated list of awesome resources for design and implement RESTful API's.
+- [fosmc](https://github.com/kylemanna/fosmc) - The Fictiv Open Source Motorcycle
+- [longflow-manifesto](https://github.com/Nax/longflow-manifesto) - :coffee: The longflow manifesto
+- [BRConferences](https://github.com/jchahoud/BRConferences) - Conferências e Eventos de Tecnologia e de Startups no Brasil - Brazilian Tech and Startup Conferences
+- [list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers) - List of Python API Wrappers and Libraries
+- [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - :pill: Curated list of falsehoods programmers believe in.
+- [appsec-resources](https://github.com/cneill/appsec-resources) - Resources for developers and security engineers to learn the ropes of application security
+- [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+- [onboarding](https://github.com/flyeralarm/onboarding) - A list of resources we at flyeralarm use to get new developers up and running
+- [TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
+- [awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
+- [art-of-readme](https://github.com/noffle/art-of-readme) - :love_letter: Learn the art of writing quality READMEs.
+- [api-standards](https://github.com/paypal/api-standards) - 
+- [HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that *could* go in the head of your document
+- [raspberry-pi-kiosk-screen](https://github.com/elalemanyo/raspberry-pi-kiosk-screen) - Raspberry Pi Kiosk Screen
 - [cpython-notes](https://github.com/emilyemorehouse/cpython-notes) - Personal notes on resources, CPython, etc.
 - [command-line-one-liners](https://github.com/arturoherrero/command-line-one-liners) - Command line one-liners.
 - [unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
@@ -750,65 +1213,64 @@
 - [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
 - [api-guidelines](https://github.com/Microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [awesome-json](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
-- [awesome-berlin](https://github.com/marlonbernardes/awesome-berlin) - 🇩🇪 A guide aiming to help Brazilians to have a successful start in Berlin!
 - [languages-that-compile-to-python](https://github.com/vindarel/languages-that-compile-to-python) - List of languages that compile to python
 - [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 - [awesome-expat](https://github.com/marceloboeira/awesome-expat) - :earth_americas: A curated list of resources for expats
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
-- [traduz-ai](https://github.com/ericdouglas/traduz-ai) - :pencil: Lista de artigos traduzidos para língua portuguesa (br), facilitando a disseminação do conhecimento.
+- [traduz-ai](https://github.com/ericdouglas/traduz-ai) - :pencil: Coleção de artigos traduzidos para pt-br
 - [awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [core-api](https://github.com/core-api/core-api) - A Document Object Model for Web APIs.
 - [pywat](https://github.com/cosmologicon/pywat) - Python wats
 - [logrocket](https://github.com/LogRocket/logrocket) - :rocket: Record and replay user sessions to fix bugs faster.
-- [lessobviouschecklist](https://github.com/erikr/lessobviouschecklist) - The Less Obvious Conference Checklist
-- [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - 
+- [lessobviouschecklist](https://github.com/mxsasha/lessobviouschecklist) - The Less Obvious Conference Checklist
+- [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome online talks and screencasts
 - [awesome-heroku](https://github.com/ianstormtaylor/awesome-heroku) - A curated list of helpful Heroku resources.
-- [PatinhoFeio](https://github.com/felipesanches/PatinhoFeio) - Repositório contendo documentação técnica sobre o Patinho Feio, primeiro computador brasileiro (Escola Politécnica da USP - 1971)
+- [PatinhoFeio](https://github.com/ArqueologiaDigital/PatinhoFeio) - Repositório contendo documentação técnica sobre o Patinho Feio, um computador pioneiro brasileiro desenvolvido na Escola Politécnica da USP em 1971 e inaugurado em 1972.
+- [free-game-art](https://github.com/saniv/free-game-art) - Graphics with Public Domain,CC-BY-SA,GPL,BSD,MIT licenses
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
-- [guia-do-trabalho-remoto](https://github.com/nomadsonrails/guia-do-trabalho-remoto) - :airplane: Conjunto de informações, experiências e burocracias para poder trabalhar remotamente para empresas do mundo todo
 - [api-development-tools](https://github.com/yosriady/api-development-tools) - :books: A collection of useful resources for building RESTful HTTP+JSON APIs.
 - [wit](https://github.com/wit-ai/wit) - Natural Language Interface for apps and devices
-- [zalando-rules-of-play](https://github.com/zalando/zalando-rules-of-play) - Zalando Tech’s guidelines for building new applications and managing legacy systems
 - [services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services
 - [awesome-python-books](https://github.com/Junnplus/awesome-python-books) - :books: Directory of Python books
+- [work-at-olist-old](https://github.com/olist/work-at-olist-old) - Apply for a job at Olist's Development Team
 - [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language
 - [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
-- [study-path](https://github.com/joebew42/study-path) - A study path about Clean Code, TDD, Legacy Code, Refactoring and IDD
+- [study-path](https://github.com/joebew42/study-path) - A study path about Clean Code, TDD, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
 - [readme-template](https://github.com/dbader/readme-template) - README.md template for your open-source project
 - [SlashWear](https://github.com/kennethreitz/SlashWear) - "Kenneth is the Computer Guru. The King of Programmers!!!!!!"
-- [MakingLyst](https://github.com/lyst/MakingLyst) - 
+- [MakingLyst](https://github.com/lyst/MakingLyst) - A peek into the tech and design at Lyst
 - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
-- [zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - The open-source guidelines followed by tech at Zalando(.com), Europe's largest online fashion platform.
+- [zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - Open Source guidance from Zalando, Europe's largest online fashion platform
 - [django-testing-guide](https://github.com/edgabaldi/django-testing-guide) - An unofficial guide of testing django
 - [elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
 - [og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — a guide for humans
+- [l10n-brazil](https://github.com/OCA/l10n-brazil) - módulos básicos a baixar para uso do Odoo no Brasil, serve de base para NFe, SPED etc...
 - [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
 - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [asterisk-opus](https://github.com/meetecho/asterisk-opus) - Opus (transcoding) and VP8 (passthrough) support for Asterisk, needed for a better WebRTC integration
+- [requests-mock](https://github.com/openstack/requests-mock) - Mocked responses for the requests library
 - [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [paying-the-piper](https://github.com/pybee/paying-the-piper) - A project for discussing ways to fund open source development.
 - [copy-syntax-highlight-osx](https://github.com/minimaxir/copy-syntax-highlight-osx) - Copy Syntax Highlight for OS X is an OS X service which copies the selected text to the clipboard, with proper syntax highlighting for the given language.
-- [pyBusinesses-BR](https://github.com/pythonbrasil/pyBusinesses-BR) - Esse repositório contém informações de contato das empresas de tecnologia do Brasil que utilizam a linguagem de programação Python.
-- [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 💨 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+- [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [snapshot](https://github.com/fastlane-old/snapshot) - Automate taking localized screenshots of your iOS app on every device
 - [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [awesome-erlang](https://github.com/drobakowski/awesome-erlang) - A curated list of awesome Erlang libraries, resources and shiny things.
 - [awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 - [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil) - Lista de empresas com trabalho remoto no Brasil
-- [python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - An open collection of Python anti-patterns and "worst practices", many of which can be checked automatically on QuantifiedCode
-- [computer-science](https://github.com/open-source-society/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
-- [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
+- [python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - An open collection of Python anti-patterns and "worst practices".
+- [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [wbrazilian-without-non-ascii-words](https://github.com/luzfcb/wbrazilian-without-non-ascii-words) - wbrazilian without non-ascii words
 - [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
-- [ipfs](https://github.com/ipfs/ipfs) - IPFS - The Permanent Web
+- [ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [swagger.io](https://github.com/swagger-api/swagger.io) - The content of swagger.io
 - [davdroid](https://github.com/bitfireAT/davdroid) - DAVdroid – CalDAV/CardDAV synchronization for Android 4+ devices
-- [awesome-answers](https://github.com/cyberglot/awesome-answers) - Curated list of inspiring and thoughtful answers given at stackoverflow, quora, etc.
+- [awesome-answers](https://github.com/cyberglot/awesome-answers) - Curated list of inspiring and thoughtful answers given on stackoverflow, quora, etc.
 - [ideas](https://github.com/samsquire/ideas) - a record of ideas
 - [Indices_revistas_de_eletronica](https://github.com/Pakequis/Indices_revistas_de_eletronica) - Datasets com os índices de revistas de eletrônica brasileiras
-- [post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Pull requests welcome :-)
+- [post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [MicroServicesDocumentation](https://github.com/TangentMicroServices/MicroServicesDocumentation) - The docs for the MicroServicesProject
 - [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - A list of web application security
 - [logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
@@ -823,7 +1285,7 @@
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries
-- [git-style-guide](https://github.com/agis-/git-style-guide) - A Git Style Guide
+- [git-style-guide](https://github.com/agis/git-style-guide) - A Git Style Guide
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 - [crypto-might-not-suck](https://github.com/sweis/crypto-might-not-suck) - List of crypto projects that might not suck
 - [awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
@@ -836,44 +1298,57 @@
 - [nginx-resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 - [api-blueprint](https://github.com/apiaryio/api-blueprint) - API Blueprint
 - [hipache-nginx](https://github.com/samalba/hipache-nginx) - Dynamic HTTP routing with Nginx and Redis (reimplements Hipache with Nginx using the Lua module)
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
-- [www](https://github.com/writethedocs/www) - The main website for Write the Docs.
 - [awesome-pyramid](https://github.com/uralbash/awesome-pyramid) - A curated list of awesome Pyramid apps, projects and resources.
 - [js](https://github.com/bevacqua/js) - :art: A JavaScript Quality Guide
 - [cidades-estados-brasil-json](https://github.com/felipefdl/cidades-estados-brasil-json) - Array de estados (com acentos) e cidades (com acentos) do Brasil em JSON com ID relacionado.
-- [pghero.sql](https://github.com/ankane/pghero.sql) - Postgres insights made easy
-- [awesome-django](https://github.com/rosarior/awesome-django) - A curated list of awesome Django apps, projects and resources.
 - [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [bemtv](https://github.com/streamroot/bemtv) - A Hybrid CDN/P2P Architecture for Live Video Broadcasts over the Internet (HTTP Live Streaming, WebRTC, HLS, Online Video, peer-to-peer)
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [api-v2](https://github.com/digitalocean/api-v2) - DigitalOcean API v2 documentation draft
-- [hellowebapp](https://github.com/hellowebapp/hellowebapp) - Documents and Information relating to Hello Web App: Introduction to web app development using Python and Django.
+- [hellowebapp](https://github.com/hellowebbooks/hellowebapp) - Documents and Information relating to Hello Web App: Introduction to web app development using Python and Django.
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [deps](https://github.com/django/deps) - Django Enhancement Proposals
 - [Everpix-Intelligence](https://github.com/everpix/Everpix-Intelligence) - Uncensored Everpix metrics, financials and business data for your perusing
+- [shipyard](https://github.com/shipyard/shipyard) - Composable Docker Management
 - [pecan](https://github.com/stackforge/pecan) - A WSGI object-dispatching web framework, designed to be lean and fast with few dependencies.
 - [WhatsAPI](https://github.com/venomous0x/WhatsAPI) - Interface to WhatsApp Messenger
-- [free-programming-books](https://github.com/vhf/free-programming-books) - :books: Freely available programming books
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [ng-newsletter-beginner-series](https://github.com/auser/ng-newsletter-beginner-series) - The official repository of the beginner series tutorial on ng-newsletter.com
+- [daux.io](https://github.com/justinwalsh/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
 - [BootstrapForEmail](https://github.com/advancedrei/BootstrapForEmail) - Bootstrap Template for HTML Email
 - [email-blueprints](https://github.com/mailchimp/email-blueprints) - HTML Email Layouts by MailChimp
 - [django-registration-invitationcode-backend](https://github.com/elcodo/django-registration-invitationcode-backend) - Register using valid invitation code backend for django-registration
 
 ## PHP 
 
-- [Cachet](https://github.com/CachetHQ/Cachet) - An open source status page system for everyone.
+- [kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
+- [SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.
+- [paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens
+- [olist-api-client-php](https://github.com/olist/olist-api-client-php) - 
+- [411](https://github.com/etsy/411) - An Alert Management Web Application
+- [moonmoon](https://github.com/moonmoon/moonmoon) - moonmoon is a simple feed aggregator (planet like)
+- [Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
 - [wp-domains](https://github.com/ecanuto/wp-domains) - Use different domains for admin and frontend on Wordpress
 - [dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory 2.0 Application
 - [phabricator](https://github.com/phacility/phabricator) - Open software engineering platform and fun adventure game
 - [php-sigep](https://github.com/stavarengo/php-sigep) - Integração com Web Service do Correios. Veja a demo online. Consulta preços e prazos, imprime etiquetas e PLP, etc.
 - [mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
-- [herokuish](https://github.com/gliderlabs/herokuish) - Utility for emulating Heroku build and runtime tasks in containers
 - [cidades-brasil-json](https://github.com/luizcanet/cidades-brasil-json) - Cidades do Brasil em formato Json
 - [mysql2postgresql](https://github.com/mihailShumilov/mysql2postgresql) - Converter mysql schema to postgresql
-- [10-seconds-math](https://github.com/michaeljakob/10-seconds-math) - Try to beat the time! You've got 10 seconds: try to solve as many equations as any humanly possible!!!11111one
-- [wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages.
-- [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
-- [daux.io](https://github.com/justinwalsh/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
+- [10-seconds-math](https://github.com/michaeljakob/10-seconds-math) - You've got 10 seconds: try to solve as many equations as any humanly possible
+- [wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+
+## PLSQL 
+
+- [fonetica-sql](https://github.com/vyper/fonetica-sql) - BuscaBR algorithm which allow the comparison of words based on their phonetic likeness (in sql)
+
+## PLpgSQL 
+
+- [pgquarrel](https://github.com/eulerto/pgquarrel) - pgquarrel compares PostgreSQL database schemas (DDL)
+- [pg_jobmon](https://github.com/omniti-labs/pg_jobmon) - PostgreSQL Extension for logging and monitoring automated jobs
+- [pghero.sql](https://github.com/ankane/pghero.sql) - Postgres insights made easy
 
 ## Pascal 
 
@@ -881,22 +1356,754 @@
 
 ## Perl 
 
+- [speedread](https://github.com/pasky/speedread) - A simple terminal-based open source Spritz-alike (per-word RSVP aligned on optimal reading points)
+- [gitolite](https://github.com/sitaramc/gitolite) - Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
 - [lua-resty-auto-ssl](https://github.com/GUI/lua-resty-auto-ssl) - On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.
-- [pgbadger](https://github.com/dalibo/pgbadger) - a fast PostgreSQL Log Analyzer
+- [pgbadger](https://github.com/dalibo/pgbadger) - A fast PostgreSQL Log Analyzer
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [asterisk-googletts](https://github.com/zaf/asterisk-googletts) - Asterisk AGI script that uses Google's translate text to speech service.
 
+## Pony 
+
+- [wallaroo](https://github.com/WallarooLabs/wallaroo) - Build and scale real-time data applications as easily as writing a Python script
+
 ## PostScript 
 
-- [elaphe](https://github.com/graingert/elaphe) - 
+- [elaphe](https://github.com/ehpale/elaphe) - 
 - [PensePython2](https://github.com/PensePython/PensePython2) - RST source and supporting code for Think Python, 2nd edition, by Allen Downey.
 - [format-ref](https://github.com/pythonprobr/format-ref) - Cartão de referência da sintaxe de strings de formatação
 
 ## Python 
 
+- [prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+- [InstaPy](https://github.com/timgrossmann/InstaPy) - 📷 Instagram Bot - Like/Comment/Follow Automation Script
+- [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
+- [fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
+- [tangent](https://github.com/google/tangent) - Source-to-Source Debuggable Derivatives in Pure Python
+- [Clairvoyant](https://github.com/anfederico/Clairvoyant) - Software designed to identify and monitor social/historical cues for short term stock movement
+- [Eel](https://github.com/ChrisKnott/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
+- [Surprise](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems
+- [gain](https://github.com/gaojiuli/gain) - Web crawling framework  based on asyncio.
+- [pdftabextract](https://github.com/WZBSocialScienceCenter/pdftabextract) - A set of tools for extracting tables from PDF files helping to do data mining on (OCR-processed) scanned documents.
+- [FoxDot](https://github.com/Qirky/FoxDot) - Python driven environment for Live Coding
+- [pulp](https://github.com/pulp/pulp) - Repository for Pulp platform code, including the server and base admin and consumer clients
+- [datasheets](https://github.com/Squarespace/datasheets) - Read data from, write data to, and modify the formatting of Google Sheets
+- [shiv](https://github.com/linkedin/shiv) - shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.
+- [git2json](https://github.com/tarmstrong/git2json) - Convert git logs to JSON for easy analysis
+- [devpi-builder](https://github.com/blue-yonder/devpi-builder) - Automatically build and upload python packages to devpi
+- [edgedb](https://github.com/edgedb/edgedb) - The next generation object-relational database. A @magicstack project.
+- [Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization
+- [backports.lzma](https://github.com/peterjc/backports.lzma) - Backport of Python 3.3's standard library module lzma for LZMA/XY compressed files
+- [pgzero](https://github.com/lordmauve/pgzero) - A zero-boilerplate games programming framework for Python 3, based on Pygame.
+- [lsbaws](https://github.com/rspivak/lsbaws) - Let's Build A Web Server
+- [doctr](https://github.com/drdoctr/doctr) - A tool for automatically deploying docs from Travis CI to GitHub pages.
+- [django-exclusivebooleanfield](https://github.com/anentropic/django-exclusivebooleanfield) - Provides an ExclusiveBooleanField which is a boolean (database) field where only one row in the table (or optionally, a subset of rows based on value of other fields) is True and all the other rows are False.
+- [pyjson5](https://github.com/Kijewski/pyjson5) - A JSON5 serializer and parser library for Python 3 written in Cython.
+- [blackgate](https://github.com/soasme/blackgate) - Blackgate is an API gateway application
+- [hulks](https://github.com/olist/hulks) - Olist custom linting hooks :green_heart: :alien:
+- [calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
+- [python-uncompyle6](https://github.com/rocky/python-uncompyle6) - A Python cross-version decompiler
+- [django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, inspired by Rails callbacks.
+- [bitio](https://github.com/whaleygeek/bitio) - A micro:bit I/O device library for Python
+- [mu](https://github.com/mu-editor/mu) - A small, simple editor for beginner Python programmers. Written in Python and Qt5.
+- [djburger](https://github.com/orsinium/djburger) - Framework for safe and maintainable web-projects.
+- [fqdn](https://github.com/guyhughes/fqdn) - RFC-compliant FQDN validation and manipulation for Python.
+- [pythonchain](https://github.com/jsbueno/pythonchain) - 
+- [blueman](https://github.com/blueman-project/blueman) - 
+- [dictquery](https://github.com/cyberlis/dictquery) - Library to query python dicts
+- [django-axes](https://github.com/jazzband/django-axes) - Keep track of failed login attempts in Django-powered sites.
+- [python-intervals](https://github.com/AlexandreDecan/python-intervals) - Python library for interval arithmetic
+- [pynubank](https://github.com/andreroggeri/pynubank) - Acesse seus extratos do Nubank pelo Python (Baseado na versão JS: https://github.com/Astrocoders/nubank-api)
+- [drawille](https://github.com/asciimoo/drawille) - Pixel graphics in terminal with unicode braille characters
+- [sistine](https://github.com/bijection/sistine) - Turn a MacBook into a Touchscreen with $1 of Hardware
+- [django-tsvector-field](https://github.com/damoti/django-tsvector-field) - Django field for tsvector (PostgreSQL full text search vector) with managed stored procedure and triggers.
+- [django-database-files-3000](https://github.com/chrisspen/django-database-files-3000) - A storage system for Django that stores uploaded files in the database.
+- [lupin](https://github.com/holinnn/lupin) - Python document object mapper (load python object from JSON and vice-versa)
+- [gopro-py-api](https://github.com/KonradIT/gopro-py-api) - Unofficial GoPro API Library for Python - connect to GoPro via WiFi.
+- [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
+- [import-pypi](https://github.com/miedzinski/import-pypi) - One dependency to rule them all.
+- [memorious](https://github.com/alephdata/memorious) - Distributed crawling framework for documents and structured data.
+- [ScrapedIn](https://github.com/dchrastil/ScrapedIn) - A tool to scrape LinkedIn without API restrictions for data reconnaissance
+- [slicker](https://github.com/Khan/slicker) - a tool for moving things in python
+- [django-xcbv](https://github.com/yourlabs/django-xcbv) - UNUSABLE heavy research around cbv for the lulz, see crudlfap for usable code
+- [dnsrecon](https://github.com/darkoperator/dnsrecon) - DNS Enumeration Script
+- [pyttsx](https://github.com/RapidWareTech/pyttsx) - Cross-platform text-to-speech wrapper
+- [platformio-core](https://github.com/platformio/platformio-core) - An open source ecosystem for IoT development :alien: Cross-platform IDE and unified debugger. Remote unit testing and firmware updates.
+- [django-rest-framework-httpsignature](https://github.com/etoccalino/django-rest-framework-httpsignature) - HTTP Signature support for Django REST framework
+- [architect](https://github.com/maxtepkeev/architect) - A set of tools which enhances ORMs written in Python with more features
+- [django-cte](https://github.com/dimagi/django-cte) - Common Table Expressions (CTE) for Django
+- [django-babel](https://github.com/python-babel/django-babel) - Tools for using Babel with Django
+- [pygnutools](https://github.com/meitham/pygnutools) - Pure python implementation of GNU tools
+- [gidgethub](https://github.com/brettcannon/gidgethub) - An async GitHub API library for Python
+- [django-safedelete](https://github.com/makinacorpus/django-safedelete) - Mask your objects instead of deleting them from your database.
+- [slack-sql](https://github.com/wang502/slack-sql) - :tada: Bring SQL console to Slack
+- [silver](https://github.com/silverapp/silver) - Automated billing and payments for Django with a REST API
+- [inline-plz-bot](https://github.com/guykisel/inline-plz-bot) - Web service version of https://github.com/guykisel/inline-plz - lints your Pull Requests and comments inline on the diffs!
+- [linty_fresh](https://github.com/lyft/linty_fresh) - :sparkles: Surface lint errors during code review
+- [dodgy](https://github.com/landscapeio/dodgy) - Looks at Python code to search for things which look "dodgy" such as passwords or diffs
+- [redistore](https://github.com/lamenezes/redistore) - Pythonic interface for redis
+- [icecream](https://github.com/gruns/icecream) - 🍦 Sweet and creamy print debugging.
+- [sticker](https://github.com/rafaelcaricio/sticker) - Sticker is a powerful yet boilerplate-free alternative to writing your web API.
+- [pyawssfn](https://github.com/bennorth/pyawssfn) - Tools for converting Python code to AWS Step Function json
+- [pgbedrock](https://github.com/Squarespace/pgbedrock) - Manage a Postgres cluster's roles, role memberships, schema ownership, and privileges
+- [lint-review](https://github.com/markstory/lint-review) - An automated code linting bot that integrates various code lint tools with github pull requests.
+- [dateutil](https://github.com/dateutil/dateutil) - Useful extensions to the standard Python datetime features
+- [pymake](https://github.com/mozilla/pymake) - make implementation in Python
+- [dacite](https://github.com/konradhalas/dacite) - Simple creation of data classes from dictionaries.
+- [zadm4py](https://github.com/zedshaw/zadm4py) - Zed's Awesome Debug Macros for Python
+- [hue](https://github.com/UltimateHackers/hue) - Hue will help you to print awesomely in terminals.
+- [black](https://github.com/ambv/black) - The uncompromising Python code formatter
+- [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books that will blow your mind
+- [timeboard](https://github.com/mmamaev/timeboard) - Calendar calculations over business days and work shifts
+- [authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth and OpenID Connect servers. JWS,JWK,JWA,JWT included.
+- [relstorage](https://github.com/zodb/relstorage) - A backend for ZODB that stores pickles in a relational database.
+- [django-servertiming](https://github.com/agiliq/django-servertiming) - 
+- [poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
+- [pwned-passwords-django](https://github.com/ubernostrum/pwned-passwords-django) - Utilities for working with the Pwned Passwords database from Django
+- [S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for open S3 buckets and dump
+- [snug](https://github.com/ariebovenberg/snug) - Write reusable web API interactions
+- [intelmq](https://github.com/certtools/intelmq) - IntelMQ is a solution for IT security teams for collecting and processing security feeds using a message queuing protocol.
+- [raspycammonitor](https://github.com/fvlima/raspycammonitor) - A simple and experimental python script to run on raspberry, that uses picamera and opencv-python to detect human presence by face recognition, taking a photo and sending it through email
+- [aiozmq](https://github.com/aio-libs-abandoned/aiozmq) - Asyncio (pep 3156) integration with ZeroMQ
+- [redbaron](https://github.com/PyCQA/redbaron) - Bottom-up approach to refactoring in python
+- [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) - A Python module for creating Excel XLSX files.
+- [pythonnobrasil](https://github.com/rougeth/pythonnobrasil) - 📅🐍🇧🇷 Eventos Python no Brasil
+- [maya](https://github.com/kennethreitz/maya) - Datetimes for Humans™
+- [click-plugins](https://github.com/click-contrib/click-plugins) - Register CLI commands via setuptools entry-points.
+- [sendgrid-python](https://github.com/sendgrid/sendgrid-python) - The Official SendGrid Led, Community Driven Python API Library
+- [strictyaml](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
+- [pyformat](https://github.com/myint/pyformat) - Formats Python code to follow a consistent style
+- [policies](https://github.com/klmitch/policies) - An access policy language evaluator.
+- [python-preparer](https://github.com/allisson/python-preparer) - Simple way to build a new dict based on fields declaration
+- [diff-match-patch](https://github.com/google/diff-match-patch) - Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
+- [django-rest-framework-serializer-mixins](https://github.com/allisson/django-rest-framework-serializer-mixins) - Mixins for Django Rest Framework Serializer
+- [jsonmodels](https://github.com/beregond/jsonmodels) - jsonmodels is library to make it easier for you to deal with structures that are converted to, or read from JSON.
+- [fbs](https://github.com/mherrmann/fbs) - Electron alternative based on Python and Qt
+- [asyncpgsa](https://github.com/CanopyTax/asyncpgsa) - A wrapper around asyncpg for use with sqlalchemy
+- [pg_ninja](https://github.com/transferwise/pg_ninja) - The ninja elephant obfuscation and replica tool
+- [python-snippets](https://github.com/progrmoiz/python-snippets) - :100: The most useful python snippets
+- [python-tuco](https://github.com/eatfirst/python-tuco) - EatFirst's Python Finite State Machine!
+- [django-sendfile](https://github.com/johnsensible/django-sendfile) - xsendfile etc wrapper
+- [django-rules-light](https://github.com/yourlabs/django-rules-light) - A fresh approach to security in Django. Conceptually, a simple rule registry dictionnary to manage callbacks. In addition, allows logging of malicious uses, provide a middleware, a class decorator, rule autodiscovery, templatetags, debug views ... and other features to make it enjoyable. Status: production / stable.
+- [catalyst](https://github.com/enigmampc/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python
+- [jasmin](https://github.com/jookies/jasmin) - Jasmin - Open source SMS gateway
+- [umbrella](https://github.com/georgeyk/umbrella) - A collection of code snippets, code examples, PoC and so forth
+- [ibis](https://github.com/dmulholland/ibis) - A lightweight template engine in Python.
+- [cle](https://github.com/angr/cle) - CLE Loads Everything (at least, many binary formats!)
+- [pystradamus](https://github.com/handshake/pystradamus) - Evidence-based scheduling tool for Jira
+- [apistar_pydantic](https://github.com/pslacerda/apistar_pydantic) - Better parameters for APIStar (and pydantic support)
+- [ivy](https://github.com/dmulholland/ivy) - A static website generator built in Python.
+- [termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
+- [pydantic](https://github.com/samuelcolvin/pydantic) - Data validation using Python 3.6 type hinting
+- [pipenv-to-requirements](https://github.com/gsemet/pipenv-to-requirements) - Generate requirements[-dev].txt from Pipfile using pipenv
+- [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
+- [django-multitenant](https://github.com/citusdata/django-multitenant) - Python/Django support for distributed multi-tenant databases like Postgres+Citus
+- [covenant](https://github.com/kisielk/covenant) - Code contracts for Python 3
+- [contracts](https://github.com/AndreaCensi/contracts) - PyContracts is a Python package that allows to declare  constraints on function parameters and return values.  Contracts can be specified using Python3 annotations, or inside a docstring. PyContracts supports a basic type system, variables binding,  arithmetic constraints, and has several specialized contracts and an extension API.
+- [truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
+- [pytest-testmon](https://github.com/tarpas/pytest-testmon) - taking TDD to a new level with testmon and py.test for Python
+- [setuptools-markdown](https://github.com/msabramo/setuptools-markdown) - Use Markdown for your project description
+- [lazyload](https://github.com/thomasballinger/lazyload) - hack for causing Python modules to be loaded lazily
+- [schemalchemy](https://github.com/schematics/schemalchemy) - SchemAlchemy = Schematics + SQLAlchemy
+- [amazon-project](https://github.com/robertervin/amazon-project) - General Amazon.com Search and Scrape System
+- [django-api-bouncer](https://github.com/menecio/django-api-bouncer) - Simple Django app to provide API Gateways for micro-services
+- [sgqlc](https://github.com/profusion/sgqlc) - Simple GraphQL Client
+- [pgsql_fs2w](https://github.com/juliano777/pgsql_fs2w) - 
+- [badassm](https://github.com/pellsson/badassm) - Disgusting little hack assembler. Builds the SMB-disassembly without the need for X816.
+- [pytest-echo](https://github.com/pytest-dev/pytest-echo) - pytest plugin to dump environment variables, package version and generic attributes.
+- [termimg](https://github.com/frnsys/termimg) - render raster images to terminal
+- [trio](https://github.com/python-trio/trio) - Trio – Pythonic async I/O for humans and snake people 🐍
+- [resources](https://github.com/lamenezes/resources) - Resource-centered REST API clients
+- [asks](https://github.com/theelous3/asks) - Async requests-like httplib for python.
+- [mozilla-django-oidc](https://github.com/mozilla/mozilla-django-oidc) - A django OpenID Connect library
+- [pefile](https://github.com/erocarrera/pefile) - pefile is a Python module to read and work with PE (Portable Executable) files
+- [gino](https://github.com/fantix/gino) - GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.
+- [drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django Rest Framework code.
+- [tox-pipenv](https://github.com/tox-dev/tox-pipenv) - A pipenv plugin for Tox
+- [pontoon](https://github.com/mozilla/pontoon) - Localization tool used at Mozilla
+- [spoon](https://github.com/Jiramew/spoon) - A package for building  specific Proxy Pool for different Sites.
+- [sushi](https://github.com/toxinu/sushi) - Sushi is package builder based on template.
+- [Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time!
+- [django-duprequests](https://github.com/CraveFood/django-duprequests) - Drop duplicated requests - Django middleware
+- [pipeline](https://github.com/Nachtfeuer/pipeline) - Spline is a tool that is capable of running locally as well as part of well known pipelines like Jenkins (Jenkinsfile), Travis CI (.travis.yml) or similar ones.
+- [memegen](https://github.com/jacebrowning/memegen) - The open source meme generator.
+- [python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs
+- [lxml](https://github.com/lxml/lxml) - The lxml XML toolkit for Python
+- [asyncpg-utils](https://github.com/allisson/asyncpg-utils) - Utilities for Asyncpg
+- [fleep-py](https://github.com/floyernick/fleep-py) - File format determination library for Python
+- [pytest-deadfixtures](https://github.com/jllorencetti/pytest-deadfixtures) - Plugin to list unused fixtures in your tests
+- [apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
+- [prettyprinter](https://github.com/tommikaikkonen/prettyprinter) - Syntax-highlighting, declarative and composable pretty printer for Python 3.5+
+- [django-querycount](https://github.com/bradmontgomery/django-querycount) - Middleware that Prints the number of DB queries to the runserver console.
+- [fossor](https://github.com/linkedin/fossor) - A plugin-oriented tool for automating the investigation of broken hosts and services.
+- [open-paperless](https://github.com/zhoubear/open-paperless) - Scan, index, and archive all of your paper documents
+- [notifiers](https://github.com/notifiers/notifiers) - The easy way to send notifications
+- [awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
+- [redbeat](https://github.com/sibson/redbeat) - RedBeat is a Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.
+- [docassemble](https://github.com/jhpyle/docassemble) - A free, open-source expert system for guided interviews and document assembly, based on Python, YAML, and Markdown.
+- [django-csvimport](https://github.com/edcrewe/django-csvimport) - A generic CSV import tool for django models, imports run via admin upload logging model or custom command
+- [sumeval](https://github.com/chakki-works/sumeval) - Well tested & Multi-language evaluation framework for text summarization.
+- [MonkeyType](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types
+- [antidote](https://github.com/Finistere/antidote) - Dependency injection for Python
+- [aiohttp-security](https://github.com/aio-libs/aiohttp-security) - auth and permissions for aiohttp
+- [pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
+- [retox](https://github.com/tonybaloney/retox) - For running a local continuous testing environment with tox
+- [peewee-async](https://github.com/05bit/peewee-async) - Asynchronous interface for peewee ORM powered by asyncio
+- [weakreflist](https://github.com/apieum/weakreflist) - sources of weakref Lists
+- [SampleScanner](https://github.com/psobot/SampleScanner) - Convert hardware MIDI instruments into software instruments from the command line.
+- [aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
+- [django-heroku](https://github.com/heroku/django-heroku) - A Django library for Heroku apps.
+- [secretary](https://github.com/christopher-ramirez/secretary) - Take the power of Jinja2 templates to OpenOffice and LibreOffice.
+- [tomd](https://github.com/gaojiuli/tomd) - Convert HTML to Markdown.
+- [toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
+- [PythonVerbalExpressions](https://github.com/VerbalExpressions/PythonVerbalExpressions) - 
+- [richtext.org](https://github.com/kennethreitz/richtext.org) - a place to share things™
+- [scrapy-bench](https://github.com/scrapy/scrapy-bench) - A CLI for benchmarking Scrapy.
+- [tornado-webservices](https://github.com/rancavil/tornado-webservices) - A implementation of SOAP web services for tornado web server
+- [learn-more-python-the-hard-way-solutions](https://github.com/zedshaw/learn-more-python-the-hard-way-solutions) - 
+- [pypika](https://github.com/kayak/pypika) - PyPika is a SQL query builder with a pythonic syntax that doesn't limit the expressiveness of SQL
+- [pika](https://github.com/pika/pika) - Pure Python RabbitMQ/AMQP 0-9-1 client library
+- [passwordmetrics](https://github.com/regebro/passwordmetrics) - A library to get metrics about passwords
+- [wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
+- [activitywatch](https://github.com/ActivityWatch/activitywatch) - Log what you do on your computer. Simple (yet powerful), extensible, no third parties.
+- [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages
+- [pyemojify](https://github.com/lord63/pyemojify) - Substitutes emoji aliases to emoji raw characters. Simple but sweet :smile:
+- [django-datatable-view](https://github.com/pivotal-energy-solutions/django-datatable-view) - Server-side datatable representations for Django querysets for automatic rendering in templates
+- [pylint-django](https://github.com/PyCQA/pylint-django) - Pylint plugin for improving code analysis for when using Django
+- [bowtie](https://github.com/jwkvam/bowtie) - :bowtie: Create a dashboard with python!
+- [asgiref](https://github.com/django/asgiref) - ASGI in-memory channel layer
+- [olympus](https://github.com/galiboo/olympus) - An instant REST API for any AI model 🔥
+- [pytest-annotate](https://github.com/kensho-technologies/pytest-annotate) - Generate PyAnnotate annotations from your pytest tests.
+- [automatic-memes](https://github.com/burningion/automatic-memes) - Automatic Memes in Python with Face Detection
+- [cloud-inquisitor](https://github.com/RiotGames/cloud-inquisitor) - Enforce ownership and data security within AWS
+- [oppia](https://github.com/oppia/oppia) - Tool for collaboratively building interactive lessons.
+- [tableschema-py](https://github.com/frictionlessdata/tableschema-py) - A Python library for working with Table Schema.
+- [q](https://github.com/harelba/q) - q - Run SQL directly on CSV or TSV files
+- [parso](https://github.com/davidhalter/parso) - A Python Parser
+- [pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) - py.test fixture for benchmarking code
+- [django-log-request-id](https://github.com/dabapps/django-log-request-id) - Django middleware and log filter to attach a unique ID to every log message generated as part of a request
+- [django-windows-tools](https://github.com/antoinemartin/django-windows-tools) - Django application providing management commands to host Django projects in Windows environments
+- [dotmod](https://github.com/sciyoshi/dotmod) - Import Python packages from folders with dotted names
+- [torpeewee](https://github.com/snower/torpeewee) - Tornado and asyncio asynchronous ORM by peewee
+- [aiopeewee](https://github.com/kszucs/aiopeewee) - Asyncio interface for Peewee ORM
+- [micropython-upyphone](https://github.com/jeffmer/micropython-upyphone) - A gsm phone using pyboard and sim800l
+- [snakeviz](https://github.com/jiffyclub/snakeviz) - An in-browser Python profile viewer
+- [cloudping](https://github.com/mlavin/cloudping) - AWS Hosted Uptime Monitoring
+- [Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r) - Know the dangers of credential reuse attacks.
+- [dramatiq](https://github.com/Bogdanp/dramatiq) - A fast and reliable distributed task processing library for Python 3.
+- [pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations
+- [dhash](https://github.com/Jetsetter/dhash) - Python library to calculate the difference hash (perceptual hash) for a given image, useful for detecting duplicates
+- [pytest-concurrent](https://github.com/reverbc/pytest-concurrent) - concurrently execute test cases with multi-thread, multi-process and gevent
+- [pytest-mp](https://github.com/ansible/pytest-mp) - multiprocessing.Process(target=pytest_runtest_protocol, args=(your_test, None))
+- [objectifier](https://github.com/lionheart/objectifier) - Objectify your Python objects.
+- [django-easy-pdf](https://github.com/nigma/django-easy-pdf) - PDF views, the easy way
+- [uplink](https://github.com/prkumar/uplink) - A Declarative HTTP Client for Python
+- [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
+- [sqs-s3-logger](https://github.com/ellimilial/sqs-s3-logger) - Automated serverless logging to S3 via SQS.
+- [aioinflux](https://github.com/plugaai/aioinflux) - Asynchronous Python client for InfluxDB
+- [async-pluct](https://github.com/globocom/async-pluct) - A Python asyncio JSON Hyper Schema client that allows hypermedia navigation and resource validation.
+- [py-money](https://github.com/vimeo/py-money) - Money class for Python 3
+- [blinker](https://github.com/jek/blinker) - A fast Python in-process signal/event dispatching system.
+- [reobject](https://github.com/onyb/reobject) - Python without ifs and buts - an ORM layer for Python objects, inspired by Django
+- [jsonobject](https://github.com/dimagi/jsonobject) - A simple json-object mapping for Python
+- [noipy](https://github.com/pv8/noipy) - Command line tool to update DDNS: No-IP, DuckDNS and DynDNS hosts IP
+- [lambda-packs](https://github.com/ryfeus/lambda-packs) - Precompiled packages for AWS Lambda
+- [pexpect](https://github.com/pexpect/pexpect) - A Python module for controlling interactive programs in a pseudo-terminal
+- [webpreview](https://github.com/ludbek/webpreview) - Extracts OpenGraph, TwitterCard and Schema properties from a webpage.
+- [drf_openapi](https://github.com/limdauto/drf_openapi) - Beautiful Django Rest Framework API documentation autogeneration through OpenAPI standard
+- [rstcloth](https://github.com/cyborginstitute/rstcloth) - 
+- [multidimensional_urlencode](https://github.com/uber/multidimensional_urlencode) - Python library to urlencode a multidimensional dict
+- [incubator-airflow](https://github.com/apache/incubator-airflow) - Apache Airflow (Incubating)
+- [pyschemes](https://github.com/shivylp/pyschemes) - PySchemes is a library for validating data structures in python
+- [curequests](https://github.com/guyskk/curequests) - Curio + Requests: Async HTTP for Humans
+- [pypette](https://github.com/csurfer/pypette) - Ridiculously simple flow controller for building complex pipelines
+- [django-rest-framework-rapidjson](https://github.com/allisson/django-rest-framework-rapidjson) - Provides rapidjson support with parser and renderer
+- [django-mutant](https://github.com/charettes/django-mutant) - Dynamic model definition and alteration (evolving schemas)
+- [pets](https://github.com/jllorencetti/pets) - Pets is a Django-based website that allows people to share photos and information about missing pets and pets available for adoption
+- [pyt](https://github.com/python-security/pyt) - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications
+- [ray](https://github.com/ray-project/ray) - A high-performance distributed execution engine
+- [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection microframework for Python
+- [zappa-django-utils](https://github.com/Miserlou/zappa-django-utils) - A handy Django application to supercharge your Zappa deployments.
+- [metapipe](https://github.com/TorkamaniLab/metapipe) - A pipeline generator and runtime system
+- [pytest-fauxfactory](https://github.com/omaciel/pytest-fauxfactory) - Library integrating fauxfactory into pytest namespace and maybe even more.
+- [django-components](https://github.com/EmilStenstrom/django-components) - A way to create simple reusable template components in Django.
+- [json-streamer](https://github.com/kashifrazzaqui/json-streamer) - A fast streaming JSON parser for Python that generates SAX-like events using yajl
+- [jp](https://github.com/jmespath/jp) - Command line interface to JMESPath - http://jmespath.org
+- [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
+- [aiojobs](https://github.com/aio-libs/aiojobs) - Jobs scheduler for managing background task (asyncio)
+- [django-polymorphic-tree](https://github.com/django-polymorphic/django-polymorphic-tree) - Polymorphic MPTT tree support for models
+- [errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
+- [surfrdf](https://github.com/cosminbasca/surfrdf) - SuRF: a python Object RDF Mapper (ORM).
+- [django-filebrowser](https://github.com/sehmaschine/django-filebrowser) - Media-Management with Grappelli
+- [awslambda-psycopg2](https://github.com/jkehler/awslambda-psycopg2) - 
+- [certificator](https://github.com/lamenezes/certificator) - Generate course certificates easily
+- [aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
+- [The-Python-Graph-Gallery](https://github.com/holtzy/The-Python-Graph-Gallery) - A website displaying hundreds of charts made with Python
+- [drf-dynamic-fields](https://github.com/dbrgn/drf-dynamic-fields) - Dynamically select only a subset of fields per DRF resource, either using a whitelist or a blacklist.
+- [django-htk](https://github.com/hacktoolkit/django-htk) - A set of apps, utilities, middlewares, etc for Django
+- [hacktoolkit](https://github.com/hacktoolkit/hacktoolkit) - The one Open Source project to rule them all. Win hackathons by using refined APIs and bootstrap code to build complete websites and apps in 24 hours. Bootstraps, skeletons, algorithms, design patterns, and more!
+- [pluggy](https://github.com/pytest-dev/pluggy) - A minimalist production ready plugin system
+- [qsq](https://github.com/georgeyk/qsq) - 
+- [milksnake](https://github.com/getsentry/milksnake) - A setuptools/wheel/cffi extension to embed a binary data in wheels
+- [nginx-amplify-agent](https://github.com/nginxinc/nginx-amplify-agent) - NGINX Amplify Agent
+- [spelling](https://github.com/sphinx-contrib/spelling) - 
+- [aiotask-context](https://github.com/Skyscanner/aiotask-context) - Contextual information for asyncio tasks
+- [Tomorrow](https://github.com/madisonmay/Tomorrow) - Magic decorator syntax for asynchronous code in Python
+- [pipsearch](https://github.com/shubhodeep9/pipsearch) - A library to search through libraries of python 2 and 3 in pypi repositories
+- [plotille](https://github.com/tammoippen/plotille) - Plot in the terminal using braille dots.
+- [halo](https://github.com/ManrajGrover/halo) - 💫 Beautiful spinners for terminal, IPython and Jupyter
+- [sentry-patrol](https://github.com/daneoshiga/sentry-patrol) - Command line interface for Sentry API
+- [coconut](https://github.com/evhub/coconut) - Simple, elegant, Pythonic functional programming.
+- [django-rest-framework-proxy](https://github.com/eofs/django-rest-framework-proxy) - Django Rest Framework Proxy views
+- [Pytesser](https://github.com/RobinDavid/Pytesser) - Python wrapper for the tesseract OCR engine. The module is based on OpenCV
+- [graphscii](https://github.com/etano/graphscii) - Print ASCII graphs in the terminal.
+- [django-gamification](https://github.com/mattjegan/django-gamification) - The missing Django Gamification Package
+- [changelogs](https://github.com/pyupio/changelogs) - A changelog finder and parser for packages available on pypi, npm and rubygems.
+- [safety-db](https://github.com/pyupio/safety-db) - A curated database of insecure Python packages
+- [gather](https://github.com/elcaminoreal/gather) - Gather -- collect all your plugins!
+- [molotov](https://github.com/loads/molotov) - Load Testing Tool
+- [nefertari](https://github.com/ramses-tech/nefertari) - Nefertari is a REST API framework sitting on top of Pyramid and ElasticSearch
+- [django-zerodowntime](https://github.com/rentlytics/django-zerodowntime) - django migration utilities for zero downtime continuous delivery
+- [mitogen](https://github.com/dw/mitogen) - Distributed self-replicating programs in Python
+- [Misago](https://github.com/rafalp/Misago) - Misago is fully featured forum application written in Python and ES6, powered by Django and React.js
+- [snapshottest](https://github.com/syrusakbary/snapshottest) - Snapshot Testing utils for Python 📸
+- [poet](https://github.com/sdispater/poet) - Poet helps you declare, manage and install dependencies of Python projects, ensuring you have the right stack everywhere.
+- [pyrsistent](https://github.com/tobgu/pyrsistent) - Persistent/Immutable/Functional data structures for Python
+- [querystring-parser](https://github.com/bernii/querystring-parser) - QueryString parser for Python/Django that correctly handles nested dictionaries
+- [skry](https://github.com/liddiard/skry) - Extendable CMS for small news organizations following decoupled CMS design paradigm. Built on Django Rest Framework. Dynamic image resizing, revision history, fully exposable models API.
+- [hatch](https://github.com/ofek/hatch) - A modern project, package, and virtual env manager for Python
+- [atq](https://github.com/nvdv/atq) - distributed task queue for asyncio
+- [channels-example](https://github.com/jacobian/channels-example) - An example Channels app
+- [python-choicesenum](https://github.com/loggi/python-choicesenum) - Python's Enum with extra powers to play nice with labels and choices fields.
+- [pycrypto](https://github.com/dlitz/pycrypto) - The Python Cryptography Toolkit
+- [jose](https://github.com/Demonware/jose) - Python implementation of the Javascript Object Signing and Encryption (JOSE) framework (https://datatracker.ietf.org/wg/jose/charter/)
+- [catinabox](https://github.com/keeppythonweird/catinabox) - Intro to Testing and Test Automation in Python
+- [background](https://github.com/kennethreitz/background) - Runs things in the background.
+- [requests-threads](https://github.com/requests/requests-threads) - 🎭 Twisted Deferred Thread backend for Requests.
+- [daywatch](https://github.com/tryolabs/daywatch) - E-commerce scraping and analytics platform.
+- [ml-rest](https://github.com/apinf/ml-rest) - REST API (and possible UI) for Machine Learning workflows
+- [percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of surprising Python snippets and lesser-known features.
+- [csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
+- [requests-http-signature](https://github.com/kislyuk/requests-http-signature) - A Requests auth module for the HTTP Signature IETF draft standard RFC
+- [xlrd](https://github.com/python-excel/xlrd) - Library for developers to extract data from Microsoft Excel (tm) spreadsheet files
+- [routes](https://github.com/bbangert/routes) - Routes is a Python URL recognition and generation system similar to the Rails routing system. Routes makes it easy to create pretty and concise URL's that are RESTful with little effort.
+- [setup.py](https://github.com/kennethreitz/setup.py) - 📦 A Human's Ultimate Guide to setup.py.
+- [pluct](https://github.com/globocom/pluct) - A JSON Hyper Schema client that allows hypermedia navigation and resource validation
+- [suponoff](https://github.com/GambitResearch/suponoff) - Supervisor On/Off: an alternative web interface for supervisor
+- [bit](https://github.com/ofek/bit) - Bitcoin made easy.
+- [tldextract](https://github.com/john-kurkowski/tldextract) - Accurately separate the TLD from the registered domain and subdomains of a URL, using the Public Suffix List.
+- [pyheatmagic](https://github.com/csurfer/pyheatmagic) - IPython magic command to profile and view your python code as a heat map.
+- [pygraphistry](https://github.com/graphistry/pygraphistry) - PyGraphistry is library to extract, transform, and visually explore big graphs
+- [mutmut](https://github.com/boxed/mutmut) - Mutation testing lib
+- [django-sesame](https://github.com/aaugustin/django-sesame) - URLs with authentication tokens for automatic login
+- [tenacity](https://github.com/jd/tenacity) - Retrying library for Python
+- [rstview](https://github.com/sveetch/rstview) - Simple Django application around docutils to parse reStructuredText markup
+- [django-hashbrown](https://github.com/potatolondon/django-hashbrown) - Yet another feature switching app for Django
+- [markdocs](https://github.com/rochacbruno/markdocs) - Extract markdown from Python source file comments and outputs structured documentation & README file.
+- [rocadocs](https://github.com/rocadocs/rocadocs) - [ABANDONED] Opinionated static documentation generator using Markdown
+- [comment_parser](https://github.com/jeanralphaviles/comment_parser) - Python module to extract comments from source code files of various types.
+- [asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
+- [jwcrypto](https://github.com/latchset/jwcrypto) - Implements JWK,JWS,JWE specifications using python-cryptography
+- [pyjwkest](https://github.com/IdentityPython/pyjwkest) - Implementation of JWT, JWS, JWE and JWK
+- [django-cloudflare-push](https://github.com/skorokithakis/django-cloudflare-push) - A piece of middleware that uses Cloudflare's HTTP/2 Push to push static media to the clients.
+- [django-developer-panel](https://github.com/loftylabs/django-developer-panel) - Debug Django applications directly in Google Chrome Devtools.
+- [anomaly-detection](https://github.com/indeedeng/anomaly-detection) - 
+- [neighborhood_mood_aws](https://github.com/jarrellmark/neighborhood_mood_aws) - 
+- [luminoth](https://github.com/tryolabs/luminoth) - Deep Learning toolkit for Computer Vision
+- [django-cachemodel](https://github.com/concentricsky/django-cachemodel) - Automatic caching for django models.
+- [pybbm](https://github.com/hovel/pybbm) - Django forum solution. Tested, documented, shipped with example project.
+- [django-service-objects](https://github.com/mixxorz/django-service-objects) - Service objects for Django
+- [pytest-randomly](https://github.com/pytest-dev/pytest-randomly) - :game_die: Pytest plugin to randomly order tests and control random.seed
+- [mutpy](https://github.com/mutpy/mutpy) - MutPy is a mutation testing tool for Python 3.x source code
+- [conformity](https://github.com/eventbrite/conformity) - 
+- [arcade](https://github.com/pvcraven/arcade) - Easy to use Python library for creating 2D arcade games.
+- [dnspython](https://github.com/rthalley/dnspython) - a powerful DNS toolkit for python
+- [jiraya](https://github.com/rochacon/jiraya) - Jiraya - Simple Jira CLI
+- [backoff](https://github.com/litl/backoff) - Python library providing function decorators for configurable backoff and retry
+- [tkpf](https://github.com/marczellm/tkpf) - A GUI library for python/tkinter with two-way data binding
+- [dash](https://github.com/plotly/dash) - Interactive, Reactive Web Apps for Python. Dash Is Productive™
+- [stream-django](https://github.com/GetStream/stream-django) - Django Client - Build Activity Feeds & Streams with GetStream.io
+- [graphql-compiler](https://github.com/kensho-technologies/graphql-compiler) - Turn complex GraphQL queries into optimized database queries.
+- [healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django
+- [coala-bears](https://github.com/coala/coala-bears) - Bears for coala
+- [pywonderland](https://github.com/neozhaoliang/pywonderland) - Render beautiful images and animate interesting algorithms in mathematics with Python. Fractals, Penrose tilings, reaction-diffusion, Wilson's uniform spanning tree algorithm, domino shuffling algorithm, coupling from the past,  4D polytopes, Mobius transformations, hyperbolic tilings. www.pywonderland.com.
+- [lollipop](https://github.com/maximkulkin/lollipop) - Python data serialization/validation library
+- [pionic](https://github.com/tlocke/pionic) - A Python library for the Ion format
+- [vaurien](https://github.com/community-libs/vaurien) - TCP hazard proxy
+- [django-bug-finder](https://github.com/vintasoftware/django-bug-finder) - 
+- [requests-wsgi-adapter](https://github.com/seanbrant/requests-wsgi-adapter) - WSGI Transport Adapter for Requests
+- [imgspy](https://github.com/nkanaev/imgspy) - imgspy finds the metadata (type, size) of an image given its url by fetching as little as needed
+- [db](https://github.com/newtdb/db) - Newt DB is a Python object-oriented database with JSONB-based access and search in PostgreSQL
+- [django-rest-easy](https://github.com/Telmediq/django-rest-easy) - django-rest-easy is an extension to DRF providing QOL improvements to serializers and views.
+- [networkx](https://github.com/networkx/networkx) - Official NetworkX source code repository.
+- [graphviz](https://github.com/xflr6/graphviz) - Simple Python interface for Graphviz
+- [hyperlink](https://github.com/python-hyper/hyperlink) - 🔗 Immutable, Pythonic, correct URLs.
+- [sukhoi](https://github.com/untwisted/sukhoi) - Minimalist and powerful Web Crawler.
+- [shellpic](https://github.com/larsjsol/shellpic) - ASCII-art is so 2013
+- [django-eraserhead](https://github.com/dizballanze/django-eraserhead) - 💂🏻 Django package that provides hints to optimize database usage by deferring unused fields (and more)
+- [certifico](https://github.com/raelmax/certifico) - App para geração e envio de certificados para eventos
+- [djurl](https://github.com/venturachrisdev/djurl) - Simple yet helpful library for writing Django urls by an easy, short an intuitive way.
+- [pycep-correios](https://github.com/mstuttgart/pycep-correios) - Busca CEP utilizando webservice SIGEPWEB dos Correios
+- [Cactus](https://github.com/eudicots/Cactus) - Static site generator for designers. Uses Python and Django templates.
+- [stackimpact-python](https://github.com/stackimpact/stackimpact-python) - StackImpact Python Profiler - Production-Grade Performance Profiler: CPU, memory allocations, blocking calls, exceptions, metrics, and more
+- [tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files
+- [wagtail-personalisation](https://github.com/wagtail/wagtail-personalisation) - Rule-based personalisation for Wagtail CMS
+- [uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server. 🦄
+- [Python-Name-Parser](https://github.com/vatsel/Python-Name-Parser) - Guess last and first names in strings. Select by popularity or maximum char usage.
+- [django-pgviews](https://github.com/mypebble/django-pgviews) - Fork of django-postgres that focuses on maintaining and improving support for Postgres SQL Views.
+- [scrapy-heroku](https://github.com/dmclain/scrapy-heroku) - 
+- [nlib](https://github.com/mdipierro/nlib) - The book "Annotated Algorithms in Python" and the nlib.py library
+- [frontera](https://github.com/scrapinghub/frontera) - A scalable frontier for web crawlers
+- [pypinfo](https://github.com/ofek/pypinfo) - Easily view PyPI download statistics via Google's BigQuery.
+- [JSON-path](https://github.com/jabbalaci/JSON-path) - Find the path of a key / value in a JSON hierarchy easily.
+- [barely_json](https://github.com/torfsen/barely_json) - A Python parser for data that only looks like JSON
+- [parslepy](https://github.com/redapple/parslepy) - Python implementation of the Parsley language for extracting structured data from web pages
+- [outfancy](https://github.com/carlosplanchon/outfancy) - Python3 library to print tables in Terminal.
+- [imapfw](https://github.com/OfflineIMAP/imapfw) - imapfw (IMAP/mail framework)
+- [django-naomi](https://github.com/edwinlunando/django-naomi) - Django email backend
+- [logging-spinner](https://github.com/dahlia/logging-spinner) - Display spinners (in CLI) through Python standard logging
+- [html2markdown](https://github.com/dlon/html2markdown) - Conservatively convert html to markdown
+- [jobtastic](https://github.com/PolicyStat/jobtastic) - Make your user-responsive long-running Celery jobs totally awesomer.
+- [charlatan](https://github.com/uber/charlatan) - A Python library to efficiently manage and install database fixtures
+- [Box](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access
+- [subconscious](https://github.com/paxos-bankchain/subconscious) - redis-backed (in memory) db for python3 that is asyncio compatible
+- [dsert](https://github.com/paxos-bankchain/dsert) - Library to test all fields of a python dictionary
+- [bookmark-archiver](https://github.com/pirate/bookmark-archiver) - 🗄 Save an archived copy of websites imported via Pocket/Pinboard/Bookmarks/RSS. Outputs static html.
+- [django-actistream](https://github.com/pennersr/django-actistream) - Activities & notifications for Django
+- [numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
+- [folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.
+- [xphyle](https://github.com/jdidion/xphyle) - Python library that facilitates opening, reading, and writing files (and file-like entities like URLs and streams) agnostic of compression format. (production)
+- [django-rest-elasticsearch](https://github.com/myarik/django-rest-elasticsearch) - Elasticsearch support for Django REST Framework
+- [python-notifyAll](https://github.com/inforian/python-notifyAll) - A library which can be used for all types of notifications like SMS, Mail, Push.
+- [bonobo](https://github.com/python-bonobo/bonobo) - Extract Transform Load for Python 3.5+
+- [workdays](https://github.com/ogt/workdays) - Extend python datetime with excel-like workday addition/subtraction functionality
+- [python-bizdays](https://github.com/wilsonfreitas/python-bizdays) - Business days calculations and utilities
+- [pycnic](https://github.com/nullism/pycnic) - A JSON API web framework for lazy people.
+- [timy](https://github.com/ramonsaraiva/timy) - Minimalist measurement of python code time
+- [python-vindi](https://github.com/allisson/python-vindi) - Integração com API da Vindi (Python 3.5+)
+- [graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
+- [pyup-django](https://github.com/pyupio/pyup-django) - Displays a red warning banner if you are running an insecure Django release.
+- [influxdb-python](https://github.com/influxdata/influxdb-python) - Python client for InfluxDB
+- [django-csp](https://github.com/mozilla/django-csp) - Content Security Policy for Django.
+- [aiosmtplib](https://github.com/cole/aiosmtplib) - asyncio smtplib implementation
+- [nplusone](https://github.com/jmcarp/nplusone) - Auto-detecting the n+1 queries problem in Python
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [marshmallow-jsonschema](https://github.com/fuhrysteve/marshmallow-jsonschema) - JSON Schema Draft v4 (http://json-schema.org/) formatting with marshmallow
+- [ltreefield](https://github.com/whitglint/ltreefield) - Django Field class for PostgreSQL ltree data type.
+- [django-perf-rec](https://github.com/YPlan/django-perf-rec) - Keep detailed records of the performance of your Django code.
+- [kim](https://github.com/mikeywaites/kim) - Kim: A JSON Serialization and Marshaling framework
+- [django-polymorphic](https://github.com/django-polymorphic/django-polymorphic) - Improved Django model inheritance with automatic downcasting
+- [djangopackages](https://github.com/djangopackages/djangopackages) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
+- [python-simple-rest-client](https://github.com/allisson/python-simple-rest-client) - Simple REST client for python 3.5+
+- [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
+- [python-draftlog](https://github.com/kepoorhampond/python-draftlog) - :scroll: Update your previous lines in the terminal.
+- [django-auditlog](https://github.com/jjkester/django-auditlog) - A Django app that keeps a log of changes made to an object.
+- [consolemd](https://github.com/kneufeld/consolemd) - render markdown to the console (not just highlight it)
+- [paco](https://github.com/h2non/paco) - Small utility library for coroutine-driven asynchronous generic programming in Python +3.4
+- [django-rundbg](https://github.com/octobot-dev/django-rundbg) - Provides a lightweight development runserver on Werkzeug with debugging
+- [simple-rbac](https://github.com/tonyseek/simple-rbac) - A simple role based access control utility for Python.
+- [typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
+- [pycan](https://github.com/jusbrasil/pycan) - 
+- [packaging](https://github.com/pypa/packaging) - Core utilities for Python packages
+- [cnab240](https://github.com/TracyWebTech/cnab240) - CNAB240
+- [djangorestframework-auth0](https://github.com/mcueto/djangorestframework-auth0) - Library to simply use Auth0 token authentication in DRF within djangorestframework-jwt
+- [st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 2000+ integrations (see https://exchange.stackstorm.org), ChatOps, etc. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/.
+- [public-apis](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development.
+- [opentracing-python](https://github.com/opentracing/opentracing-python) - OpenTracing API for Python
+- [pinject](https://github.com/google/pinject) - A pythonic dependency injection library.
+- [injector](https://github.com/alecthomas/injector) - Python dependency injection framework, inspired by Guice
+- [aiostream](https://github.com/vxgmichel/aiostream) - Generator-based operators for asynchronous iteration -
+- [better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
+- [brazilian-cities](https://github.com/cuducos/brazilian-cities) - A script to generate list with all Brazilian cities and states
+- [pdfquery](https://github.com/jcushman/pdfquery) - A fast and friendly PDF scraping library.
+- [apistar](https://github.com/encode/apistar) - A smart Web API framework, for Python 3. 🌟
+- [aws-requests-auth](https://github.com/DavidMuller/aws-requests-auth) - AWS signature version 4 signing process for the python requests module
+- [urlman](https://github.com/andrewgodwin/urlman) - 
+- [home-assistant](https://github.com/home-assistant/home-assistant) - :house_with_garden: Open-source home automation platform running on Python 3
+- [aiotasks](https://github.com/cr0hn/aiotasks) - A Celery like task manager that distributes Asyncio coroutines
+- [django-drip](https://github.com/zapier/django-drip) - :droplet: Use Django admin to manage drip campaign emails using querysets on Django's User model.
+- [pytest-watch](https://github.com/joeyespo/pytest-watch) - Local continuous test runner with pytest and watchdog.
+- [json-spec](https://github.com/johnnoone/json-spec) - Implements some tools for JSON
+- [django-rest-framework-passwordless](https://github.com/aaronn/django-rest-framework-passwordless) - Passwordless Auth for Django REST Framework
+- [django-lazysignup](https://github.com/danfairs/django-lazysignup) - django-lazysignup is a package designed to allow users to interact with a site as if they were authenticated users, but without signing up. At any time,  they can convert their temporary user account to a real user account.
+- [rewind](https://github.com/JensRantil/rewind) - Rewind is a (CQRS) event store server written in Python.
+- [eventsourcing](https://github.com/johnbywater/eventsourcing) - Event sourcing in Python
+- [django-cte-trees](https://github.com/petrounias/django-cte-trees) - Django Adjacency-List trees using PostgreSQL Common Table Expressions (CTE)
+- [colour](https://github.com/vaab/colour) - Python color representations manipulation library (RGB, HSL, web, ...)
+- [hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.  You can optionally invoke extensions to block additional sites by category.
+- [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
+- [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
+- [slack-cleaner](https://github.com/kfei/slack-cleaner) - :speech_balloon: Bulk delete messages and files on Slack
+- [drf-oidc-auth](https://github.com/ByteInternet/drf-oidc-auth) - OpenID Connect authentication for Django REST Framework
+- [unidump](https://github.com/Codepoints/unidump) - hexdump(1) for Unicode data
+- [django-fullurl](https://github.com/Flimm/django-fullurl) - Adds three template tags: `fullurl`, `fullstatic` and `buildfullurl`. The template tag `fullurl` acts just like `url`, but it always prints absolute URLs with scheme and domain
+- [heroku-jupyter](https://github.com/pl31/heroku-jupyter) - One-click deployment for jupyter on heroku
+- [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+- [Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software) - 🐧 A list of awesome applications, software, tools and other materials for Linux distros.
+- [PTable](https://github.com/kxxoling/PTable) - PrettyTable is a simple Python library designed to make it quick and easy to represent tabular data in visually appealing ASCII tables.
+- [django-werkzeug](https://github.com/joeyespo/django-werkzeug) - Enhances Django runserver with Werkzeug.
+- [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [drf-writable-nested](https://github.com/beda-software/drf-writable-nested) - Writable nested model serializer for Django REST Framework
+- [django-nap](https://github.com/funkybob/django-nap) - A light REST library for Django.
+- [django-enumfields](https://github.com/hzdg/django-enumfields) - Real Python Enums for Django
+- [yarl](https://github.com/aio-libs/yarl) - Yet another URL library
+- [elasticpypi](https://github.com/khornberg/elasticpypi) - Serverless pypi
+- [arq](https://github.com/samuelcolvin/arq) - Fast job queuing and RPC in python with asyncio, redis and msgpack.
+- [pytest-incremental](https://github.com/pytest-dev/pytest-incremental) - py-test plugin: an incremental test runner
+- [pytest-services](https://github.com/pytest-dev/pytest-services) - Collection of fixtures and utility functions to run service processes for your tests
+- [pygsheets](https://github.com/nithinmurali/pygsheets) - Google Sheets Python API v4
+- [behold](https://github.com/robdmc/behold) - :eyes: A Debugging Tool
+- [code-poster](https://github.com/jasonmotylinski/code-poster) - Generate an SVG image from a source image using text taken from code files in a github repository.
+- [nicelog](https://github.com/rshk/nicelog) - Formatters to nicely display colorful logging output on the console.
+- [lark](https://github.com/lark-parser/lark) - A modern parsing library for Python, implementing Earley & LALR(1) and an easy interface
+- [django-group-by](https://github.com/kako-nawao/django-group-by) - Have your valuesquerysets return model instances instead of dicts
+- [pyoidc](https://github.com/OpenIDC/pyoidc) - A complete OpenID Connect implementation in Python
+- [django-oidc-provider](https://github.com/juanifioren/django-oidc-provider) - OpenID Connect and OAuth2 provider implementation for Djangonauts.
+- [privy](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data
+- [django-generic-filters](https://github.com/peopledoc/django-generic-filters) - Easy filters for your Django Generic ListView.
+- [django-behaviors](https://github.com/audiolion/django-behaviors) - Easily integrate common behaviors for Django models, e.g. Timestamps, Publishing, Authoring, Editing and more.
+- [pepper8](https://github.com/myth/pepper8) - Transform pep8 or flake8 output to HTML
+- [python-json-logger](https://github.com/madzak/python-json-logger) - Json Formatter for the standard python logger
+- [django-pagedown](https://github.com/timmyomahony/django-pagedown) - A django app that allows the easy addition of Stack Overflow's "PageDown" markdown editor to a django form field, whether in a custom app or the Django Admin
+- [django-markup](https://github.com/bartTC/django-markup) - Convert text markup to html. Markdown, rST, Textile etc.
+- [python-sipsimple](https://github.com/AGProjects/python-sipsimple) - SIP SIMPLE implementation for Python
+- [httpie-aws-auth](https://github.com/httpie/httpie-aws-auth) - AWS / Amazon S3 auth plugin for HTTPie
+- [httpie-jwt-auth](https://github.com/teracyhq/httpie-jwt-auth) - JWTAuth (JSON Web Tokens) auth plugin for HTTPie
+- [usaddress](https://github.com/datamade/usaddress) - :us: a python library for parsing unstructured address strings into address components
+- [sly](https://github.com/dabeaz/sly) - Sly Lex Yacc
+- [pytype](https://github.com/google/pytype) - A static analyzer for Python code
+- [typy.io](https://github.com/kennethreitz/typy.io) - just type™
+- [importd](https://github.com/amitu/importd) - django based mini framework inspired from sinatra. fully compatible with django.
+- [xlsx_streaming](https://github.com/Polyconseil/xlsx_streaming) - Stream data as xlsx
+- [python-ansimarkup](https://github.com/gvalkov/python-ansimarkup) - Produce colored terminal text with an xml-like markup
+- [cpython](https://github.com/python/cpython) - The Python programming language
+- [awslogs](https://github.com/jorgebastida/awslogs) - AWS CloudWatch logs for Humans™
+- [line_profiler](https://github.com/rkern/line_profiler) - Line-by-line profiling for Python
+- [paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
+- [segno](https://github.com/heuer/segno) - Python QR Code and Micro QR Code encoder
+- [saleor](https://github.com/mirumee/saleor) - An e-commerce storefront for Python and Django
+- [pycycle](https://github.com/bndr/pycycle) - Tool for pinpointing circular imports in Python. Find cyclic imports in any project
+- [wsstat](https://github.com/Fitblip/wsstat) - Websocket stress testing made beautiful
+- [fixmydjango-lib](https://github.com/fixmydjango/fixmydjango-lib) - Fix My Django is a library for helping Django developers to find solutions for common Django exceptions
+- [simple-model](https://github.com/lamenezes/simple-model) - data handling made easy
+- [BossSensor](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
+- [django-hide-herokuapp](https://github.com/isms/django-hide-herokuapp) - Django app for Heroku users designed to hide your .herokuapp.com site from search engine results.
+- [django-hostname-redirects](https://github.com/MidwestCommunications/django-hostname-redirects) - An Django app to automatically redirect alternate hostnames to their canonical sites.
+- [client_python](https://github.com/prometheus/client_python) - Prometheus instrumentation library for Python applications
+- [abbr](https://github.com/adlermedrado/abbr) - A library to Abbreviate string contents
+- [gremlins](https://github.com/toddlipcon/gremlins) - Gremlins is a python framework for fault-testing distributed systems
+- [freezegun](https://github.com/spulec/freezegun) - Let your Python tests travel through time
+- [tifu](https://github.com/c0riolis/tifu) - A tool that helps you to restore commits erased by a force push
+- [Reusables](https://github.com/cdgriffith/Reusables) - Commonly Consumed Code Commodities
+- [crayons](https://github.com/kennethreitz/crayons) - Text UI colors for Python.
+- [python-parse-to-json](https://github.com/pgbovine/python-parse-to-json) - Parse Python code to an AST in JSON format, based upon https://github.com/m-labs/pythonparser/
+- [eng_join](https://github.com/kennethreitz/eng_join) - An english joiner for Python.
+- [cage](https://github.com/macostea/cage) - Develop and run your Python applications in clean Docker environments
+- [django-basicauth](https://github.com/hirokiky/django-basicauth) - Basic auth utilities for Django.
+- [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
+- [python-sdk](https://github.com/watson-developer-cloud/python-sdk) - :snake: Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud
+- [pysession](https://github.com/FallibleInc/pysession) - Automatically saves python shell code to a local file or secret Gist
+- [xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf) - A library for converting HTML into PDFs using ReportLab
+- [PyNFSe](https://github.com/marcelobelli/PyNFSe) - Lib que facilita a vida de quem trabalha com Nota Fiscal de Serviços Eletrônica (NFS-e)
+- [python-mocket](https://github.com/mindflayer/python-mocket) - a socket mock framework - for all kinds of socket animals, web-clients included
+- [dynamic-rest](https://github.com/AltSchool/dynamic-rest) - Dynamic extensions for Django REST Framework
+- [nose2pytest](https://github.com/pytest-dev/nose2pytest) - Scripts to convert Python Nose tests to PyTest
+- [drf-flex-fields](https://github.com/rsinger86/drf-flex-fields) - Dynamically set fields and expand nested resources in Django REST Framework serializers.
+- [bottlejwt](https://github.com/agalera/bottlejwt) - JWT plugin for bottle
+- [multipledispatch](https://github.com/mrocklin/multipledispatch) - Multiple dispatch
+- [safety](https://github.com/pyupio/safety) - Safety checks your installed dependencies for known security vulnerabilities
+- [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
+- [lazywf](https://github.com/cleberzavadniak/lazywf) - The laziest web framework ever
+- [mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a fast and easy to use library for Python, which helps generate synthetic data for a variety of purposes in a variety of languages.
+- [django-formfield](https://github.com/jsoa/django-formfield) - django-formfield is a form field that accepts a django form as its first argument
+- [git-reviewers](https://github.com/johnnadratowski/git-reviewers) - 
+- [django-hashid-field](https://github.com/nshafer/django-hashid-field) - Django Model Field that uses Hashids to obscure the value
+- [pep8speaks](https://github.com/OrkoHunter/pep8speaks) - A GitHub :octocat: app to automatically review Python code style over Pull Requests
+- [django-recommends](https://github.com/fcurella/django-recommends) - A django app that builds item-based suggestions for users.
+- [importer](https://github.com/heynemann/importer) - Importer is a library to do dynamic importing of modules in python
+- [django-pixels](https://github.com/kasun/django-pixels) - Tracking pixels made easy
+- [ZODB](https://github.com/zopefoundation/ZODB) - Python object-oriented database
+- [plasma](https://github.com/plasma-disassembler/plasma) - Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
+- [xed](https://github.com/intelxed/xed) - x86 encoder decoder
+- [gutter-django](https://github.com/disqus/gutter-django) - 
+- [gutter](https://github.com/disqus/gutter) - Fully featured Python feature switch toolkit
+- [django-phonenumber-field](https://github.com/stefanfoulis/django-phonenumber-field) - A django model and form field for normalised phone numbers using python-phonenumbers
+- [requests-aws4auth](https://github.com/sam-washington/requests-aws4auth) - Amazon Web Services version 4 authentication for the Python Requests module
+- [chess-surprise-analysis](https://github.com/CYHSM/chess-surprise-analysis) - Find surprising moves in chess games
+- [multidict](https://github.com/aio-libs/multidict) - multidict implementation
+- [django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DefectDojo is an open-source application vulnerability correlation and security orchestration application
+- [pylint](https://github.com/PyCQA/pylint) - A Python source code analyzer which looks for programming errors, helps enforcing a coding standard and sniffs for some code smells
+- [overrides](https://github.com/mkorpela/overrides) - A decorator to automatically detect mismatch when overriding a method
+- [word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
+- [RFC2Kindle](https://github.com/cobblau/RFC2Kindle) - Convert a IETF RFC into a mobi formated file which can be used on kindle
+- [funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools
+- [toolz](https://github.com/pytoolz/toolz) - A functional standard library for Python.
+- [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
+- [servicebook](https://github.com/mozilla/servicebook) - A web service to manage our projects
+- [sandman](https://github.com/jeffknupp/sandman) - Sandman "makes things REST".
+- [pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
+- [watchtower](https://github.com/kislyuk/watchtower) - Python CloudWatch Logging: Log Analytics and Application Intelligence
+- [asymmetric-jwt-auth](https://github.com/crgwbr/asymmetric-jwt-auth) - Django App for machine to machine authentication using JWT and RSA key pairs
+- [python-currencies](https://github.com/Alir3z4/python-currencies) - Display money format and its filthy currencies, for all money lovers out there.
+- [shellfuncs](https://github.com/timofurrer/shellfuncs) - Python API to execute shell functions as they would be Python functions
+- [pytest-leaks](https://github.com/abalkin/pytest-leaks) - A pytest plugin to trace resource leaks.
+- [pook](https://github.com/h2non/pook) - Versatile and expressive HTTP traffic mocking and expectations made simple in Python
+- [harser](https://github.com/sihaelov/harser) - Easy way for HTML parsing and building XPath
+- [python-modernize](https://github.com/python-modernize/python-modernize) - Modernizes Python code for eventual Python 3 migration. Built on top of 2to3.
+- [fixedwidth](https://github.com/ShawnMilo/fixedwidth) - Python fixed-width to/from dict converter.
+- [dynaconf](https://github.com/rochacbruno/dynaconf) - The dynamic configurator for your Python Project
+- [aiometrics](https://github.com/dmonroy/aiometrics) - Generate metrics from AsyncIO applications
+- [pottery](https://github.com/brainix/pottery) - Redis for humans.
+- [mining](https://github.com/mining/mining) - Business Intelligence (BI) in Python, OLAP
+- [libvcs](https://github.com/vcs-python/libvcs) - ⚙️ vcs abstraction layer
+- [kerno](https://github.com/nandoflorestan/kerno) - Framework for a Python application service layer, approximating Uncle Bob Martin's Clean Architecture.
+- [loco](https://github.com/kootenpv/loco) - Share localhost through SSH. Local/Remote port forwarding made safe and easy.
+- [kaneda](https://github.com/APSL/kaneda) - Configurable Python library for metrics and events reporting
+- [pyfailsafe](https://github.com/Skyscanner/pyfailsafe) - Simple failure handling. Failsafe implementation in Python
+- [python-jose](https://github.com/mpdavis/python-jose) - A JOSE implementation in Python
+- [statik](https://github.com/thanethomson/statik) - Multi-purpose static web site generator aimed at developers.
+- [pipfile](https://github.com/pypa/pipfile) - 
+- [jira](https://github.com/pycontribs/jira) - Python JIRA Library is the easiest way to automate JIRA.
+- [wagon](https://github.com/cloudify-cosmo/wagon) - Creates Wheel based archives to allow portable offline installation of Python packages and their dependencies
+- [unirest-python](https://github.com/Kong/unirest-python) - Unirest in Python: Simplified, lightweight HTTP client library.
+- [python-kong](https://github.com/vikingco/python-kong) - A Python client for the Kong API (http://getkong.org/)
+- [django-traffic](https://github.com/koslibpro/django-traffic) - Django middleware that helps visualize your app's traffic in Kibana
+- [django-locking](https://github.com/RobCombs/django-locking) - Prevents users from doing concurrent editing in Django. Works out of the box in the admin interface, or you can integrate it with your own apps using a public API.
+- [smwogger](https://github.com/tarekziade/smwogger) - A smoke test tool for Services described through Swagger
+- [python-zeroless](https://github.com/zmqless/python-zeroless) - ZeroMQ for Pythonistas™
+- [pyconst](https://github.com/valdergallo/pyconst) - PyConst - one simple way to organize the constants
+- [aiobotocore](https://github.com/aio-libs/aiobotocore) - asyncio support for botocore library using aiohttp
+- [aioredis](https://github.com/aio-libs/aioredis) - asyncio (PEP 3156) Redis support
+- [aiopg](https://github.com/aio-libs/aiopg) - aiopg is a library for accessing a PostgreSQL database from the asyncio
+- [aiokafka](https://github.com/aio-libs/aiokafka) - asyncio client for kafka
+- [kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
+- [is-service-up](https://github.com/marcopaz/is-service-up) - Monitor the status of all your cloud services in one page
+- [nltk](https://github.com/nltk/nltk) - NLTK Source
+- [jsondiff](https://github.com/ZoomerAnalytics/jsondiff) - Diff JSON and JSON-like structures in Python
+- [subpar](https://github.com/google/subpar) - Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.
+- [cookiecutter-aiohttp-api](https://github.com/luizalabs/cookiecutter-aiohttp-api) - 
+- [rauth](https://github.com/litl/rauth) - A Python library for OAuth 1.0/a, 2.0, and Ofly.
+- [belogging](https://github.com/georgeyk/belogging) - Easy and opinionated logging configuration for Python apps
+- [pyrasite](https://github.com/lmacken/pyrasite) - Inject code into running Python processes
+- [django-search-views](https://github.com/inmagik/django-search-views) - Search-list class-based views for Django, with form
+- [websauna](https://github.com/websauna/websauna) - Websauna is a full stack Python web framework for building web services and back offices with admin interface and sign up process
+- [pep8radius](https://github.com/hayd/pep8radius) - PEP8 clean only the parts of the files touched since the last commit, a previous commit or (the merge-base of) a branch.
+- [aioconsole](https://github.com/vxgmichel/aioconsole) - Asynchronous console and interfaces for asyncio
+- [lptrace](https://github.com/khamidou/lptrace) - Trace any Python program, anywhere!
+- [sqlalchemy](https://github.com/zzzeek/sqlalchemy) - See the development link for contribution guidelines
+- [peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite
+- [pecan](https://github.com/pecan/pecan) - A WSGI object-dispatching web framework, designed to be lean and fast with few dependencies.
+- [pytest-mypy](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest
+- [sanic](https://github.com/channelcat/sanic) - Async Python 3.5+ web server that's written to go fast
+- [tornaduv](https://github.com/saghul/tornaduv) - Tornado IOLoop implemented with pyuv
+- [dql](https://github.com/stevearc/dql) - A SQL-ish language for DynamoDB
+- [serpy](https://github.com/clarkduvall/serpy) - ridiculously fast object serialization
+- [di-py](https://github.com/telefonicaid/di-py) - Dependency injection in python #di #python
+- [python-flamegraph](https://github.com/evanhempel/python-flamegraph) - Statistical profiler which outputs in format suitable for FlameGraph (http://www.brendangregg.com/flamegraphs.html)
+- [django-api](https://github.com/bipsandbytes/django-api) - Specify and validate your Django APIs in a single block of code
+- [the-coding-interview](https://github.com/mre/the-coding-interview) - Programming exercises, code katas and puzzles for your job interview training - or just for fun.
+- [awslimits](https://github.com/Yipit/awslimits) - 
+- [transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation in Python
+- [ffmpy](https://github.com/Ch00k/ffmpy) - Pythonic interface for FFmpeg/FFprobe command line
+- [hues](https://github.com/prashnts/hues) - Colored terminal text made easy for Python and happiness.
+- [osnap](https://github.com/jamesabel/osnap) - 
+- [pip-chill](https://github.com/rbanffy/pip-chill) - Like pip freeze but just cool
+- [sqlformatter](https://github.com/henriquebastos/sqlformatter) - SQLFormatter: Beautiful colored SQL staments for logging
+- [nlquery](https://github.com/ayoungprogrammer/nlquery) - Natural Language Engine on WikiData
+- [pyjson_tricks](https://github.com/mverleg/pyjson_tricks) - Extra features for Python's JSON: comments, order, numpy, pandas, datetimes, and many more! Simple but customizable.
+- [noteshrink](https://github.com/mzucker/noteshrink) - Convert scans of handwritten notes to beautiful, compact PDFs
+- [flask-jwt-extended](https://github.com/vimalloc/flask-jwt-extended) - A Flask JWT extension that supports refresh tokens, blacklisting/revoking tokens, and token freshness (for accessing critical views)
+- [stitch](https://github.com/pystitch/stitch) - Write reproducible reports in Markdown
+- [asynq](https://github.com/quora/asynq) - Python library for asynchronous programming
+- [pyhls](https://github.com/billyshambrook/pyhls) - A HTTP Live Streaming (HLS) python library
+- [trackmac](https://github.com/MacLeek/trackmac) - A simple command line tool for OS X users to track their time spent on applications
+- [gtin-validator](https://github.com/charithe/gtin-validator) - Validates GTIN codes
+- [asyncio_extras](https://github.com/agronholm/asyncio_extras) - Asynchronous generators, context managers and other utilities for use with asyncio
+- [Recursos-NFE-em-Python](https://github.com/marcydoty/Recursos-NFE-em-Python) - 
+- [PyTrustNFe](https://github.com/danimaribeiro/PyTrustNFe) - Módulo NF-e Python
+- [PySPED](https://github.com/aricaldeira/PySPED) - Sistema Público de Escrituração Digital em Python
+- [python-client](https://github.com/core-api/python-client) - Python client library for Core API.
+- [httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
+- [django-rangepaginator](https://github.com/mvantellingen/django-rangepaginator) - Paginator which shows a range of pages around the active one
+- [django-knocker](https://github.com/nephila/django-knocker) - Channels-based desktop notification system
+- [retry](https://github.com/invl/retry) - easy to use retry decorator in python
+- [python-redis-rate-limit](https://github.com/EvoluxBR/python-redis-rate-limit) - Python Rate Limiter implemented based on Redis INCR, EXPIRE, EVALSHA and EVAL.
+- [packyou](https://github.com/llazzaro/packyou) - Import any python project from github easily
+- [towel](https://github.com/matthiask/towel) - Towel: Keeping you DRY since 2010
+- [ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
+- [sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database. No code required!
+- [httsleep](https://github.com/kopf/httsleep) - A python library for polling HTTP endpoints - batteries included!
+- [throttle](https://github.com/rbarrois/throttle) - UNMAINTAINED - A simple Python throttling lib relying on the token bucket algorithm
+- [apiclient](https://github.com/shazow/apiclient) - Framework for making good Python API client libraries using urllib3.
+- [django-filer](https://github.com/divio/django-filer) - File and Image Management Application for django
+- [django-explain](https://github.com/ofw/django-explain) - A helper to get EXPLAIN or EXPLAIN ANALYZE OUTPUT for django queryset.
+- [doc2text](https://github.com/jlsutherland/doc2text) - Detect text blocks and OCR poorly scanned PDFs in bulk. Python module available via pip.
+- [Young](https://github.com/shiyanhui/Young) - A full-featured forum software built on Tornado and MongoDB.
+- [pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
+- [django-react-boilerplate](https://github.com/vintasoftware/django-react-boilerplate) - Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
+- [neon](https://github.com/NervanaSystems/neon) - Intel® Nervana™ reference deep learning framework committed to best performance on all hardware
+- [srez](https://github.com/david-gpu/srez) - Image super-resolution through deep learning
+- [configparserplus](https://github.com/filwaitman/configparserplus) - configparser module with lasers. (for now with Jinja2 support)
+- [django-addanother](https://github.com/jonashaag/django-addanother) - "Add another" buttons outside the Django admin
+- [simplepipe](https://github.com/thomasantony/simplepipe) - A simple functional pipelining library for Python
+- [tbvaccine](https://github.com/skorokithakis/tbvaccine) - A small utility to pretty-print Python tracebacks.
+- [credstash](https://github.com/fugue/credstash) - A little utility for managing credentials in the cloud
+- [jsonbender](https://github.com/Onyo/jsonbender) - Library for transforming JSONs
+- [shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
+- [supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX
+- [boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton.
+- [django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Easily share data across your company via SQL queries. From Grove Collab.
+- [avinit](https://github.com/CraveFood/avinit) - Generate avatars using the text initials
+- [certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
+- [django-render-block](https://github.com/clokep/django-render-block) - Render the content of a specific block tag from a Django template.
+- [django-parler](https://github.com/django-parler/django-parler) - Easily translate "cheese omelet" into "omelette au fromage".
+- [undebt](https://github.com/Yelp/undebt) - A fast, straightforward, reliable tool for performing massive, automated code refactoring
+- [chartpy](https://github.com/cuemacro/chartpy) - Easy to use Python API wrapper to plot charts with matplotlib, plotly, bokeh and more
+- [dictdiffer](https://github.com/inveniosoftware/dictdiffer) - Dictdiffer is a module that helps you to diff and patch dictionaries.
+- [pymessenger](https://github.com/davidchua/pymessenger) - A Python Wrapper for the FB Messenger Bot API (Send/Receive API)
+- [messengerbot](https://github.com/geeknam/messengerbot) - Python client for Facebook Messenger Platform Bot
+- [http-observatory](https://github.com/mozilla/http-observatory) - Mozilla HTTP Observatory
+- [fabulous](https://github.com/jart/fabulous) - Print images, colors, and stylish text to the terminal with Python
+- [python-colorlog](https://github.com/borntyping/python-colorlog) - A colored formatter for the python logging module
+- [inflect](https://github.com/jazzband/inflect) - Correctly generate plurals, ordinals, indefinite articles; convert numbers to words
+- [begins](https://github.com/aliles/begins) - Command line programs for busy developers.
+- [django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts!
+- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
+- [pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
+- [affirm](https://github.com/elifiner/affirm) - Improved error messages for Python assert statements
+- [pyicloud](https://github.com/picklepete/pyicloud) - A Python + iCloud wrapper to access iPhone and Calendar data.
+- [django-rest-framework-roles](https://github.com/computer-lab/django-rest-framework-roles) - Parameterizes Django REST Framework methods over user-defined roles
+- [retry.it](https://github.com/seemethere/retry.it) - retry.it, a simple retry library
+- [lackey](https://github.com/glitchassassin/lackey) - Lackey - Graphical desktop automation with Python
+- [curlify](https://github.com/ofw/curlify) - A library to convert python requests request object to curl command.
+- [ray](https://github.com/felipevolpone/ray) - a framework that helps you to deliver well-designed python APIs
+- [diff-cover](https://github.com/Bachmann1234/diff-cover) - Automatically find diff lines that need test coverage.
+- [django-uwsgi-cache](https://github.com/ionelmc/django-uwsgi-cache) - uWSGI Django cache backend.
+- [briefcase](https://github.com/pybee/briefcase) - Tools to support converting a Python project into a standalone native application.
+- [inputs](https://github.com/zeth/inputs) - Cross-platform Python support for keyboards, mice and gamepads
+- [dj-paginator](https://github.com/pydanny-archive/dj-paginator) - Django + Pagination made easy.
+- [django-dynamic-db-router](https://github.com/ambitioninc/django-dynamic-db-router) - Run queries on any of your project's databases using a decorator or context manager.
+- [django-trackstats](https://github.com/pennersr/django-trackstats) - Keep track of your statistics
+- [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokemon Go Bot, baking with community.
+- [xmlutils.py](https://github.com/knadh/xmlutils.py) - Python scripts for processing XML documents and converting to SQL, CSV, and JSON [UNMAINTAINED]
+- [attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate
+- [django-formtools-addons](https://github.com/vikingco/django-formtools-addons) - Django Formtools Addons
+- [twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI
+- [django-bakery](https://github.com/datadesk/django-bakery) - A set of helpers for baking your Django site out as flat files
+- [Willow](https://github.com/wagtail/Willow) - A unified interface for Python image libraries (Pillow, Wand and OpenCV)
+- [migra](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas
+- [sqlcrush](https://github.com/coffeeandscripts/sqlcrush) - console based database editor
+- [ExplainToMe](https://github.com/jjangsangy/ExplainToMe) - Automatic Web Article Summarizer
+- [django-pyodbc](https://github.com/lionheart/django-pyodbc) - An ODBC-powered MS SQL Server DB backend for Django 1.4+
+- [django_uncertainty](https://github.com/abarto/django_uncertainty) - A Django middleware to generate predictable errors on sites
+- [pyxl](https://github.com/dropbox/pyxl) - A Python extension for writing structured and reusable inline HTML.
+- [udatetime](https://github.com/freach/udatetime) - Fast RFC3339 compliant Python date-time library
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
-- [zaqar](https://github.com/openstack/zaqar) - 
+- [zaqar](https://github.com/openstack/zaqar) - OpenStack Messaging (Zaqar)
 - [arachne](https://github.com/kirankoduru/arachne) - A flask API for running your scrapy spiders
+- [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
 - [SwervinMervin](https://github.com/buntine/SwervinMervin) - A truly radical homage to 16-bit racing games.
 - [asyncio-pysimplesoap](https://github.com/brunsgaard/asyncio-pysimplesoap) - Python Simple SOAP client with asyncio support
 - [seguranca](https://github.com/forkd/seguranca) - Guia de desenvolvimento seguro
@@ -910,6 +2117,7 @@
 - [ulid](https://github.com/mdipierro/ulid) - 
 - [swapi](https://github.com/phalt/swapi) - The Star Wars API
 - [requests_viewer](https://github.com/kootenpv/requests_viewer) - View requests objects with style
+- [pytube](https://github.com/nficano/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
 - [django-functest](https://github.com/django-functest/django-functest) - Helpers for creating high-level functional tests in Django, with a unified API for WebTest and Selenium tests.
 - [PyPDF2](https://github.com/Tristan79/PyPDF2) - A utility to read and write PDFs with Python
@@ -917,22 +2125,23 @@
 - [codemod](https://github.com/facebook/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
 - [django-static](https://github.com/peterbe/django-static) - Template tags for better serving static files from templates in Django
 - [gnlpy](https://github.com/facebook/gnlpy) - A generic netlink library for python.
-- [hirefire](https://github.com/jezdez/hirefire) - A Python lib to integrate with the HireFire service -- The Heroku Proccess Manager.
+- [hirefire](https://github.com/ryanhiebert/hirefire) - A Python lib to integrate with the HireFire service -- The Heroku Proccess Manager.
+- [pymunk](https://github.com/viblo/pymunk) - Pymunk is a easy-to-use pythonic 2d physics library that can be used whenever  you need 2d rigid body physics from Python
 - [reflectrpc](https://github.com/aheck/reflectrpc) - Self-describing JSON-RPC services made easy
 - [django-github-hook](https://github.com/sheppard/django-github-hook) - Configurable post-receive webhook handler, implemented as a Django app
 - [django-inlinecss](https://github.com/roverdotcom/django-inlinecss) - A Django app useful for inlining CSS (primarily for e-mails)
 - [webassets](https://github.com/miracle2k/webassets) - Asset management for Python web development.
 - [u-msgpack-python](https://github.com/vsergeev/u-msgpack-python) - A portable, lightweight MessagePack serializer and deserializer written in pure Python, compatible with Python 2, Python 3, CPython, PyPy / msgpack.org[Python]
-- [asyncio-doc](https://github.com/asyncio-doc/asyncio-doc) - Asyncio documentation
+- [asyncio-doc](https://github.com/asyncio-docs/asyncio-doc) - Asyncio documentation
 - [pretenders](https://github.com/pretenders/pretenders) - Fake servers for testing
 - [virtualenv-burrito](https://github.com/brainsik/virtualenv-burrito) - One command to have a working virtualenv + virtualenvwrapper environment.
 - [ai-tetris](https://github.com/fredmbs/ai-tetris) - O trabalho apresenta a elaboração de um conjunto de softwares para agente inteligente capaz de jogar Tetris, incluindo interface gráfica com o usuário e otimização por algoritmos genéticos.
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
-- [riko](https://github.com/nerevu/riko) - A python stream processing engine modeled after Yahoo! Pipes
-- [asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio
+- [riko](https://github.com/nerevu/riko) - A Python stream processing engine modeled after Yahoo! Pipes
+- [asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
 - [s3browser](https://github.com/andrewgross/s3browser) - CLI Based Browser for S3 Buckets
-- [httpolice](https://github.com/vfaronov/httpolice) - Lint for HTTP
-- [heroku-airflow](https://github.com/heroku/heroku-airflow) - Author data workflows with Airflow on Heroku
+- [httpolice](https://github.com/vfaronov/httpolice) - Validator for HTTP
+- [heroku-airflow](https://github.com/heroku/heroku-airflow) - Demo of Author data workflows with Airflow on Heroku (not maintained)
 - [django-fsm](https://github.com/kmmbvnr/django-fsm) - Django friendly finite state machine support
 - [coreapi-cli](https://github.com/core-api/coreapi-cli) - An interactive command line client for Core API.
 - [smartmin](https://github.com/nyaruka/smartmin) - Django Smartmin - An admin-like utility for users
@@ -942,12 +2151,12 @@
 - [CloudBot](https://github.com/CloudBotIRC/CloudBot) - CloudBot - The simple, fast, expandable, open-source Python IRC Bot!
 - [beckett](https://github.com/phalt/beckett) - Beckett is a convention-based framework for building Python interfaces around HTTP APIs.
 - [urlparse4](https://github.com/commonsearch/urlparse4) - Faster replacement for Python's urlparse module
-- [calm](https://github.com/n9code/calm) - It is always Calm before a Tornado!
+- [calm](https://github.com/bagrat/calm) - It is always Calm before a Tornado!
 - [Githeat](https://github.com/AmmsA/Githeat) - 🔥 Interactive heatmap for your git repos
 - [polyglot](https://github.com/aboSamoor/polyglot) - Multilingual text (NLP) processing toolkit
-- [correios](https://github.com/solidarium/correios) - A client library for Brazilian Correios APIs and services.
+- [correios](https://github.com/olist/correios) - A client library for Brazilian Correios APIs and services (SIGEP & SRO).
 - [shopidown](https://github.com/douglas/shopidown) - Simple markdown parser for Shopify
-- [chalice](https://github.com/awslabs/chalice) - Python Serverless Microframework for AWS
+- [chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [flipflop](https://github.com/Kozea/flipflop) - FastCGI/WSGI gateway
 - [objproxies](https://github.com/soulrebel/objproxies) - 
 - [slacker](https://github.com/os/slacker) - Full-featured Python interface for the Slack API
@@ -955,7 +2164,7 @@
 - [asphalt](https://github.com/asphalt-framework/asphalt) - Asphalt application framework (core)
 - [horrifying-pdf-experiments](https://github.com/osnr/horrifying-pdf-experiments) - :syringe: Stuff which works in Chrome and maybe Acrobat and Foxit.
 - [talkback](https://github.com/Axilent/talkback) - A declarative framework for chatbots and voice agent skills.
-- [apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI 2.0 specification (f.k.a. Swagger 2.0).
+- [apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
 - [tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [django-sslserver](https://github.com/teddziuba/django-sslserver) - A SSL-enabled development server for Django
@@ -964,25 +2173,25 @@
 - [money](https://github.com/carlospalol/money) - Python money class with optional CLDR-backed locale-aware formatting and an extensible currency exchange solution.
 - [reraise](https://github.com/dcramer/reraise) - 
 - [storm](https://github.com/emre/storm) - Manage your SSH like a boss.
-- [PynamoDB](https://github.com/jlafon/PynamoDB) - A pythonic interface to Amazon's DynamoDB
-- [django-th](https://github.com/foxmask/django-th) - Trigger Happy - take the control of your data with this opensource clone of IFTTT, a bridge between your internet services
-- [workalendar](https://github.com/novafloss/workalendar) - Worldwide holidays and workdays computational toolkit.
+- [PynamoDB](https://github.com/pynamodb/PynamoDB) - A pythonic interface to Amazon's DynamoDB
+- [django-th](https://github.com/push-things/django-th) - Trigger Happy - The bus :bus: for your internet services
+- [workalendar](https://github.com/peopledoc/workalendar) - Worldwide holidays and workdays computational toolkit.
 - [voluptuous](https://github.com/alecthomas/voluptuous) - Voluptuous, despite the name, is a Python data validation library.
 - [import_string](https://github.com/rochacbruno/import_string) - Imports an object based on a string  import_string('package.module:function_name')() - Based on werkzeug.utils
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [decorating](https://github.com/ryukinix/decorating) - decorating: Literally decorating your terminal with decorators
 - [PyQS](https://github.com/spulec/PyQS) - Python task-queues for Amazon SQS
 - [django-flows](https://github.com/carlio/django-flows) - django-flows keeps state and position in complicated flows of logic, allowing optional branches and complicated paths through a series of individual user actions.
-- [readthedocs.org](https://github.com/rtfd/readthedocs.org) - source code to readthedocs.org
-- [django-latexify](https://github.com/AmmsA/django-latexify) - ✒️ Easy LaTeX rendering for Django
+- [readthedocs.org](https://github.com/rtfd/readthedocs.org) - The source code that powers readthedocs.org
+- [django-latexify](https://github.com/AmmsA/django-latexify) - Easy LaTeX rendering for Django.
 - [huBarcode](https://github.com/hudora/huBarcode) - huBarcode is a Python Library to generate 1D and 2D Barcodes
 - [GraphDash](https://github.com/AmadeusITGroup/GraphDash) - A web-based dashboard built on graphs and their metadata.
 - [django-field-history](https://github.com/grantmcconnaughey/django-field-history) - A Django app to track changes to a model field.
 - [django-admin-easy](https://github.com/ebertti/django-admin-easy) - Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way
-- [tapioca-iugu](https://github.com/solidarium/tapioca-iugu) - 
+- [tapioca-iugu](https://github.com/olist/tapioca-iugu) - 
 - [guide-to-testing-in-django](https://github.com/toastdriven/guide-to-testing-in-django) - The example project for adding tests.
 - [flakeplus](https://github.com/ask/flakeplus) - additional pyflakes
-- [django-formidable](https://github.com/novafloss/django-formidable) - On the way to glory! again!
+- [django-formidable](https://github.com/peopledoc/django-formidable) - On the way to glory! again!
 - [ActivFlow](https://github.com/faxad/ActivFlow) - Generic, light-weight & extensible Workflow Engine for agile automation of Business Processes | Django, Python
 - [pipup](https://github.com/revsys/pipup) - Better handling of Python pip's requirements.txt files
 - [django-controlcenter](https://github.com/byashimov/django-controlcenter) - Set of widgets to build dashboards for Django projects
@@ -992,23 +2201,22 @@
 - [fake2db](https://github.com/emirozer/fake2db) - create custom test databases that are populated with fake data
 - [plop](https://github.com/bdarnell/plop) - Python Low-Overhead Profiler
 - [thrifty-p2p](https://github.com/atl/thrifty-p2p) - A very simple python peer-to-peer implementation using consistent hashing (and an example distributed key-value store layered atop it) using the Thrift protocol and its basic RPC capabilities.
-- [pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors.
+- [pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors
 - [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [django-onmydesk](https://github.com/knowledge4life/django-onmydesk) - A Django app to build reports in a simple way.
-- [pghoard](https://github.com/ohmu/pghoard) - PostgreSQL backup and restore service
+- [pghoard](https://github.com/aiven/pghoard) - PostgreSQL backup and restore service
 - [drf-ujson-renderer](https://github.com/gizmag/drf-ujson-renderer) - Django Rest Framework renderer using ujson
 - [drf-to-api-gw](https://github.com/cleberzavadniak/drf-to-api-gw) - Updates AWS API Gateway using a API created with django-rest-framework as base
 - [antipackage](https://github.com/ellisonbg/antipackage) - Automagically import single file Python modules from GitHub.
 - [manage](https://github.com/rochacbruno/manage) - Command Line Manager + Interactive Shell for Python Projects
 - [buildstrap](https://github.com/guyzmo/buildstrap) - buildstrap: when buildout+pip=♥
 - [preflyt](https://github.com/humangeo/preflyt) - A lightweight application environment checker
-- [requests-respectful](https://github.com/nbrochu/requests-respectful) - Minimalist Requests wrapper to work within rate limits of any amount of services simultaneously. Parallel processing friendly.
-- [proxy2](https://github.com/inaz2/proxy2) - HTTP/HTTPS proxy in a single python script
+- [requests-respectful](https://github.com/SerpentAI/requests-respectful) - Minimalist Requests wrapper to work within rate limits of any amount of services simultaneously. Parallel processing friendly.
 - [proxy.py](https://github.com/abhinavsingh/proxy.py) - Lightweight HTTP Proxy Server in Python
 - [simple-settings](https://github.com/drgarcia1986/simple-settings) - A simple way to manage your project settings.
-- [perf](https://github.com/haypo/perf) - Toolkit to run Python benchmarks
+- [perf](https://github.com/vstinner/perf) - Toolkit to run Python benchmarks
 - [baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
-- [github3.py](https://github.com/sigmavirus24/github3.py) - Python library for interfacing with the GitHub APIv3
+- [github3.py](https://github.com/sigmavirus24/github3.py) - Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 2.7, 3.4, 3.5, and 3.6
 - [addict](https://github.com/mewwts/addict) - The Python Dict that's better than heroin.
 - [coopy](https://github.com/felipecruz/coopy) - python objects persistence - prevalence pattern
 - [gitchangelog](https://github.com/vaab/gitchangelog) - Creates a changelog from git log history.
@@ -1019,8 +2227,8 @@
 - [django-drynk](https://github.com/vtbassmatt/django-drynk) - DRY Natural Keys for Django
 - [PyBoy](https://github.com/Baekalfen/PyBoy) - Gameboy emulator written in Python
 - [django-schemulator](https://github.com/Cahersan/django-schemulator) - 
-- [pytablewriter](https://github.com/thombashi/pytablewriter) - pytablewriter is a python library to write a table in various formats: CSV/HTML/JavaScript/JSON/Markdown/MediaWiki/Excel/Pandas/Python/reStructuredText
-- [tapioca-iugu](https://github.com/allisson/tapioca-iugu) - Iugu API wrapper using tapioca https://iugu.com/referencias/api
+- [pytablewriter](https://github.com/thombashi/pytablewriter) - A Python library to write a table in various formats: CSV / Elasticsearch / HTML / JavaScript / JSON / Jupyter Notebook / LaTeX / LTSV / Markdown / MediaWiki / NumPy / Excel / Pandas / Python / reStructuredText / SQLite / TOML / TSV.
+- [django-prettyjson](https://github.com/kevinmickey/django-prettyjson) - Enables pretty JSON viewer in Django forms, admin, or templates
 - [django-jsonview](https://github.com/jsocol/django-jsonview) - Return Python objects, always get JSON.
 - [keyperftest](https://github.com/lskbr/keyperftest) - Teste de performance da troca de chaves inteiras por uuids no postgres
 - [certificate_generator](https://github.com/juliarizza/certificate_generator) - Free courses & events certificate generator
@@ -1031,8 +2239,8 @@
 - [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
 - [spyne](https://github.com/arskom/spyne) - A transport and architecture agnostic RPC library that focuses on exposing services with a well-defined API using popular protocols.
 - [pySigepWeb](https://github.com/kmee/pySigepWeb) - PySigepWeb is a API to work like interface for Correios' SIGEP Webservices
-- [PyNFe](https://github.com/leotada/PyNFe) - Projeto de biblioteca para fazer interface com o webservice de Nota Fiscal eletrônica para Python, disponível sob LGPL.
-- [django-rest-framework-docs](https://github.com/ekonstantinidis/django-rest-framework-docs) - Document Web APIs made with Django Rest Framework
+- [PyNFe](https://github.com/TadaSoftware/PyNFe) - Projeto de biblioteca para fazer interface com o webservice de Nota Fiscal eletrônica para Python, disponível sob LGPL.
+- [django-rest-framework-docs](https://github.com/manosim/django-rest-framework-docs) - Document Web APIs made with Django Rest Framework
 - [django-report-builder](https://github.com/burke-software/django-report-builder) - A GUI for Django ORM. Build custom queries and display results. Targets sys admins and capable end users who might not be able to program.
 - [django-queue-fetcher](https://github.com/mypebble/django-queue-fetcher) - A Queue Fetching system for Django integrated into SQS
 - [rest-framework-latex](https://github.com/mypebble/rest-framework-latex) - A LaTeX renderer for Django REST Framework
@@ -1042,95 +2250,92 @@
 - [pyotp](https://github.com/pyotp/pyotp) - Python One-Time Password Library
 - [rinse](https://github.com/tysonclugg/rinse) - Python3 SOAP client built with lxml and requests.
 - [pillow-simd](https://github.com/uploadcare/pillow-simd) - The friendly PIL fork
-- [cymem](https://github.com/spacy-io/cymem) - Gate Cython calls to malloc/free behind Python ref-counted objects
-- [tmuxp](https://github.com/tony/tmuxp) - :computer: tmux session manager built on libtmux
-- [python-graph](https://github.com/pmatiello/python-graph) - Automatically exported from code.google.com/p/python-graph
+- [cymem](https://github.com/explosion/cymem) - 💥  Cython memory pool for RAII-style memory management
+- [tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
+- [python-graph](https://github.com/pmatiello/python-graph) - New official repository: https://github.com/Shoobx/python-graph
 - [service](https://github.com/torfsen/service) - Easy implementation of Unix background services in Python
 - [pip-update-requirements](https://github.com/alanhamlett/pip-update-requirements) - Update the packages in a requirements.txt file.
 - [django-webpush](https://github.com/safwanrahman/django-webpush) - Web Push Notification Package for Django
 - [kel-api](https://github.com/kelproject/kel-api) - RESTful API built with Django / Pinax, adhering to the JSON:API specification
 - [django-useraudit](https://github.com/muccg/django-useraudit) - Django user audit utilities like logging user log in, disabling access when password expires or user is inactive.
-- [django-ddp](https://github.com/django-ddp/django-ddp) - Django/PostgreSQL implementation of the Meteor server.
+- [django-ddp](https://github.com/jazzband/django-ddp) - Django/PostgreSQL implementation of the Meteor server.
 - [pythonz](https://github.com/saghul/pythonz) - Python installation manager supporting CPython, Stackless, PyPy and Jython
 - [get-pip](https://github.com/pypa/get-pip) - 
 - [boom](https://github.com/tarekziade/boom) - A replacement for AB (Apache Bench)
 - [db_file_storage](https://github.com/victor-o-silva/db_file_storage) - Custom FILE_STORAGE for django. Saves your model's filefields in your database instead of your file system.
 - [pyreferrer](https://github.com/Shopify/pyreferrer) - A Python package that analyzes and classifies different kinds of referrer URLs (search, social, ...) :rocket:
 - [httptools](https://github.com/MagicStack/httptools) - Fast HTTP parser
-- [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
-- [pyinstaller](https://github.com/pyinstaller/pyinstaller) - PyInstaller official GIT repository
+- [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
+- [pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [Growler](https://github.com/pyGrowler/Growler) - A micro web-framework using asyncio coroutines and chained middleware.
 - [TeachCraft-Challenges](https://github.com/teachthenet/TeachCraft-Challenges) - Learn programming in python by giving yourself superpowers in a minecraft world!
-- [requests](https://github.com/kennethreitz/requests) - Python HTTP Requests for Humans™
+- [requests](https://github.com/requests/requests) - Python HTTP Requests for Humans™ ✨🍰✨
 - [iugu-python](https://github.com/iugu/iugu-python) - 
 - [pip-accel](https://github.com/paylogic/pip-accel) - pip-accel: Accelerator for pip, the Python package manager
 - [lda2vec](https://github.com/cemoody/lda2vec) - 
-- [docker-devpi](https://github.com/tonyseek/docker-devpi) - Host your private PyPI server by running DevPI as a Docker container.
+- [docker-devpi](https://github.com/tonyseek/docker-devpi) - The Docker image of devpi with LDAP integration.
 - [pypiserver](https://github.com/pypiserver/pypiserver) - Minimal PyPI server for uploading & downloading packages with pip/easy_install
 - [stups-cli](https://github.com/zalando-stups/stups-cli) - PyPI meta package to pull user CLI tools
 - [gspread](https://github.com/burnash/gspread) - Google Spreadsheets Python API
-- [django-river](https://github.com/javrasya/django-river) - Django Workflow Library
+- [django-river](https://github.com/javrasya/django-river) - Django workflow library supports on the fly changes.
 - [loafer](https://github.com/georgeyk/loafer) - Asynchronous message dispatcher - Currently using asyncio and amazon SQS
 - [django-dbes](https://github.com/EliotBerriot/django-dbes) - A django package to speed-up your HTML email developpement workflow in django
-- [falcon-api](https://github.com/tomchristie/falcon-api) - Web APIs for Falcon.
 - [drf-url-filters](https://github.com/manjitkumar/drf-url-filters) - A django app to apply filters on drf querysets using query params with validations using voluptuous.
-- [django-anymail](https://github.com/anymail/django-anymail) - Django email backends and webhooks for Mailgun, Postmark, SendGrid, SparkPost and more
+- [django-anymail](https://github.com/anymail/django-anymail) - Django email backends and webhooks for Amazon SES, Mailgun, Mailjet, Postmark, SendGrid, SendinBlue, SparkPost and more
 - [honcho](https://github.com/nickstenning/honcho) - Honcho: a python clone of Foreman. For managing Procfile-based applications.
-- [rq-dashboard](https://github.com/ducu/rq-dashboard) - Flask-based web front-end for monitoring RQ queues
+- [rq-dashboard](https://github.com/eoranged/rq-dashboard) - Flask-based web front-end for monitoring RQ queues
 - [django-rest-framework-jwt](https://github.com/GetBlimp/django-rest-framework-jwt) - JSON Web Token Authentication support for Django REST Framework
-- [coala](https://github.com/coala-analyzer/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
-- [pycraft](https://github.com/traverseda/pycraft) - A fork of "Minecraft in 500 lines of python" intended to be used as a real engine, instead of as a learning example.
+- [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+- [pycraft](https://github.com/traverseda/pycraft) - A fork of "Minecraft in 500 lines of python" intended to someday be used as a real engine, instead of as a learning example.
 - [retext](https://github.com/retext-project/retext) - ReText: Simple but powerful editor for Markdown and reStructuredText
 - [django-u2f](https://github.com/gavinwahl/django-u2f) - FIDO U2F security token support for Django
 - [django-inmemorystorage](https://github.com/codysoyland/django-inmemorystorage) - A non-persistent in-memory data storage backend for Django.
 - [EasyProcess](https://github.com/ponty/EasyProcess) - Easy to use python subprocess interface
-- [work-at-olist](https://github.com/solidarium/work-at-olist) - Apply for a job at Olist's Development Team
 - [slackline](https://github.com/jacobian/slackline) - WIP: Slack Bots using Django Channels
 - [bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python
 - [repose](https://github.com/adamcharnock/repose) - Quickly create restful API clients in Python
 - [stashpy](https://github.com/afroisalreadyinu/stashpy) - A Logstash replacement in Python
 - [SpiffWorkflow](https://github.com/knipknap/SpiffWorkflow) - A powerful workflow engine implemented in pure Python
+- [django-helpdesk](https://github.com/django-helpdesk/django-helpdesk) - A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
 - [pysigep](https://github.com/mstuttgart/pysigep) - API Python para uso dos serviços fornecidos pelo SIGEPWeb dos Correios
 - [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 - [dbx-unittest2pytest](https://github.com/dropbox/dbx-unittest2pytest) - Convert unittest asserts to pytest rewritten asserts.
-- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Collection of over 25 patched fonts (over 5,700 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more
 - [requirements](https://github.com/toxinu/requirements) - Python requirements made easy
-- [pypicloud](https://github.com/mathcamp/pypicloud) - S3-backed pypi server implementation
-- [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd or Consul
+- [pypicloud](https://github.com/stevearc/pypicloud) - S3-backed pypi server implementation
+- [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul
 - [try](https://github.com/timofurrer/try) - :package: Awesome cli tool to try python packages - It's never been easier!
 - [pysimplesoap](https://github.com/pysimplesoap/pysimplesoap) - Python Simple SOAP Library
 - [yowsup](https://github.com/tgalal/yowsup) - The python WhatsApp library
-- [python-lambda-local](https://github.com/HDE/python-lambda-local) - Run lambda function on local machine
-- [pseudo](https://github.com/alehander42/pseudo) - automated algorithm / library translation for Python, JS, Go, C#, Ruby :alien:
+- [python-lambda-local](https://github.com/HDE/python-lambda-local) - Run AWS Lambda function on local machine
+- [pseudo](https://github.com/alehander42/pseudo) - transpile a subset of Python to idiomatic JS, Go, C#, Ruby :alien:
 - [emulambda](https://github.com/fugue/emulambda) - Python emulator for AWS Lambda
-- [match](https://github.com/usepavlov/match) - :crystal_ball: Scalable reverse image search built on Kubernetes and Elasticsearch
+- [match](https://github.com/dsys/match) - :crystal_ball: Scalable reverse image search built on Kubernetes and Elasticsearch
 - [weppy](https://github.com/gi0baro/weppy) - The web framework for humans
 - [appdirs](https://github.com/ActiveState/appdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [zerorpc-python](https://github.com/0rpc/zerorpc-python) - zerorpc for python
-- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive SSL-capable intercepting HTTP proxy for penetration testers and software developers
-- [fatoptimizer](https://github.com/haypo/fatoptimizer) - Static optimizer specializing functions with guards for Python 3.6
-- [image-match](https://github.com/ascribe/image-match) - Quickly search over billions of images
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+- [fatoptimizer](https://github.com/vstinner/fatoptimizer) - Static optimizer specializing functions with guards for Python 3.6
+- [image-match](https://github.com/ascribe/image-match) - 🎇 Quickly search over billions of images
 - [clint](https://github.com/kennethreitz/clint) - Python Command-line Application Tools
 - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [datawire-connect](https://github.com/datawire/datawire-connect) - Datawire Connect helps you build and run resilient microservices.
 - [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
 - [lifter](https://github.com/EliotBerriot/lifter) - A generic query engine, inspired by Django ORM
-- [aiobotocore](https://github.com/aio-libs/aiobotocore) - asyncio support for botocore library using aiohttp
 - [AsyncAWS](https://github.com/MA3STR0/AsyncAWS) - Amazon Web Services library for asynchronous Python/Tornado IO loop
-- [mantl](https://github.com/CiscoCloud/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
+- [mantl](https://github.com/mantl/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
 - [speech_recognition](https://github.com/Uberi/speech_recognition) - Speech recognition module for Python, supporting several engines and APIs, online and offline.
 - [pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper
 - [django-rest-auth](https://github.com/Tivix/django-rest-auth) - This app makes it extremely easy to build Django powered SPA's (Single Page App) or Mobile apps exposing all registration and authentication related functionality as CBV's (Class Base View) and REST (JSON)
 - [hug](https://github.com/timothycrosley/hug) - Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
 - [tornado-stale-client](https://github.com/globocom/tornado-stale-client) - An async http client for tornado with stale cache support
-- [sshuttle](https://github.com/apenwarr/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
+- [sshuttle](https://github.com/apenwarr/sshuttle) - Wrong project!  You should head over to http://github.com/sshuttle/sshuttle
 - [python-colormath](https://github.com/gtaylor/python-colormath) - A python module that abstracts common color math operations. For example, converting from CIE L*a*b to XYZ, or from RGB to CMYK
-- [pilbox](https://github.com/agschwender/pilbox) - An image procesing application server
+- [pilbox](https://github.com/agschwender/pilbox) - An image resize application server
 - [thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [bravado-core](https://github.com/Yelp/bravado-core) - 
 - [swagger_spec_validator](https://github.com/Yelp/swagger_spec_validator) - 
 - [bank-account-validator](https://github.com/filwaitman/bank-account-validator) - Python implementation for bank account validation.
-- [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python Web Services
+- [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [whatportis](https://github.com/ncrocfer/whatportis) - A command to search port names and numbers
 - [orator](https://github.com/sdispater/orator) - The Orator ORM provides a simple yet beautiful ActiveRecord implementation.
 - [schema](https://github.com/keleshev/schema) - Schema validation just got Pythonic
@@ -1139,18 +2344,18 @@
 - [bandit-high-entropy-string](https://github.com/lyft/bandit-high-entropy-string) - A high entropy string plugin for OpenStack's bandit project
 - [pytracetable](https://github.com/filwaitman/pytracetable) - PyTraceTable is a tool for scripting and script debugging. It aims to make a line-by-line debugging easier.
 - [html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
-- [dask](https://github.com/dask/dask) - Versatile parallel programming with task scheduling
-- [django-zappa](https://github.com/Miserlou/django-zappa) - Serverless Django on AWS Lambda and API Gateway
+- [dask](https://github.com/dask/dask) - Parallel computing with task scheduling
+- [django-zappa](https://github.com/Miserlou/django-zappa) - THIS PROJECT IS DEPRECATED, GO HERE INSTEAD:
 - [records](https://github.com/kennethreitz/records) - SQL for Humans™
-- [voc](https://github.com/pybee/voc) - A transpiler that converts Python bytecode into Java bytecode.
+- [voc](https://github.com/pybee/voc) - A transpiler that converts Python code into Java bytecode
 - [ouroboros](https://github.com/pybee/ouroboros) - A standalone, pure Python implementation of the Python Standard Library.
 - [django-rosetta](https://github.com/mbi/django-rosetta) - Rosetta is a Django application that eases the translation process of your Django projects
 - [django-cities](https://github.com/coderholic/django-cities) - Countries and cities of the world for Django projects
-- [PyGitUp](https://github.com/msiemens/PyGitUp) - A python implementation of git up
+- [PyGitUp](https://github.com/msiemens/PyGitUp) - A nicer `git pull`
 - [maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen.
 - [pyaes](https://github.com/ricmoo/pyaes) - Pure-Python implementation of AES block-cipher and common modes of operation.
 - [drf-extra-fields](https://github.com/Hipo/drf-extra-fields) - Extra Fields for Django Rest Framework Project
-- [pyup](https://github.com/pyupio/pyup) - A tool to update all your project's requirement files with a single command directly on github.
+- [pyup](https://github.com/pyupio/pyup) - A tool to update your project's dependencies on GitHub. Runs on pyup.io, comes with a command line interface.
 - [pypandoc](https://github.com/bebraw/pypandoc) - Thin wrapper for "pandoc" (MIT)
 - [hashin](https://github.com/peterbe/hashin) - Helping you write hashed entries for packages in your requirements.txt
 - [GraphvizAnim](https://github.com/mapio/GraphvizAnim) - A tool to create animated graph visualizations, based on graphviz.
@@ -1159,16 +2364,16 @@
 - [django-stackoverflow-trace](https://github.com/emre/django-stackoverflow-trace) - Django error page w/ a stackoverflow search link.
 - [robotframework](https://github.com/robotframework/robotframework) - Generic test automation framework.
 - [testinfra](https://github.com/philpep/testinfra) - Testinfra test your infrastructures
-- [gabbi](https://github.com/cdent/gabbi) - Declarative HTTP Testing
+- [gabbi](https://github.com/cdent/gabbi) - Declarative HTTP Testing for Python and anything else
 - [flit](https://github.com/takluyver/flit) - Simplified packaging of Python modules
 - [django-queryinspect](https://github.com/dobarkod/django-queryinspect) - SQL query inspector for Django
 - [django-microservices](https://github.com/lander2k2/django-microservices) - A framework for building microservices with Django
 - [autobahn-python](https://github.com/crossbario/autobahn-python) - WebSocket and WAMP in Python for Twisted and asyncio
-- [cerberus](https://github.com/nicolaiarocci/cerberus) - Lightweight, extensible data validation library for Python
+- [cerberus](https://github.com/pyeve/cerberus) - Lightweight, extensible data validation library for Python
 - [lektor](https://github.com/lektor/lektor) - The lektor static file content management system
 - [django-rest-framework-collection-json](https://github.com/advisory/django-rest-framework-collection-json) - 
 - [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
-- [connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support
+- [connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support
 - [grequests](https://github.com/kennethreitz/grequests) - Requests + Gevent = &lt;3
 - [msgpack-python](https://github.com/msgpack/msgpack-python) - MessagePack serializer implementation for Python msgpack.org[Python]
 - [exxo](https://github.com/mbachry/exxo) - Build portable Python binaries
@@ -1179,19 +2384,18 @@
 - [python-redis-lock](https://github.com/ionelmc/python-redis-lock) - Lock context manager implemented via redis SET NX EX and BLPOP.
 - [pytest-bdd](https://github.com/pytest-dev/pytest-bdd) - BDD library for the py.test runner
 - [zato-apitest](https://github.com/zatosource/zato-apitest) - API Testing for Humans
-- [kinto](https://github.com/Kinto/kinto) - A minimalist JSON storage service with synchronisation and sharing abilities.
-- [itypes](https://github.com/tomchristie/itypes) - 
+- [kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
+- [itypes](https://github.com/tomchristie/itypes) - Basic immutable container types for Python.
 - [codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
-- [vprof](https://github.com/nvdv/vprof) - Visual Python profiler
+- [vprof](https://github.com/nvdv/vprof) - Visual profiler for Python
 - [localinstall](https://github.com/alexprengere/localinstall) - Local installer of Python packages
 - [django-measurement](https://github.com/coddingtonbear/django-measurement) - Easily store, retrieve, and convert measurements of weight, volume, distance, area and more.
 - [joblib](https://github.com/joblib/joblib) - Python function as pipeline jobs.
 - [ispy](https://github.com/dellis23/ispy) - Monitor the output of terminals and processes.
 - [see](https://github.com/F-Secure/see) - Sandboxed Execution Environment
-- [eve-sqlalchemy](https://github.com/RedTurtle/eve-sqlalchemy) - Eve SQLAlchemy extenstion
-- [l10n-brazil](https://github.com/OCA/l10n-brazil) - módulos básicos a baixar para uso do Odoo no Brasil, serve de base para NFe, SPED etc...
+- [eve-sqlalchemy](https://github.com/pyeve/eve-sqlalchemy) - SQLAlchemy data layer for Eve-powered RESTful APIs
 - [pytest-django](https://github.com/pytest-dev/pytest-django) - A Django plugin for pytest.
-- [tox-travis](https://github.com/ryanhiebert/tox-travis) - Seamless integration of Tox into Travis CI
+- [tox-travis](https://github.com/tox-dev/tox-travis) - Seamless integration of tox into Travis CI
 - [dxr](https://github.com/mozilla/dxr) - Powerful search for large codebases
 - [puente](https://github.com/mozilla/puente) - Django/Jinja2 l10n extract/merge commands and things (Tower replacement)
 - [django-locking-qc](https://github.com/nauman3128/django-locking-qc) - Django Locking package with 1.7 support
@@ -1209,45 +2413,45 @@
 - [pyuca](https://github.com/jtauber/pyuca) - a Python implementation of the Unicode Collation Algorithm
 - [imap_copy](https://github.com/jarus/imap_copy) - Simple tool to copy folders from one IMAP server to another server.
 - [django-webp-converter](https://github.com/tmiller02/django-webp-converter) - 
-- [django-webp](https://github.com/andrefarzat/django-webp) - webp image generation for django
+- [django-webp](https://github.com/andrefarzat/django-webp) - Returns a webp image instead of jpg, gif or png to browsers which have support
 - [scruffy](https://github.com/aivarsk/scruffy) - Makes SVG shapes look hand-drawn and creates UML diagrams using yUML (http://yuml.me) syntax
 - [django-rest-framework-bulk](https://github.com/miki725/django-rest-framework-bulk) - Django REST Framework bulk CRUD view mixins
 - [django-session-csrf](https://github.com/mozilla/django-session-csrf) - CSRF protection for Django without cookies.
 - [schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [version.py](https://github.com/Changaco/version.py) - Automatic version numbers for git-based python projects
-- [requests-mock](https://github.com/openstack/requests-mock) - Mocked responses for the requests library
 - [splitencoder](https://github.com/thiagoss/splitencoder) - Splits a media file into segments and transcodes them in parallel
-- [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
-- [betamax](https://github.com/sigmavirus24/betamax) - A VCR imitation designed only for python-requests.
+- [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative.
+- [betamax](https://github.com/betamaxpy/betamax) - A VCR imitation designed only for python-requests.
 - [django-html-validator](https://github.com/peterbe/django-html-validator) - A tool to do validation of your HTML generated from your Django app.
 - [simone](https://github.com/iggy/simone) - Django webmail package
 - [zerotest](https://github.com/jjyr/zerotest) - Lazy guy's testing tool. Capture HTTP traffic and generate python integration test for your API server.
 - [django-address](https://github.com/pydanny/django-address) - A Django address model and field. Addresses may be specified by address components or by performing an automatic Google Maps lookup.
 - [django-detect-cyclic](https://github.com/goinnn/django-detect-cyclic) - Django detect cyclic
+- [pyBusinesses-BR](https://github.com/pythonbrasil/pyBusinesses-BR) - Esse repositório contém informações de contato das empresas de tecnologia do Brasil que utilizam a linguagem de programação Python.
 - [jiphy](https://github.com/timothycrosley/jiphy) - Your client side done in a jiphy. Python to JavaScript 2-way converter.
 - [PayPal-Python-SDK](https://github.com/paypal/PayPal-Python-SDK) - Python SDK for PayPal RESTful APIs
 - [spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
-- [videoscripts](https://github.com/vlanard/videoscripts) - 
+- [videoscripts](https://github.com/vlanard/videoscripts) - jwplayer and video related utilities
 - [confidant](https://github.com/lyft/confidant) - Confidant: your secret keeper.
-- [django-calendarium](https://github.com/bitmazk/django-calendarium) - A reusable Django app to manage and display a calendar in your templates.
+- [django-calendarium](https://github.com/bitlabstudio/django-calendarium) - A reusable Django app to manage and display a calendar in your templates.
 - [django-rest-admin](https://github.com/inmagik/django-rest-admin) - Rest admin-like endpoints for django
-- [sops](https://github.com/mozilla/sops) - Secrets management stinks, use some sops!
 - [doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
-- [asciidoc](https://github.com/asciidoc/asciidoc) - Text based document generation. AsciiDoc is a text document format for writing notes, documentation, articles, books, ebooks, slideshows, web pages, man pages and blogs. AsciiDoc files can be translated to many formats including HTML, PDF, EPUB, man page.
+- [asciidoc](https://github.com/asciidoc/asciidoc) - AsciiDoc is a text document format for writing notes, documentation, articles, books, slideshows, man pages & blogs. AsciiDoc can be translated to many formats including HTML, DocBook, PDF, EPUB, and man pages. NOTE: This implementation is written in Python 2, which EOLs in Jan 2020. AsciiDoc development is being continued under @asciidoctor.
 - [django-session-activity](https://github.com/pydanny/django-session-activity) - List recent account activity and sign-out from all sessions opened on other computers
 - [make-novice](https://github.com/swcarpentry/make-novice) - Novice lesson on Make
+- [pythran](https://github.com/serge-sans-paille/pythran) - a claimless python to c++ converter
 - [fatomic](https://github.com/abarnert/fatomic) - Helpers for atomic file writes
 - [atomicio](https://github.com/datalib/atomicio) - Atomic writes to files
 - [sen](https://github.com/TomasTomecek/sen) - Terminal User Interface for docker engine
 - [proclib](https://github.com/datalib/proclib) - pythonic processes
-- [curio](https://github.com/dabeaz/curio) - Curio - The coroutine concurrency library.
+- [curio](https://github.com/dabeaz/curio) - Curio - The Small Coroutine Library You Were Warned About
 - [restnavigator](https://github.com/deontologician/restnavigator) - A python library for interacting with HAL+JSON APIs
 - [harvey](https://github.com/architv/harvey) - :information_desk_person: Harvey is a command line legal expert who manages license for your open source project.
 - [remi](https://github.com/dddomodossola/remi) - Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.
 - [byterun](https://github.com/nedbat/byterun) - A Python implementation of a Python bytecode runner
-- [django-countries](https://github.com/SmileyChris/django-countries) - 
+- [django-countries](https://github.com/SmileyChris/django-countries) - A Django application that provides country choices for use with forms, flag icons static files, and a country field for models.
 - [pyresttest](https://github.com/svanoort/pyresttest) - Python Rest Testing
-- [spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker and STUPS
+- [spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
 - [django-rest-framework-version-transforms](https://github.com/mrhwick/django-rest-framework-version-transforms) - A library to enable the use of delta transformations for versioning of Django Rest Framwork API representations.
 - [django-rest-localflavor](https://github.com/gilsondev/django-rest-localflavor) - Country-specific Django helpers, to use in Django Rest Framework
 - [shuup](https://github.com/shuup/shuup) - E-Commerce Platform
@@ -1266,28 +2470,25 @@
 - [pyst2](https://github.com/rdegges/pyst2) - A fork of the famous python pyst library for Asterisk.
 - [python-ami](https://github.com/ettoreleandrotognoli/python-ami) - Python AMI Client
 - [py-asterisk](https://github.com/jeansch/py-asterisk) - Python Asterisk Manager API Bindings
-- [fades](https://github.com/PyAr/fades) - FADES
+- [fades](https://github.com/PyAr/fades) - fades is a system that automatically handles the virtualenvs in the cases normally found when writing scripts and simple programs, and even helps to administer big projects.
 - [invatar](https://github.com/Bekt/invatar) - Invatar is a free service for generating fully customizable avatars with initials.
 - [pigar](https://github.com/damnever/pigar) - :coffee: A fantastic tool to generate requirements file for your Python project, and more than that.
 - [django-tagulous](https://github.com/radiac/django-tagulous) - Fabulous Tagging for Django
 - [tasktiger](https://github.com/closeio/tasktiger) - Python task queue. Because celery is gross.
 - [eradicate](https://github.com/myint/eradicate) - Removes commented-out code from Python files
-- [xivo-amid](https://github.com/xivo-pbx/xivo-amid) - xivo-amid is a daemon proxying events read on asterisk's ami to RabbitMQ
-- [xivo-ctid](https://github.com/xivo-pbx/xivo-ctid) - Computer telephony integration server
 - [django-secure-login](https://github.com/agiliq/django-secure-login) - 
 - [ProgrammableServer](https://github.com/J-Adrian-Zimmer/ProgrammableServer) - Set up a Python server without a lot of muss and fuss.
 - [PeachPy](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python
 - [django-fack](https://github.com/revsys/django-fack) - a simple faq application for django apps
-- [xonsh](https://github.com/xonsh/xonsh) - xonsh is a Python-ish, BASHwards-facing shell.
+- [xonsh](https://github.com/xonsh/xonsh) - Python-powered, cross-platform, Unix-gazing shell
 - [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - :honey_pot: A fake Django admin login screen page.
 - [ptpy](https://github.com/pjwerneck/ptpy) - Python em Português
 - [asterisk-files](https://github.com/but3k4/asterisk-files) - Asterisk config files
-- [django-markdownx](https://github.com/adi-/django-markdownx) - Django Markdown editor with image uploads (stored in MEDIA_ROOT folder) and live preview.
 - [django-fernet-fields](https://github.com/orcasgit/django-fernet-fields) - Fernet symmetric encryption for Django model fields
 - [django-finial](https://github.com/gmcquillan/django-finial) - Hierarchical template overriding on a per request basis.
 - [django-fusionbox](https://github.com/fusionbox/django-fusionbox) - Useful stuff for django
 - [django-ogmios](https://github.com/fusionbox/django-ogmios) - No hassle, just sending emails
-- [zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source group chat
+- [zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat
 - [lightfm](https://github.com/lyst/lightfm) - A Python implementation of LightFM, a hybrid recommendation algorithm.
 - [djwebsockets](https://github.com/Extremus-io/djwebsockets) - 
 - [frango](https://github.com/hersonls/frango) - Django and Gulp - Frango, a FRontend and backend djANGO project template
@@ -1308,43 +2509,44 @@
 - [django-fobi](https://github.com/barseghyanartur/django-fobi) - Form generator/builder application for Django done right: customisable, modular, user- and developer- friendly.
 - [swagger-py](https://github.com/digium/swagger-py) - Swagger client library for Python
 - [hospital](https://github.com/python-hospital/hospital) - Tools to diagnose Python projects (supervision, monitoring).
+- [django-agnocomplete](https://github.com/peopledoc/django-agnocomplete) - A front-end agnostic toolbox for autocompletion fields
 - [ska](https://github.com/barseghyanartur/ska) - Sign data using symmetric-key algorithm encryption. Validate signed data and identify possible validation errors. Uses sha-(1, 224, 256, 385 and 512)/hmac for signature encryption. Custom hash algorithms are allowed. Useful shortcut functions for signing (and validating) dictionaries and URLs.
 - [isso](https://github.com/posativ/isso) - a Disqus alternative
-- [django-ipware](https://github.com/un33k/django-ipware) - Returns user's real IP address in Django
+- [django-ipware](https://github.com/un33k/django-ipware) - A Django application to retrieve client's IP address
 - [warehouse](https://github.com/pypa/warehouse) - Next Generation Python Package Repository
 - [django-messages](https://github.com/arneb/django-messages) - A Django application handling private messages between users.
 - [django-staticflatpages](https://github.com/bradmontgomery/django-staticflatpages) - This is an app sort of like Django's contrib.flatpages, but without the database. It's got a Fallback Middleware that just serves static html documents from your filesystem.
-- [django-updater](https://github.com/jayfk/django-updater) - django-updater helps you to keep your Django installation up to date.
-- [djradicale](https://github.com/okami-1/djradicale) - CalDAV (calendar) and CardDAV (addressbook) Django Application based on Radicale
+- [djradicale](https://github.com/kyokenn/djradicale) - CalDAV (calendar) and CardDAV (addressbook) Django Application based on Radicale
 - [Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [vdirsyncer](https://github.com/pimutils/vdirsyncer) - Synchronize calendars and contacts
 - [pytest-sugar](https://github.com/Frozenball/pytest-sugar) - a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)
-- [django-rest-marshmallow](https://github.com/tomchristie/django-rest-marshmallow) - Marshmallow schemas for Django REST framework
+- [django-rest-marshmallow](https://github.com/marshmallow-code/django-rest-marshmallow) - Marshmallow schemas for Django REST framework
 - [grab](https://github.com/lorien/grab) - Web Scraping Framework
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [django-cbv-inspector](https://github.com/refreshoxford/django-cbv-inspector) - A documentation tool for getting your head around Django's class based views.
 - [pycopy](https://github.com/turicas/pycopy) - API wrapper to Copy.com compatible with Dropbox API
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
-- [django-jsonfield](https://github.com/bradjasper/django-jsonfield) - A reusable JSONField model for Django to store ad-hoc data
+- [django-jsonfield](https://github.com/dmkoch/django-jsonfield) - A reusable JSONField model for Django to store ad-hoc data
 - [python-humanfriendly](https://github.com/xolox/python-humanfriendly) - Human friendly input/output for text interfaces using Python
 - [django-user_agents](https://github.com/selwin/django-user_agents) - A django package that allows easy identification of visitor's browser, OS and device information,  including whether the visitor uses a mobile phone, tablet or a touch capable device.
 - [django-mailer](https://github.com/PirosB3/django-mailer) - Read emails in your Django admin!
 - [snaql](https://github.com/semirook/snaql) - Raw *QL queries from Python without pain
 - [django-statsd](https://github.com/django-statsd/django-statsd) - 
 - [asteriskonf](https://github.com/osantana/asteriskonf) - Parse and export Asterisk configuration files as SQL/CSV (Asterisk Realtime)
-- [flexx](https://github.com/zoofIO/flexx) - Write desktop and web apps in pure Python
+- [flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
 - [django-mailgun](https://github.com/BradWhittington/django-mailgun) - This project is deprecated in favor of https://github.com/anymail/django-anymail
-- [vy](https://github.com/iogf/vy) - A vim-like in python made from scratch.
+- [vy](https://github.com/vyapp/vy) - A vim-like in python made from scratch.
 - [s3ql](https://github.com/s3ql/s3ql) - a full featured file system for online data storage
 - [django-gcm](https://github.com/bogdal/django-gcm) - Google Cloud Messaging Server in Django
-- [OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) - A practical guide to securing OS X
+- [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - A practical guide to securing macOS.
+- [django-jet](https://github.com/geex-arts/django-jet) - Modern responsive template for the Django admin interface with improved functionality
 - [Pylsy](https://github.com/Leviathan1995/Pylsy) - Pylsy is a simple python library draw tables in the Terminal.Just two lines of code .
 - [django-simplestatic](https://github.com/ericflo/django-simplestatic) - A highly opinionated drop-in library for static file management in Django
 - [retrying](https://github.com/rholder/retrying) - Retrying is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything.
 - [django-uwsgi-mail](https://github.com/jaysonsantos/django-uwsgi-mail) - A backend to queue django e-mails in uWSGI spool
 - [vcversioner](https://github.com/habnabit/vcversioner) - take version numbers from version control
 - [requests-futures](https://github.com/ross/requests-futures) - Asynchronous Python HTTP Requests for Humans using Futures
-- [pagarme-python](https://github.com/pagarme/pagarme-python) - Pagar.me's Python library
+- [pagarme-python](https://github.com/pagarme/pagarme-python) - 🐍  Pagar.me's Python library
 - [django-q](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue for Django
 - [spdo](https://github.com/interlegis/spdo) - Sistema de Protocolo de Documentos
 - [django-friendship](https://github.com/revsys/django-friendship) - Django app to manage following and bi-directional friendships
@@ -1352,10 +2554,9 @@
 - [urlobject](https://github.com/zacharyvoase/urlobject) - Python library for manipulating URLs (and some URIs) in a more natural way.
 - [url-py](https://github.com/seomoz/url-py) - URL Transformation, Sanitization
 - [django-passwords](https://github.com/dstufft/django-passwords) - 
-- [django-anysign](https://github.com/novafloss/django-anysign) - Generic online signature for Django
+- [django-anysign](https://github.com/peopledoc/django-anysign) - Generic online signature for Django
 - [tqdm](https://github.com/noamraph/tqdm) - Add a progress meter to your loops in a second
 - [gifbook](https://github.com/beshrkayali/gifbook) - GifBook: Create sequenced Gifs from video clips and subtitle files.
-- [vmprof-python](https://github.com/vmprof/vmprof-python) - 
 - [ebooklib](https://github.com/booktype/ebooklib) - Python E-book library for handling books in EPUB2/EPUB3 and Kindle format -
 - [django-admin-report](https://github.com/mateuspadua/django-admin-report) - Crie relátorios utilzando todo o potencial do admin django
 - [yagmail](https://github.com/kootenpv/yagmail) - yagmail makes sending emails very easy by doing all the magic for you
@@ -1363,7 +2564,7 @@
 - [pyshop](https://github.com/mardiros/pyshop) - A Private PyPI server written in pyramid
 - [circuits](https://github.com/circuits/circuits) - circuits is a Lightweight Event driven and Asynchronous Application Framework for the Python Programming Language with a strong Component Architecture.
 - [pyexperiment](https://github.com/duerrp/pyexperiment) - Run experiments with Python - quick and clean.
-- [urljects](https://github.com/Visgean/urljects) - Django routing DRYed
+- [urljects](https://github.com/Visgean/urljects) - Django routing without urls.py files, inspired by Flask.
 - [django-testing-docs](https://github.com/ericholscher/django-testing-docs) - A project to collaborate on testing documentation for Django.
 - [django-view-as](https://github.com/dcramer/django-view-as) - A Django middleware which allows you to view the site on behalf of a user.
 - [ptpython](https://github.com/jonathanslenders/ptpython) - A better Python REPL
@@ -1376,30 +2577,30 @@
 - [django-auditable-models](https://github.com/bitzeppelin/django-auditable-models) - Auditable model class for Django with fields like created, modified, create_by and modified_by.
 - [python-urltools](https://github.com/rbaier/python-urltools) - Some functions to parse and normalize URLs.
 - [django-klingon](https://github.com/angvp/django-klingon) - An app that allows you to translate anything in any language, even klingon ;)
-- [django-stdimage](https://github.com/codingjoe/django-stdimage) - Django Standarized Image Field
-- [django-mail-factory](https://github.com/novafloss/django-mail-factory) - Django Mail Manager
-- [django-aggtrigg](https://github.com/novafloss/django-aggtrigg) - Automatic aggregation db triggers for django
-- [django-chunkator](https://github.com/novafloss/django-chunkator) - Chunk large QuerySets into small chunks, and iterate over them without killing your RAM.
-- [django-sql-log](https://github.com/novafloss/django-sql-log) - Django SQL Log
+- [django-stdimage](https://github.com/codingjoe/django-stdimage) - Django Standardized Image Field
+- [django-mail-factory](https://github.com/peopledoc/django-mail-factory) - Django Mail Manager
+- [django-aggtrigg](https://github.com/peopledoc/django-aggtrigg) - Automatic aggregation db triggers for django
+- [django-chunkator](https://github.com/peopledoc/django-chunkator) - Chunk large QuerySets into small chunks, and iterate over them without killing your RAM.
+- [django-sql-log](https://github.com/peopledoc/django-sql-log) - Django SQL Log
 - [django-multiqueryset](https://github.com/belimawr/django-multiqueryset) - A class to wrapper Django QuerySets and lists together providing slice and access to specific elements
 - [djblets](https://github.com/djblets/djblets) - A collection of useful extensions for Django.
 - [django-gis-brasil](https://github.com/perone/django-gis-brasil) - Django GIS Brasil
 - [autosub](https://github.com/agermanidis/autosub) - Command-line utility for auto-generating subtitles for any video file
 - [django-localflavor](https://github.com/django/django-localflavor) - Country-specific Django helpers, formerly of contrib fame
-- [underwear](https://github.com/makaimc/underwear) - Dead simple LAMP-stack deployments for Python-powered web applications.
-- [mockpy](https://github.com/oarrabi/mockpy) - Mockpy is an open source tool to quickly create mock servers.
+- [underwear](https://github.com/mattmakai/underwear) - Dead simple LAMP-stack deployments for Python-powered web applications.
+- [mockpy](https://github.com/nsomar/mockpy) - Mockpy is an open source tool to quickly create mock servers.
 - [postgres-toolkit](https://github.com/uptimejp/postgres-toolkit) - Postgres Toolkit
 - [django-rest-framework-braces](https://github.com/dealertrack/django-rest-framework-braces) - Collection of utilities for working with django rest framework (DRF)
 - [python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google's libphonenumber
 - [Sandals](https://github.com/georgewalton/Sandals) - A TkInter wrapper for python inspired by the GUI library Shoes for Ruby
-- [sixpack](https://github.com/seatgeek/sixpack) - Sixpack is a language-agnostic a/b-testing framework
+- [sixpack](https://github.com/sixpack/sixpack) - Sixpack is a language-agnostic a/b-testing framework
 - [django-modeltranslation](https://github.com/deschler/django-modeltranslation) - Translates Django models using a registration approach.
 - [appengine-fixture-loader](https://github.com/rbanffy/appengine-fixture-loader) - A simple way to load Django-like fixtures into the datastore.
 - [django-save-the-change](https://github.com/karanlyons/django-save-the-change) - Your DB Got It the First Time.
 - [django-post_office](https://github.com/ui/django-post_office) - A Django app that allows you to send email asynchronously in Django. Supports HTML email, database backed templates and logging.
 - [django-slow-tests](https://github.com/realpython/django-slow-tests) - Locate your slowest tests.
 - [fuzzyfinder](https://github.com/amjith/fuzzyfinder) - Fuzzy Finder implemented in Python
-- [django-nyt](https://github.com/benjaoming/django-nyt) - Notification system for Django with batteries included: Email digests, user settings, JSON API
+- [django-nyt](https://github.com/django-wiki/django-nyt) - Notification system for Django with batteries included: Email digests, user settings, JSON API
 - [django-relatedadminwidget](https://github.com/benjaoming/django-relatedadminwidget) - AS OF DJANGO 1.9 THIS PROJECT IS UNNECESSARY! Widget for displaying edit and delete links alongside foreign key admin widgets
 - [scrapy-djangoitem](https://github.com/scrapy-plugins/scrapy-djangoitem) - Scrapy extension to write scraped items using Django models
 - [waliki](https://github.com/mgaitan/waliki) - A wiki engine powered by Django and Git
@@ -1418,22 +2619,22 @@
 - [django-reversion-compare](https://github.com/jedie/django-reversion-compare) - Add compare view to django-reversion for comparing two versions of a reversion model.
 - [django-reversion](https://github.com/etianen/django-reversion) - django-reversion is an extension to the Django web framework that provides version control for model instances.
 - [django-ab](https://github.com/johnboxall/django-ab) - A simple AB Testing app for Django!
-- [baldr](https://github.com/motet/baldr) - A flight simulator for VTOL UAVs.
+- [baldr](https://github.com/motet/baldr) - A simple graphical flight simulator for quadcopter UAVs.
 - [factory-boy-rest](https://github.com/bertonha/factory-boy-rest) - 
 - [python-requests-aws](https://github.com/tax/python-requests-aws) - AWS authentication for Amazon S3 for the python requests module
-- [starpy](https://github.com/asterisk/starpy) - Python twisted library for AMI and FastAGI
+- [starpy](https://github.com/asterisk/starpy) - Mirror of Python twisted library for AMI and FastAGI: No pull requests here please. Use Gerrit: https://gerrit.asterisk.org
 - [amiutils](https://github.com/russellb/amiutils) - Utilities that use the Asterisk Manager Interface (AMI)
 - [webtest](https://github.com/Pylons/webtest) - Wraps any WSGI application and makes it easy to send test requests to that application, without starting up an HTTP server.
-- [aiohttp](https://github.com/KeepSafe/aiohttp) - http client/server for asyncio (PEP-3156)
-- [channels](https://github.com/andrewgodwin/channels) - Developer-friendly asynchrony for Django
+- [aiohttp](https://github.com/aio-libs/aiohttp) - HTTP client/server framework for asyncio
+- [channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django
 - [pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
-- [tqdm](https://github.com/tqdm/tqdm) - A fast, extensible progress bar for Python
-- [healthcheck](https://github.com/Runscope/healthcheck) - 
+- [tqdm](https://github.com/tqdm/tqdm) - A fast, extensible progress bar for Python and CLI
+- [healthcheck](https://github.com/Runscope/healthcheck) - Write simple healthcheck functions for your Flask apps.
 - [djorm-ext-pgfulltext](https://github.com/linuxlewis/djorm-ext-pgfulltext) - PostgreSQL full-text search integration with django orm.
 - [inflector](https://github.com/ixmatus/inflector) - inflector inflects and uninflects words. It also transforms between camelCase and under_score strings.
 - [slog](https://github.com/verandaguy/slog) - A simple logger in Python that I've been using for a lot of my projects over the last few months
 - [django-webpack-loader](https://github.com/owais/django-webpack-loader) - Transparently use webpack with django
-- [django-celery-email](https://github.com/pmclanahan/django-celery-email) - A Django 1.3+ email backend that uses a celery task for sending the email.
+- [django-celery-email](https://github.com/pmclanahan/django-celery-email) - A Django email backend that uses a celery task for sending the email.
 - [django-ses](https://github.com/django-ses/django-ses) - A Django email backend for Amazon's Simple Email Service
 - [django-icybackup](https://github.com/stbarnabas/django-icybackup) - Back your Django database and media directory up to Amazon Glacier or a local file
 - [django-backup](https://github.com/django-backup/django-backup) - Django Site Backup Command
@@ -1444,22 +2645,23 @@
 - [django-asterisk](https://github.com/maxiberta/django-asterisk) - Phone call queuing and management for the Django web framework using an Asterisk server
 - [django-waffle](https://github.com/jsocol/django-waffle) - A feature flipper for Django.
 - [alogator](https://github.com/arteria/alogator) - Alogator is an aggregated logging actor system based on Django.
-- [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for Postgres
+- [wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
 - [chaussette](https://github.com/circus-tent/chaussette) - 
 - [uvwsgi](https://github.com/saghul/uvwsgi) - Python WSGI server
 - [leanpub](https://github.com/hayd/leanpub) - Build leanpub books locally.
 - [ari-py](https://github.com/asterisk/ari-py) - Library for accessing the Asterisk REST Interface
 - [celerytestworker](https://github.com/osantana/celerytestworker) - Control (start/stop) a Celery standalone worker for running test purpose
 - [django-downloadview](https://github.com/benoitbryon/django-downloadview) - Serve files with Django.
-- [django-scheduler](https://github.com/llazzaro/django-scheduler) - 
+- [django-scheduler](https://github.com/llazzaro/django-scheduler) - A calendaring app for Django.
 - [django-access-tokens](https://github.com/mohawkhq/django-access-tokens) - A Django app for for generating secure scoped access tokens.
 - [uwsgitop](https://github.com/xrmx/uwsgitop) - uWSGI top-like app
 - [ThePythonGameBook](https://github.com/horstjens/ThePythonGameBook) - code examples for ThePythonGameBook.com
 - [effective-django](https://github.com/nyergler/effective-django) - Documentation on effectively using Django for building web applications.
 - [wsgitest](https://github.com/osantana/wsgitest) - Standalone WSGI server for running tests purpose.
+- [scandir](https://github.com/benhoyt/scandir) - Better directory iterator and faster os.walk(), now in the Python 3.5 stdlib
 - [PITRTools](https://github.com/commandprompt/PITRTools) - Point in Time Recovery Tools for PostgreSQL
 - [python-unicodecsv](https://github.com/jdunck/python-unicodecsv) - Python2's stdlib csv module is nice, but it doesn't support unicode.  This module is a drop-in replacement which *does*.  If you prefer python 3's semantics but need support in py2, you probably want https://github.com/ryanhiebert/backports.csv
-- [django-audit-log](https://github.com/Atomidata/django-audit-log) - Audit log for your Django models
+- [django-audit-log](https://github.com/vvangelovski/django-audit-log) - Audit log for your Django models
 - [yapsy](https://github.com/tibonihoo/yapsy) - A fat-free DIY Python plugin management toolkit. (Weekly updated mirror)
 - [scudcloud](https://github.com/raelgc/scudcloud) - ScudCloud - Slack for Linux
 - [django-postgrefts](https://github.com/BertrandBordage/django-postgrefts) - Django-PostgreFTS — Adds PostgreSQL Full-Text Search to Django
@@ -1472,16 +2674,16 @@
 - [pip2pi](https://github.com/wolever/pip2pi) - pip2pi builds a PyPI-compatible package repository from pip requirements
 - [pylama](https://github.com/klen/pylama) - Code audit tool for python.
 - [celerytest](https://github.com/torotil/celerytest) - Run monitored Celery workers for your integration tests
-- [promptastic](https://github.com/nimiq/promptastic) - A fantastic prompt for Bash
+- [promptastic](https://github.com/puntonim/promptastic) - A fantastic prompt for Bash
 - [mock-s3](https://github.com/jserver/mock-s3) - A Python clone of fake-s3, A lightweight server clone of Amazon S3
 - [domplus](https://github.com/eabps/domplus) - python package with common functions for commercial applications.
 - [mycsv](https://github.com/osantana/mycsv) - Export query results to local CSV file
 - [prettyconf](https://github.com/osantana/prettyconf) - A extensible library for Settings/Code separation
 - [imapy](https://github.com/vladimarius/imapy) - Imapy: Imap for Humans
 - [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications
-- [normalizr](https://github.com/davidmogar/normalizr) - Python library for text normalization
-- [python-email-validator](https://github.com/JoshData/python-email-validator) - A robust email syntax and deliverability validation library for Python 2.7/3.4.
-- [pyformat.info](https://github.com/ulope/pyformat.info) - 
+- [cucco](https://github.com/davidmogar/cucco) - Text normalization library for Python
+- [python-email-validator](https://github.com/JoshData/python-email-validator) - A robust email syntax and deliverability validation library for Python 2.7/3.4+.
+- [pyformat.info](https://github.com/ulope/pyformat.info) - Single page cheat-sheet about Python string formatting
 - [libextract](https://github.com/datalib/libextract) - Extract data from websites using basic statistical magic
 - [django-prometheus](https://github.com/korfuri/django-prometheus) - Export Django monitoring metrics for Prometheus.io
 - [SendMail](https://github.com/filcuc/SendMail) - Small python script that uses Google OAuth 2.0 authentication for sending email with your google account
@@ -1490,26 +2692,27 @@
 - [rapidsms](https://github.com/rapidsms/rapidsms) - Build SMS applications with Python
 - [gprof2dot](https://github.com/jrfonseca/gprof2dot) - Converts profiling output to a dot graph.
 - [webapp-checklist](https://github.com/dhilipsiva/webapp-checklist) - Technical details that a programmer of a web application should consider before making the site public.
-- [doc8](https://github.com/openstack/doc8) - 
+- [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework
+- [doc8](https://github.com/openstack/doc8) - Style checker for sphinx (or other) rst documentation.
 - [wsgi-profiler](https://github.com/breerly/wsgi-profiler) - WSGI Profiling Middleware - capture cProfiles with request data.
 - [pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project
-- [pip-tools](https://github.com/nvie/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+- [pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [passpie](https://github.com/marcwebbie/passpie) - :closed_lock_with_key: Multiplatform command-line password manager
 - [logassert](https://github.com/facundobatista/logassert) - A simple Log Assertion mechanism for Python unittests
 - [Versio](https://github.com/royw/Versio) - python version manipulation library
 - [python-markdown2](https://github.com/trentm/python-markdown2) - markdown2: A fast and complete implementation of Markdown in Python
 - [moult](https://github.com/tweekmonster/moult) - A utility for finding Python packages that may not be in use.
-- [inspektor](https://github.com/autotest/inspektor) - Inspektor code checker
+- [inspektor](https://github.com/avocado-framework/inspektor) - Inspektor code checker
 - [beerblogging](https://github.com/avelino/beerblogging) - It's a f*&%cking bet! You have 1 month to write at least 1 blogpost. If you don't do that, you have to pay a beer for everybody.
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [dj-search-url](https://github.com/dstufft/dj-search-url) - 
 - [pygal](https://github.com/Kozea/pygal) - PYthon svg GrAph plotting Library
-- [nameko](https://github.com/onefinestay/nameko) - Python framework for building microservices
+- [nameko](https://github.com/nameko/nameko) - Python framework for building microservices
 - [django-js-reverse](https://github.com/ierror/django-js-reverse) - Javascript url handling for Django that doesn't hurt.
-- [django-user-sessions](https://github.com/Bouke/django-user-sessions) - 
+- [django-user-sessions](https://github.com/Bouke/django-user-sessions) - Extend Django sessions with a foreign key back to the user, allowing enumerating all user's sessions.
 - [pywinrm](https://github.com/diyan/pywinrm) - Python library for Windows Remote Management (WinRM)
-- [django-cache-url](https://github.com/ghickman/django-cache-url) - Use Cache URLs in your Django Application
-- [django-registration](https://github.com/macropin/django-registration) - django-registration (redux) now with Django 1.8/1.9/1.10 & Python 3 support
+- [django-cache-url](https://github.com/ghickman/django-cache-url) - DEPRECATED | Use Cache URLs in your Django Application
+- [django-registration](https://github.com/macropin/django-registration) - Django-registration (redux) provides user registration functionality for Django websites.
 - [crab](https://github.com/grahambell/crab) - Cron alert board
 - [cron-metrics](https://github.com/manugarri/cron-metrics) - Implementation of a monitoring system of interval cron tasks in Python
 - [kombu](https://github.com/celery/kombu) - Messaging library for Python.
@@ -1520,16 +2723,16 @@
 - [c64rom](https://github.com/mist64/c64rom) - Fully Commented Commodore 64 ROM Disassembly
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [python-tornado-bootstrap](https://github.com/paulocheque/python-tornado-bootstrap) - 
-- [tuf](https://github.com/theupdateframework/tuf) - Like the S in HTTPS, a plug-and-play library for securing a software updater
+- [tuf](https://github.com/theupdateframework/tuf) - A framework for securing software update systems
 - [academicmarkdown](https://github.com/smathot/academicmarkdown) - Academic writing with Markdown
-- [freesms](https://github.com/bfontaine/freesms) - :iphone: Send SMS to yourself through Free Mobile SMS API
+- [freesms](https://github.com/bfontaine/freesms) - :iphone: Send SMSes to yourself through the 'Free Mobile' SMS API
 - [microauth](https://github.com/LukeB42/microauth) - A flexible authentication microservice written in Python
 - [django-courriers](https://github.com/ulule/django-courriers) - A generic application to manage your newsletters
 - [normality](https://github.com/pudo/normality) - A tiny library for Python text normalisation. Useful for ad-hoc text processing.
 - [fbadmin](https://github.com/thekindlyone/fbadmin) - Python library that uses selenium and phantomjs to automate Facebook Group administration
 - [django-react-integration](https://github.com/ustun/django-react-integration) - A sample project that shows django-react integration
 - [django-pgjsonb](https://github.com/yjmade/django-pgjsonb) - Django Postgres JSONB Fields support with lookups
-- [PyDark](https://github.com/SirFroweey/PyDark) - PyDark is a 2D and Online Multiplayer video game engine written on-top of Python and PyGame.
+- [PyDark](https://github.com/SirFroweey/PyDark) - PyDark is a 2D and Online Multiplayer video game framework written on-top of Python and PyGame.
 - [polytester](https://github.com/skoczen/polytester) - Polytester is a simple, easy-to-use multi-language test runner.
 - [django-tinyschedule](https://github.com/jgeskens/django-tinyschedule) - A small Django app for managing schedules
 - [donkey](https://github.com/bcho/donkey) - A simple cron-like library for executing scheduled jobs.
@@ -1540,35 +2743,35 @@
 - [py2deb](https://github.com/paylogic/py2deb) - Python to Debian package converter
 - [geocoder](https://github.com/DenisCarriere/geocoder) - :earth_asia: Python Geocoder
 - [bumpversion](https://github.com/peritus/bumpversion) - Version-bump your software with a single command
-- [python-digitalocean](https://github.com/koalalorenzo/python-digitalocean) - Python module to manage Digital Ocean droplets
+- [python-digitalocean](https://github.com/koalalorenzo/python-digitalocean) - 🐍🐳 Python module to manage Digital Ocean droplets
 - [pew](https://github.com/berdario/pew) - A tool to manage multiple virtual environments written in pure python
 - [django-hijack](https://github.com/arteria/django-hijack) - With Django Hijack, admins can log in and work on behalf of other users without having to know their credentials.
 - [muffin](https://github.com/klen/muffin) - Muffin is a fast, simple and asyncronous web-framework for Python 3
 - [django-defender](https://github.com/kencochrane/django-defender) - A simple super fast django reusable app that blocks people from brute forcing login attempts
-- [wcwidth](https://github.com/jquast/wcwidth) - Measures number of Terminal column cells of wide-character codes
+- [wcwidth](https://github.com/jquast/wcwidth) - Python library that measures the width of unicode strings rendered to a terminal
 - [vdist](https://github.com/objectified/vdist) - Create OS packages from Python projects using Docker containers
 - [SocialAuthDjangoTutorial](https://github.com/yudazilian/SocialAuthDjangoTutorial) - 
-- [carrot](https://github.com/jbowen7/carrot) - 
+- [djangocarrot](https://github.com/jbowen7/djangocarrot) - Carrot -- A simple task Queue for Django.
 - [django-baker](https://github.com/krisfields/django-baker) - Adds a management command that generates views, forms, urls, admin, and templates based off the contents of models.py
 - [freight](https://github.com/getsentry/freight) - Freight is a service which aims to make application deployments better.
-- [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.28.1, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below).
+- [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.29.1, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below).
 - [platter](https://github.com/mitsuhiko/platter) - A useful helper for wheel deployments.
 - [django-offermaker](https://github.com/kkujawinski/django-offermaker) - Django library to create dynamic forms with configurable variantable restrictions.
 - [ghmarkdown](https://github.com/lucasem/ghmarkdown) - The complete command-line tool for GitHub-flavored markdown
-- [services-to-wordcloud](https://github.com/vdmitriyev/services-to-wordcloud) - Tiny python utility that converts data crawled from different services into cloud of words.
+- [services-to-wordcloud](https://github.com/vdmitriyev/services-to-wordcloud) - A tiny python utility that converts data crawled from different services into cloud of words.
 - [onetimepass](https://github.com/tadeck/onetimepass) - One-time password library for HMAC-based (HOTP) and time-based (TOTP) passwords
-- [bidict](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map implementation and related functionality.
+- [bidict](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality.
 - [API-Hour](https://github.com/Eyepea/API-Hour) - Write efficient network daemons (HTTP, SSH...) with ease.
 - [python-atomicwrites](https://github.com/untitaker/python-atomicwrites) - Powerful Python library for atomic file writes.
 - [djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django authentication system.
 - [python-sped](https://github.com/sped-br/python-sped) - Biblioteca para geração dos arquivos do Sistema Público de Escrituração Digital (SPED) para Python.
 - [django-hvad](https://github.com/KristianOellegaard/django-hvad) - Painless translations in django, using the regular ORM. Integrates easily into existing projects and apps. Easy convertible from django-multilingual-ng.
 - [django-watson](https://github.com/etianen/django-watson) - Full-text multi-table search application for Django. Easy to install and use, with good performance.
-- [offlineimap](https://github.com/OfflineIMAP/offlineimap) - Read/sync your IMAP mailboxes [Python]
-- [celery-once](https://github.com/TrackMaven/celery-once) - Celery Once allows you to prevent multiple execution and queuing of celery tasks.
+- [offlineimap](https://github.com/OfflineIMAP/offlineimap) - Read/sync your IMAP mailboxes
+- [celery-once](https://github.com/cameronmaske/celery-once) - Celery Once allows you to prevent multiple execution and queuing of celery tasks.
 - [pyjwt](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python
 - [supporting-python-3](https://github.com/regebro/supporting-python-3) - Supporting Python 3
-- [dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions. Dataset also includes support for freezing data to CSV and JSON flat files.
+- [dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions.
 - [django-multiupload](https://github.com/Chive/django-multiupload) - Dead simple drop-in multi file upload field for Django forms using HTML5's multiple attribute.
 - [boto3](https://github.com/boto/boto3) - AWS SDK for Python
 - [brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
@@ -1592,8 +2795,7 @@
 - [commentjson](https://github.com/vaidik/commentjson) - Add JavaScript or Python style comments in JSON.
 - [browser_invaders](https://github.com/jsbueno/browser_invaders) - Small Space Invaders Game in html5 using Python as scripting language (Brython)
 - [simulado-detran-rj](https://github.com/turicas/simulado-detran-rj) - Crawler das questões do simulado do DETRAN-RJ
-- [django-imagekit](https://github.com/matthewwithanm/django-imagekit) - Automated image processing for Django. Currently v3.0
-- [djangocalendar](https://github.com/valberg/djangocalendar) - A calendar in Django with RFC 2445 aka. iCalendar support in mind
+- [django-imagekit](https://github.com/matthewwithanm/django-imagekit) - Automated image processing for Django. Currently v4.0
 - [django-dockerfile](https://github.com/akaariai/django-dockerfile) - 
 - [rss2imap](https://github.com/rcarmo/rss2imap) - An adaptation of rss2mail that uses IMAP directly
 - [django-rest-hal](https://github.com/seebass/django-rest-hal) - HAL Implementation for Django REST Framework
@@ -1609,9 +2811,9 @@
 - [sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder
 - [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [awesome-slugify](https://github.com/dimka665/awesome-slugify) - Python flexible slugify function
-- [wifiphisher](https://github.com/sophron/wifiphisher) - Automated phishing attacks against Wi-Fi networks
-- [heroku-django-template](https://github.com/heroku/heroku-django-template) - A Django 1.9 base template featuring all recommended best practices for deployment on Heroku and local development.
-- [Pytify](https://github.com/bjarneo/Pytify) - Use this cli application as a Spotify remote. Including search for and start songs.
+- [wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
+- [heroku-django-template](https://github.com/heroku/heroku-django-template) - A Django 2.0 base template featuring all recommended best practices for deployment on Heroku and local development.
+- [Pytify](https://github.com/bjarneo/Pytify) - A CLI application for controlling Spotify
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [flask-sslify](https://github.com/kennethreitz/flask-sslify) - Force SSL on your Flask app.
 - [zato](https://github.com/zatosource/zato) - ESB, SOA, REST, APIs and Cloud Integrations in Python
@@ -1630,11 +2832,11 @@
 - [django-hosts](https://github.com/jazzband/django-hosts) - Dynamic and static host resolving for Django. Maps hostnames to URLconfs.
 - [enferno](https://github.com/level09/enferno) - A Flask-based Framework for the Next Decade.
 - [ratelim](https://github.com/themiurgo/ratelim) - Makes it easy to respect rate limits.
-- [pb](https://github.com/ptpb/pb) - @silverp1's attempt at a light pastebin; @buhman's attempt at world domination
+- [pb](https://github.com/ptpb/pb) - pb is a lightweight pastebin and url shortener built using flask.
 - [s3plz](https://github.com/enigma-io/s3plz) - A polite, minimal interface for sending python objects to and from Amazon S3.
 - [KindleGate](https://github.com/hzengin/KindleGate) - KindleGate is a simple Flask application that uses Calibre's "ebook-convert" command line application to convert your *.epub e-books on the fly and makes them downloadable as *.mobi for to Kindle directly from Experimantal Browser.
 - [pypgTAP](https://github.com/itissid/pypgTAP) - Making Postgres coding and testing fun!
-- [httpbin](https://github.com/Runscope/httpbin) - HTTP Request & Response Service, written in Python + Flask.
+- [httpbin](https://github.com/requests/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [django-test-without-migrations](https://github.com/henriquebastos/django-test-without-migrations) - Django Test Without Migrations: Disable migrations when running your Django tests
 - [django-formtools](https://github.com/django/django-formtools) - A set of high-level abstractions for Django forms
 - [django-role-permissions](https://github.com/vintasoftware/django-role-permissions) - A django app for role based permissions.
@@ -1643,15 +2845,14 @@
 - [nameko](https://github.com/mitsuhiko/nameko) - 
 - [requests-cache](https://github.com/reclosedev/requests-cache) - Transparent persistent cache for http://python-requests.org/ library
 - [django-simple-history](https://github.com/treyhunner/django-simple-history) - Store model history and view/revert changes from admin site.
-- [cpython](https://github.com/python/cpython) - Semi-official read-only mirror of the CPython Mercurial repository
 - [guv](https://github.com/veegee/guv) - A fast event loop like gevent for Python 3, built on greenlets and libuv
 - [braillegraph](https://github.com/chrisbouchard/braillegraph) - A library for creating graphs using Unicode braille characters.
-- [tortilla](https://github.com/redodo/tortilla) - Wrapping web APIs made easy.
+- [tortilla](https://github.com/tortilla/tortilla) - Wrapping web APIs made easy.
 - [invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
-- [django-wordpress](https://github.com/sunlightlabs/django-wordpress) - WordPress models and views for Django.
+- [django-wordpress](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
 - [dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
 - [django-filter](https://github.com/carltongibson/django-filter) - A generic system for filtering Django QuerySets based on user selections
-- [django-flatblocks](https://github.com/funkybob/django-flatblocks) - django-chunks + headerfield + variable chunknames + "inclusion tag" == django-flatblocks
+- [django-flatblocks](https://github.com/jazzband/django-flatblocks) - django-chunks + headerfield + variable chunknames + "inclusion tag" == django-flatblocks
 - [hamms](https://github.com/kevinburke/hamms) - Malformed servers to test your HTTP client
 - [xdot.py](https://github.com/jrfonseca/xdot.py) - Interactive viewer for graphs written in Graphviz's dot language.
 - [django-cors-headers](https://github.com/ottoyiu/django-cors-headers) - Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)
@@ -1659,7 +2860,7 @@
 - [ezodf](https://github.com/T0ha/ezodf) - ezodf is a Python package to create new or open existing OpenDocument (ODF) files to extract, add, modify or delete document data, forked from dead project https://bitbucket.org/mozman/ezodf
 - [inventwithpython3rded](https://github.com/asweigart/inventwithpython3rded) - Source text for "Invent Your Own Computer Games with Python, 3rd Edition"
 - [pg_bloat_check](https://github.com/keithf4/pg_bloat_check) - Bloat check script for PostgreSQL
-- [django-project-template](https://github.com/jpadilla/django-project-template) - Project template layout for Django 1.9+
+- [django-project-template](https://github.com/jpadilla/django-project-template) - Project template layout for Django 2.0+
 - [hypervault](https://github.com/tetsuo/hypervault) - postgresql connection manager for scalability freaks
 - [django-rest-framework-oauth](https://github.com/jpadilla/django-rest-framework-oauth) - OAuth support for Django REST Framework
 - [pgosquery](https://github.com/shish/pgosquery) - Like Facebook's OSQuery, but for Postgres
@@ -1668,18 +2869,18 @@
 - [changes](https://github.com/michaeljoseph/changes) - changes automates python library release tasks.
 - [django-nopassword](https://github.com/relekang/django-nopassword) - Authentication backend for django that uses a one time code instead of passwords
 - [hystrix-py](https://github.com/wiliamsouza/hystrix-py) - Latency and fault tolerance for distributed systems
-- [Stream-Framework](https://github.com/tschellenbach/Stream-Framework) - Stream Framework is a Python library, which allows you to build newsfeed and notification systems using Cassandra and/or Redis.
+- [Stream-Framework](https://github.com/tschellenbach/Stream-Framework) - Stream Framework is a Python library, which allows you to build news feed, activity streams and notification systems using Cassandra and/or Redis. The authors of Stream-Framework also provide a cloud service for feed technology:
 - [pywsd](https://github.com/alvations/pywsd) - Python Implementations of Word Sense Disambiguation (WSD) Technologies.
 - [pyrecord](https://github.com/gnarea/pyrecord) - Pythonic Record Types.
 - [cider](https://github.com/msanders/cider) - Hassle-free bootstrapping with Homebrew.
 - [django-db-mutex](https://github.com/ambitioninc/django-db-mutex) - Acquire a mutex via the DB in Django
 - [db.py](https://github.com/yhat/db.py) - db.py is an easier way to interact with your databases
 - [procs](https://github.com/kennethreitz/procs) - Python, Processes, and Prana.
-- [flaskbb](https://github.com/sh4nks/flaskbb) - A forum software written in flask
+- [flaskbb](https://github.com/flaskbb/flaskbb) - A classic Forum Software in Python using Flask.
 - [bogus-test-server](https://github.com/globocom/bogus-test-server) - A simple python bogus server to use in tests
 - [logbook](https://github.com/getlogbook/logbook) - A cool logging replacement for Python.
 - [python-modernize](https://github.com/mitsuhiko/python-modernize) - Modernizes Python code for eventual Python 3 migration. Build on top of 2to3
-- [prospector](https://github.com/landscapeio/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
+- [prospector](https://github.com/PyCQA/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
 - [spiny](https://github.com/regebro/spiny) - A zero config tool to run tests under multiple versions of Python
 - [python-mysql-replication](https://github.com/noplay/python-mysql-replication) - Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL
 - [pypete](https://github.com/Artimi/pypete) - Python Performance Testing
@@ -1687,7 +2888,6 @@
 - [django-pushy](https://github.com/rakanalh/django-pushy) - Your push notifications handled at scale.
 - [feedzilla](https://github.com/feedzilla/feedzilla) - 
 - [captain](https://github.com/thread/captain) - Lightweight, standalone RESTful HTTP server for distributing Debian packages
-- [1pass](https://github.com/georgebrock/1pass) - A command line interface for 1Password
 - [premailer](https://github.com/peterbe/premailer) - Turns CSS blocks into style attributes
 - [taiga-back](https://github.com/taigaio/taiga-back) - Project management web application with scrum in mind! Built on top of Django and AngularJS (Backend Code)
 - [memory_utils](https://github.com/jtushman/memory_utils) - Utilities to help fight and prevent memory leaks
@@ -1695,8 +2895,8 @@
 - [pytimeparse](https://github.com/wroberts/pytimeparse) - A small Python module to parse various kinds of time expressions.
 - [sharq-server](https://github.com/plivo/sharq-server) - A flexible rate limited queueing system
 - [flask-trace](https://github.com/canassa/flask-trace) - A Simple logging decorator for Flask applications
-- [wagtail](https://github.com/torchbox/wagtail) - A Django content management system focused on flexibility and user experience
-- [django-cachalot](https://github.com/BertrandBordage/django-cachalot) - No effort, no worry, maximum performance.
+- [wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
+- [django-cachalot](https://github.com/noripyt/django-cachalot) - No effort, no worry, maximum performance.
 - [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - Library for building powerful interactive command lines in Python
 - [wsgiref2](https://github.com/davisp/wsgiref2) - WSGI v2.0 reference implementation
 - [moment](https://github.com/zachwill/moment) - Dealing with dates in Python shouldn't have to suck.
@@ -1711,6 +2911,7 @@
 - [profiling](https://github.com/what-studio/profiling) - An interactive continuous Python profiler.
 - [ObjectPath](https://github.com/adriank/ObjectPath) - The agile query language for semi-structured data
 - [Chronyk](https://github.com/KoffeinFlummi/Chronyk) - A Python 3 library for parsing human-written times and dates
+- [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler, assembler, and disassembler
 - [tablib](https://github.com/kennethreitz/tablib) - Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.
 - [django-typed-models](https://github.com/craigds/django-typed-models) - polymorphic django models using automatic type-field downcasting
 - [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition in Python
@@ -1730,7 +2931,7 @@
 - [glim](https://github.com/aacanakin/glim) - a modern python framework for the web
 - [jsonpickle](https://github.com/jsonpickle/jsonpickle) - Python library for serializing any arbitrary object graph into JSON. It can take almost any Python object and turn the object into JSON. Additionally, it can reconstitute the object back into Python.
 - [bankapi](https://github.com/trustly/bankapi) - Secure Distributed Messaging Between Financial Institutions
-- [alchy](https://github.com/dgilland/alchy) - The declarative companion to SQLAlchemy.
+- [alchy](https://github.com/dgilland/alchy) - The declarative companion to SQLAlchemy
 - [nocolon](https://github.com/paradoxxxzero/nocolon) - nocolon is an utf-8 compatible encoding that removes the need of colons in python files.
 - [python-decouple](https://github.com/henriquebastos/python-decouple) - Strict separation of config from code.
 - [gunnery](https://github.com/gunnery/gunnery) - Remote task execution tool
@@ -1744,9 +2945,8 @@
 - [pybreaker](https://github.com/danielfm/pybreaker) - Python implementation of the Circuit Breaker pattern.
 - [osqa](https://github.com/dzone/osqa) - OSQA is a free, entry-level Q&A system from the makers of AnswerHub, the market-leading professional Q&A platform.   Looking for Enterprise functionality?  Checkout http://answerhub.com
 - [django-spurl](https://github.com/j4mie/django-spurl) - A Django template library for manipulating URLs
-- [django-s3direct](https://github.com/bradleyg/django-s3direct) - Add direct uploads to S3 with a progress bar to file input fields. Perfect for Heroku.
-- [django-modelcluster](https://github.com/torchbox/django-modelcluster) - Django extension to allow working with 'clusters' of models as a single unit, independently of the database
-- [cyclops](https://github.com/heynemann/cyclops) - Cyclops is meant to be a high performance barrier in front of Sentry (http://getsentry.com).
+- [django-modelcluster](https://github.com/wagtail/django-modelcluster) - Django extension to allow working with 'clusters' of models as a single unit, independently of the database
+- [cyclops](https://github.com/sentry-extensions/cyclops) - Cyclops is meant to be a high performance barrier in front of Sentry (http://getsentry.com).
 - [turnstile](https://github.com/klmitch/turnstile) - A distributed rate limiting WSGI middleware.
 - [PyAPNs](https://github.com/djacobs/PyAPNs) - Python library for interacting with the Apple Push Notification service (APNs)
 - [queries](https://github.com/gmr/queries) - PostgreSQL database access simplified
@@ -1763,11 +2963,11 @@
 - [viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django
 - [jsonschema](https://github.com/Julian/jsonschema) - An(other) implementation of JSON Schema for Python
 - [django-wham](https://github.com/mbylstra/django-wham) - REST APIs disguised as Django ORM Models
-- [csvtomd](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables.
+- [csvtomd](https://github.com/mplewis/csvtomd) - 📝📊 Convert your CSV files into Markdown tables.
 - [docker-webapp2](https://github.com/Davepar/docker-webapp2) - An example of moving a Google App Engine webapp2 app to Docker.
 - [vincent](https://github.com/wrobstory/vincent) - A Python to Vega translator
 - [python-qrcode](https://github.com/lincolnloop/python-qrcode) - Python QR Code image generator
-- [zipa](https://github.com/PressLabs/zipa) - General purpose REST API client #ep14boat
+- [zipa](https://github.com/presslabs/zipa) - General purpose REST API client #ep14boat
 - [peep](https://github.com/erikrose/peep) - A "pip install" that is cryptographically guaranteed repeatable
 - [dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Python virtualenvs in Debian packages
 - [slumber](https://github.com/samgiles/slumber) - A library that makes consuming a RESTful API easier and more convenient
@@ -1782,17 +2982,16 @@
 - [pycallgraph](https://github.com/gak/pycallgraph) - pycallgraph is a Python module that creates call graphs for Python programs.
 - [requests-middleware](https://github.com/jmcarp/requests-middleware) - Composable plugins for python-requests
 - [powerline-shell](https://github.com/Xfennec/powerline-shell) - A beautiful and useful prompt for your shell
-- [django-rest-framework](https://github.com/tomchristie/django-rest-framework) - Web APIs for Django.
+- [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. ⚡️
 - [shipper](https://github.com/mailgun/shipper) - Fabric for docker containers
 - [bitey](https://github.com/dabeaz/bitey) - 
 - [vex](https://github.com/sashahart/vex) - Run a command in the named virtualenv.
 - [unidecode](https://github.com/iki/unidecode) - Unicode transliteration in Python (clone of Tomaž Šolc repository at zemanta.com)
 - [pluginbase](https://github.com/mitsuhiko/pluginbase) - A simple but flexible plugin system for Python.
 - [python-certifi](https://github.com/certifi/python-certifi) - (Python Distribution) A carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts.
-- [openross](https://github.com/ssaw/openross) - OpenRoss image processing service
 - [Minecraft](https://github.com/fogleman/Minecraft) - Simple Minecraft-inspired program using Python and Pyglet
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [modoboa](https://github.com/tonioo/modoboa) - Mail hosting made simple
+- [modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
 - [green](https://github.com/CleanCut/green) - Green is a clean, colorful, fast python test runner.
 - [crontabber](https://github.com/mozilla/crontabber) - A cron job runner with self-healing and job dependencies.
 - [django-templated-email](https://github.com/vintasoftware/django-templated-email) - Django module to easily send templated emails using django templates, or using a transactional mail provider (mailchimp, silverpop, etc.)
@@ -1802,7 +3001,7 @@
 - [mrq](https://github.com/pricingassistant/mrq) - Mr. Queue - A distributed worker task queue in Python using Redis & gevent
 - [uwsgi-sloth](https://github.com/piglei/uwsgi-sloth) - Realtime uwsgi log file analyzer, slow requests analyzer.
 - [django-hstore](https://github.com/djangonauts/django-hstore) - PostgreSQL HStore support for Django.
-- [silk](https://github.com/django-silk/silk) - Silky smooth profiling for Django
+- [django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling for Django
 - [roadhouse](https://github.com/awsroadhouse/roadhouse) - Library for sanely managing AWS security settings
 - [plan](https://github.com/fengsp/plan) - Crontab jobs management in Python
 - [magpie](https://github.com/charlesthomas/magpie) - Git-backed Evernote replacement
@@ -1823,23 +3022,23 @@
 - [python-feedgen](https://github.com/lkiesow/python-feedgen) - Python module to generate ATOM feeds, RSS feeds and Podcasts.
 - [django-static-chooser](https://github.com/labcodes/django-static-chooser) - Simply choose between your local static file or a remote CDN.
 - [RatticWeb](https://github.com/tildaslash/RatticWeb) - Password Management for Humans
-- [feedstail](https://github.com/Psycojoker/feedstail) - Feedstail is a tail-f-like utility for feeds. It monitor a feed and emits new entries. Feedstail aim to be simple, hackable and compatible with rsstail its C brother.
+- [feedstail](https://github.com/YoloSwagTeam/feedstail) - Feedstail is a tail-f-like utility for feeds. It monitor a feed and emits new entries. Feedstail aim to be simple, hackable and compatible with rsstail its C brother.
 - [securedrop](https://github.com/freedomofpress/securedrop) - GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
 - [pswdless](https://github.com/renzon/pswdless) - A password-less login service. Written in Python using Google App Engine
 - [pyramid_describe](https://github.com/cadithealth/pyramid_describe) - A pyramid plugin that describes a pyramid application URL hierarchy via inspection.
 - [restless](https://github.com/toastdriven/restless) - A lightweight REST miniframework for Python.
-- [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform crash reporting built with love
+- [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [sentry-on-heroku](https://github.com/fastmonkeys/sentry-on-heroku) - Sentry on Heroku
 - [mongotor](https://github.com/marcelnicolay/mongotor) - An asynchronous driver and toolkit for accessing MongoDB in Tornado
 - [bipolar-python-client](https://github.com/marinho/bipolar-python-client) - Python client for Bipolar
-- [django-model-utils](https://github.com/carljm/django-model-utils) - Django model mixins and utilities.
-- [eliot](https://github.com/ClusterHQ/eliot) - Eliot: a causality-based logging library for Python
+- [django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities.
+- [eliot](https://github.com/ScatterHQ/eliot) - Eliot: the logging system that tells you *why* it happened
 - [mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server that plays music from local disk, Spotify, SoundCloud, Google Play Music, and more. You edit the playlist from any phone, tablet, or computer using a range of MPD and web clients.
 - [cached-property](https://github.com/pydanny/cached-property) - A decorator for caching properties in classes.
 - [huey](https://github.com/coleifer/huey) - a little task queue for python
 - [Spirit](https://github.com/nitely/Spirit) - Spirit is a modern Python based forum built on top of Django framework
 - [sqlalchemy_mptt](https://github.com/uralbash/sqlalchemy_mptt) - SQLAlchemy nested sets mixin (MPTT)
-- [pyramid](https://github.com/Pylons/pyramid) - Pyramid web framework
+- [pyramid](https://github.com/Pylons/pyramid) - Pyramid - A Python web framework
 - [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd's MySQL to PostgreSQL conversion script
 - [cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 - [w3lib](https://github.com/scrapy/w3lib) - Python library of web-related functions
@@ -1862,7 +3061,7 @@
 - [morepath](https://github.com/morepath/morepath) - Python web microframework with superpowers
 - [click](https://github.com/pallets/click) - Python composable command line utility
 - [mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
-- [alerta](https://github.com/guardian/alerta) - Alerta monitoring system
+- [alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [flask-bouncer](https://github.com/bouncer-app/flask-bouncer) - Flask declarative authorization
 - [bouncer](https://github.com/bouncer-app/bouncer) - Declarative Authentication DSL inspired by Ryan Bates excellent cancan library
 - [python-binary-memcached](https://github.com/jaysonsantos/python-binary-memcached) - A pure python module (thread safe) to access memcached via it's binary protocol with SASL auth support.
@@ -1872,34 +3071,34 @@
 - [Flask-FeatureFlags](https://github.com/trustrachel/Flask-FeatureFlags) - A Flask extension that enables or disables features based on configuration.
 - [celery-api](https://github.com/imankulov/celery-api) - Celery API discovery module
 - [changes](https://github.com/dropbox/changes) - A dashboard for your code. A build system.
-- [django-widget-tweaks](https://github.com/kmike/django-widget-tweaks) - Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered.
+- [django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered.
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [pyston](https://github.com/dropbox/pyston) - An open-source Python implementation using JIT techniques.
+- [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
 - [pprintpp](https://github.com/wolever/pprintpp) - pprint++: a drop-in replacement for pprint that's actually pretty
 - [pyringe](https://github.com/google/pyringe) - Debugger capable of attaching to and injecting code into python processes.
 - [httmock](https://github.com/patrys/httmock) - A mocking library for requests
-- [pyinstrument](https://github.com/joerick/pyinstrument) - Call stack profiler for Python. Inspired by Apple's Instruments.app
-- [rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated Mac os x Python Statusbar apps
+- [pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
+- [rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated macOS Python Statusbar apps
 - [django-speedbar](https://github.com/mixcloud/django-speedbar) - Instrumentation for django page loads
-- [flask-api](https://github.com/tomchristie/flask-api) - Browsable web APIs for Flask
+- [flask-api](https://github.com/flask-api/flask-api) - Browsable web APIs for Flask.
 - [python-readability](https://github.com/mgalves/python-readability) - fast python port of arc90's readability tool, updated to match latest readability.js!
-- [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
+- [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
 - [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [ngxtop](https://github.com/lebinh/ngxtop) - Real-time metrics for nginx server
-- [Flask-User](https://github.com/lingthio/Flask-User) - Customizable User Account Management for Flask: Register, Confirm email, Login, Change username, Change password, Forgot password and more.
+- [Flask-User](https://github.com/lingthio/Flask-User) - Customizable User Authorization & User Management: Register, Confirm, Login, Change username/password, Forgot password and more.
 - [caniusepython3](https://github.com/brettcannon/caniusepython3) - Can I Use Python 3?
 - [whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for Python web apps
 - [webargs](https://github.com/sloria/webargs) - A friendly library for parsing HTTP request arguments, with built-in support for popular web frameworks, including Flask, Django, Bottle, Tornado, Pyramid, webapp2, Falcon, and aiohttp.
 - [python-geoip](https://github.com/mitsuhiko/python-geoip) - GeoIP database access for Python under a BSD license.
-- [requests-toolbelt](https://github.com/sigmavirus24/requests-toolbelt) - A toolbelt of useful classes and functions to be used with python-requests
-- [mistune](https://github.com/lepture/mistune) - The fastest markdown parser in pure Python with renderer feature, inspired by marked and misaka.
+- [toolbelt](https://github.com/requests/toolbelt) - A toolbelt of useful classes and functions to be used with python-requests
+- [mistune](https://github.com/lepture/mistune) - The fastest markdown parser in pure Python with renderer feature.
 - [hyper](https://github.com/Lukasa/hyper) - HTTP/2 for Python.
 - [robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [sunfish](https://github.com/thomasahle/sunfish) - Sunfish: a Python Chess Engine in 111 lines of code
 - [AsyncIRC](https://github.com/kageurufu/AsyncIRC) - Dependency-free multithreaded buffered non-blocking IRC Library in Python
 - [django-backupdb](https://github.com/fusionbox/django-backupdb) - Management commands for automatically backing up and restoring databases in Django
 - [django-daydreamer](https://github.com/skibblenybbles/django-daydreamer) - A Django class-based view utility library
-- [mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [alf](https://github.com/globocom/alf) - Python OAuth2 Client
 - [djalf](https://github.com/viniciuschagas/djalf) - 
 - [wifijammer](https://github.com/DanMcInerney/wifijammer) - Continuously jam all wifi clients/routers
@@ -1907,9 +3106,8 @@
 - [django-unaccent](https://github.com/djcoin/django-unaccent) - Integration of nice operators to the django ORM for unaccented search in postgresql
 - [heroku-buildpack-python-extras](https://github.com/localmed/heroku-buildpack-python-extras) - Heroku buildpack for Python apps with added support for Gem and Node package dependencies.
 - [picnic.py](https://github.com/Zulko/picnic.py) - Easy Python packages creation.
-- [PyNFe](https://github.com/YACOWS/PyNFe) - Projeto de biblioteca para fazer interface com o webservice de Nota Fiscal eletrônica para Python, disponível sob LGPL.
 - [django-braces](https://github.com/brack3t/django-braces) - Reusable, generic mixins for Django
-- [django-push-notifications](https://github.com/jleclanche/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
+- [django-push-notifications](https://github.com/jazzband/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
 - [configtamer](https://github.com/rbp/configtamer) - A configuration file format and parser. An alternative to Python's configparser
 - [ec2](https://github.com/mattrobenolt/ec2) - Sugar on top of boto for accessing EC2 instances and security groups
 - [django-cryptocoin](https://github.com/quantum13/django-cryptocoin) - 
@@ -1919,34 +3117,36 @@
 - [nude.py](https://github.com/hhatto/nude.py) - Nudity detection with Python
 - [Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
 - [git-workflow](https://github.com/jvns/git-workflow) - Tool to visualize your git workflow, in a pretty graph
+- [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
+- [coderev](https://github.com/ymattw/coderev) - A toolkit generates side-by-side html pages for code review
 - [cdiff](https://github.com/ymattw/cdiff) - View colored, incremental diff in workspace or from stdin with side by side and auto pager support
 - [sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
 - [toro](https://github.com/ajdavis/toro) - Synchronization primitives for Tornado coroutines
 - [imhotep](https://github.com/justinabrahms/imhotep) - A static-analysis bot for Github
 - [jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion and static analysis library for python.
-- [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3
-- [sqlalchemy](https://github.com/zzzeek/sqlalchemy) - See the development link for contribution guidelines
+- [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [diff-cover](https://github.com/edx/diff-cover) - Automatically find diff lines that need test coverage.
 - [pgtune](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard
 - [flask-webtest](https://github.com/aromanovich/flask-webtest) - Utilities for testing Flask applications with WebTest
 - [django-money](https://github.com/django-money/django-money) - Money fields for django forms and models.
 - [PyTeaser](https://github.com/xiaoxu193/PyTeaser) - Summarizes news articles
-- [oauthlib](https://github.com/idan/oauthlib) - A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
+- [oauthlib](https://github.com/oauthlib/oauthlib) - A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
 - [django-decouple](https://github.com/henriquebastos/django-decouple) - Strict separation of config from code.
 - [responses](https://github.com/getsentry/responses) - A utility for mocking out the Python Requests library.
 - [websockets](https://github.com/aaugustin/websockets) - WebSocket implementation in Python 3
 - [sheep](https://github.com/heynemann/sheep) - sheep is a worker console app generator.
 - [flanker](https://github.com/mailgun/flanker) - Python email address and Mime parsing library
-- [memory_profiler](https://github.com/fabianp/memory_profiler) - Monitor Memory usage of Python code
+- [Dockerfiles](https://github.com/crosbymichael/Dockerfiles) - Collection of Dockerfiles
+- [memory_profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code
 - [octopus](https://github.com/heynemann/octopus) - octopus is a library to concurrently retrieve and report on the completion of http requests.
 - [flask_mab](https://github.com/DeaconDesperado/flask_mab) - An implementation of the multi-armed bandit optimization pattern as a Flask extension
 - [pants](https://github.com/ecdavis/pants) - A lightweight framework for writing asynchronous network applications in Python.
 - [tornado-redis](https://github.com/leporo/tornado-redis) - Asynchronous Redis client that works within Tornado IO loop.
 - [django-debug-panel](https://github.com/recamshak/django-debug-panel) - django-debug-toolbar in WebKit DevTools. Works fine with background Ajax requests and non-HTML responses.
-- [Torsession](https://github.com/shiyanhui/Torsession) - Asynchronous session backend with mongodb for tornado
+- [Torsession](https://github.com/shiyanhui/Torsession) - Async && Sync session backend with mongodb for tornado
 - [wazapp](https://github.com/tgalal/wazapp) - Unofficial WhatsApp client for Meego/Harmattan
 - [python-pagseguro](https://github.com/rochacbruno/python-pagseguro) - Integração com a API v2 de pagamentos e notificações do Pagseguro utilizando requests.
-- [github-flask](https://github.com/cenk/github-flask) - Flask extension for authenticating users with GitHub and making requests to the API.
+- [github-flask](https://github.com/cenkalti/github-flask) - Flask extension for authenticating users with GitHub and making requests to the API.
 - [trequests](https://github.com/1stvamp/trequests) - A Tornado async HTTP/HTTPS client adaptor for python-requests
 - [steel](https://github.com/gulopine/steel) - A Python framework for describing binary file formats
 - [django-tenant-schemas](https://github.com/bernardopires/django-tenant-schemas) - Tenant support for Django using PostgreSQL schemas.
@@ -1959,19 +3159,20 @@
 - [pycco](https://github.com/pycco-docs/pycco) - Literate-style documentation generator.
 - [django-simple-audit](https://github.com/leandrosouza/django-simple-audit) - 
 - [pode](https://github.com/rodsenra/pode) - Python Omniscient Debugger
-- [flask-sockets](https://github.com/kennethreitz/flask-sockets) - Elegant WebSockets for your Flask apps.
+- [flask-sockets](https://github.com/heroku-python/flask-sockets) - Elegant WebSockets for your Flask apps.
 - [django-devserver](https://github.com/dcramer/django-devserver) - A drop-in replacement for Django's runserver.
 - [remarkdown](https://github.com/sgenoud/remarkdown) - A markdown parser for docutils
 - [django-vanilla-views](https://github.com/tomchristie/django-vanilla-views) - Beautifully simple class-based views.
-- [centrifuge](https://github.com/centrifugal/centrifuge) - Simple real-time messaging in web applications. Migrated to Go language, see https://github.com/centrifugal/centrifugo
+- [grip](https://github.com/joeyespo/grip) - Preview GitHub Markdown files like Readme locally before committing them.
+- [centrifuge](https://github.com/FZambia/centrifuge) - Migrated to Go language, see https://github.com/centrifugal/centrifugo
 - [releases](https://github.com/bitprophet/releases) - A powerful Sphinx changelog-generating extension.
-- [django-rest-hooks](https://github.com/zapier/django-rest-hooks) - Add webhook subscriptions to your Django app.
+- [django-rest-hooks](https://github.com/zapier/django-rest-hooks) - :love_letter: Add webhook subscriptions to your Django app.
 - [circus](https://github.com/circus-tent/circus) - A Process & Socket Manager built with zmq
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [django-salted](https://github.com/wunki/django-salted) - Full stack SaltStack configuration for Django with the help of Vagrant.
 - [tornado-rest-api-angularjs](https://github.com/honewatson/tornado-rest-api-angularjs) - Tornado Rest Api AngularJs
 - [schematics](https://github.com/schematics/schematics) - Python Data Structures for Humans™.
-- [motor](https://github.com/mongodb/motor) - 
+- [motor](https://github.com/mongodb/motor) - Motor - the async Python driver for MongoDB and Tornado or asyncio
 - [tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 - [motorengine](https://github.com/heynemann/motorengine) - Motorengine is a port of MongoEngine for Tornado.
 - [bootstrapy](https://github.com/kirang89/bootstrapy) - A bootstrap Python application, so that you can focus on writing code
@@ -1980,64 +3181,64 @@
 - [pym](https://github.com/kushaldas/pym) - Python for you and me book
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
 - [xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
-- [django-rq](https://github.com/ui/django-rq) - A simple app that provides django integration for RQ (Redis Queue)
-- [jellyfish](https://github.com/jamesturk/jellyfish) - a python library for doing approximate and phonetic matching of strings.
-- [django-waitinglist](https://github.com/pinax/django-waitinglist) - a Django waiting list app for running a private beta with cohorts support
+- [django-rq](https://github.com/rq/django-rq) - A simple app that provides django integration for RQ (Redis Queue)
+- [jellyfish](https://github.com/jamesturk/jellyfish) - 🎐 a python library for doing approximate and phonetic matching of strings.
+- [django-waitinglist](https://github.com/pinax/django-waitinglist) - DEPRECATED - please see https://github.com/pinax/pinax-waitinglist
 - [deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules.
 - [envelopes](https://github.com/tomekwojcik/envelopes) - Mailing for human beings
 - [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
 - [imbox](https://github.com/martinrusev/imbox) - Python IMAP for Human beings
 - [django-ember-rest](https://github.com/kelonye/django-ember-rest) - Django Models ⇆ Ember-Data
-- [dj-static](https://github.com/kennethreitz/dj-static) - Serve production static files with Django.
+- [dj-static](https://github.com/heroku-python/dj-static) - Serve production static files with Django.
 - [treeio](https://github.com/treeio/treeio) - Tree.io
-- [docker-py](https://github.com/docker/docker-py) - An API client for docker written in Python
-- [rq](https://github.com/nvie/rq) - Simple job queues for Python
-- [rq-scheduler](https://github.com/ui/rq-scheduler) - A light library that adds job scheduling capabilities to RQ (Redis Queue)
+- [docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
+- [rq](https://github.com/rq/rq) - Simple job queues for Python
+- [rq-scheduler](https://github.com/rq/rq-scheduler) - A light library that adds job scheduling capabilities to RQ (Redis Queue)
 - [django-dotenv](https://github.com/jpadilla/django-dotenv) - Loads environment variables from .env
 - [django-admin2](https://github.com/jazzband/django-admin2) - Extendable, adaptable rewrite of django.contrib.admin
 - [django-split-settings](https://github.com/sobolevn/django-split-settings) - Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and optional settings files.
 - [cuisine](https://github.com/sebastien/cuisine) - Chef-like functionality for Fabric
 - [listparser](https://github.com/kurtmckee/listparser) - Parse OPML, RDF+FOAF, and iGoogle subscription lists
 - [feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
-- [authomatic](https://github.com/peterhudec/authomatic) - Simple yet powerful authorization / authentication client library for Python web applications.
+- [authomatic](https://github.com/authomatic/authomatic) - Simple yet powerful authorization / authentication client library for Python web applications.
 - [model_mommy](https://github.com/vandersonmota/model_mommy) - Object factory for django
 - [python-readability](https://github.com/mmirate/python-readability) - fast python port of arc90's readability tool, updated to match latest readability.js!
-- [django-crispy-forms](https://github.com/maraujop/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
+- [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
 - [xadmin](https://github.com/sshwsfc/xadmin) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap.
 - [arrow](https://github.com/crsmithdev/arrow) - Better dates & times for Python
-- [falcon](https://github.com/falconry/falcon) - Falcon is a low-level, high-performance Python framework for building HTTP APIs, app backends, and higher-level frameworks.
+- [falcon](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
 - [snakebasket](https://github.com/prezi/snakebasket) - A smarter, recursive pip.
 - [chromelogger-python](https://github.com/ccampbell/chromelogger-python) - Python library for logging variables to Google Chrome console
 - [django-paypal](https://github.com/dcramer/django-paypal) - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro
 - [pg_activity](https://github.com/julmon/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
-- [eve](https://github.com/nicolaiarocci/eve) - Simple REST APIs
+- [eve](https://github.com/pyeve/eve) - REST API framework designed for human beings
 - [django-skel](https://github.com/rdegges/django-skel) - A modern Django (1.5) project skeleton.
 - [moto](https://github.com/spulec/moto) - Moto is a library that allows your python tests to easily mock out the boto library
 - [bakthat](https://github.com/tsileo/bakthat) - Bakthat is a MIT licensed backup framework written in Python, it's both a command line tool and a Python module that helps you manage backups on Amazon S3/Glacier and OpenStack Swift. It automatically compress, encrypt (symmetric encryption) and upload your files.
-- [young-coders-tutorial](https://github.com/mechanicalgirl/young-coders-tutorial) - Slides and resources for the Young Coders tutorial at PyCon 2013
+- [young-coders-tutorial](https://github.com/mechanicalgirl/young-coders-tutorial) - Slides and resources for the Young Coders tutorial at PyCon 2013-2017
 - [aminator](https://github.com/Netflix/aminator) - A tool for creating EBS AMIs. This tool currently works for CentOS/RedHat Linux images and is intended to run on an EC2 instance.
 - [pyutf8](https://github.com/etrepum/pyutf8) - Python extension for dealing with validation and cleanup of UTF-8 strings
 - [django-compress](https://github.com/pelme/django-compress) - Git repository for django-compress
+- [NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 - [python-social-auth](https://github.com/omab/python-social-auth) - Social auth made simple
 - [modern-package-template](https://github.com/srid/modern-package-template) - [unmaintained] Modern project template for Python [2010]
 - [django-stronghold](https://github.com/mgrouchy/django-stronghold) - Get inside your stronghold and make all your Django views default login_required
 - [lice](https://github.com/licenses/lice) - Generate license files for your projects
 - [pypackage](https://github.com/jamescasbon/pypackage) - Ship virtualenvs as deb or rpm
 - [PyT](https://github.com/dogada/PyT) - High-performance Python DSL for generation of (X)HTML with preprocessing and template inheritance.
-- [who-wrote-this-shit](https://github.com/geovedi/who-wrote-this-shit) - Simple demonstration forensic linguistics program analysing a document based on linguistic style
 - [pyquery](https://github.com/gawel/pyquery) - A jquery-like library for python
 - [charade](https://github.com/sv24-archive/charade) - NO LONGER MAINTAINED. USE chardet/chardet. Fork of chardet to support Python 2 and 3 in one code base.
 - [django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 - [pretend](https://github.com/alex/pretend) - A library for stubbing in python
 - [django-monkey-team](https://github.com/ionelmc/django-monkey-team) - Django middleware and userscript that displays debug tracebacks on production sites (where you would have DEBUG = False) only to developers.
-- [python-route53](https://github.com/gtaylor/python-route53) - A simple Python 2.7/3.x compatible Route53 module.
-- [fbone](https://github.com/imwilsonxu/fbone) - Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
+- [python-route53](https://github.com/gtaylor/python-route53) - A simple Python 2.7/3.x compatible Route53 module. [UNMAINTAINED]
+- [fbone](https://github.com/imwilsonxu/fbone) - Fbone (Flask bone) is a Flask (Python microframework) starter/template/bootstrap/boilerplate application.
 - [django-sliver](https://github.com/jarcoal/django-sliver) - Lightweight REST API built on top of Django's class-based generic views
 - [django-cache-panel](https://github.com/lincolnloop/django-cache-panel) - Django Cache Debug Toolbar for Redis, Memcache and PyLibMC
 - [radon](https://github.com/rubik/radon) - Various code metrics for Python code
 - [python-emailahoy](https://github.com/un33k/python-emailahoy) - Checks if an email address is real
 - [flower](https://github.com/benoitc/flower) - collection of modules to build distributed and reliable concurrent systems in Python.
-- [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Given Unicode text, make its representation consistent and possibly less broken.
+- [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
 - [debug-inspector-panel](https://github.com/santiagobasulto/debug-inspector-panel) - A django-debug-toolbar panel to get information about certain variables.
 - [django-scribbler](https://github.com/caktus/django-scribbler) - django-scribbler is an application for managing snippets of text for a Django website.
 - [oauth-service](https://github.com/honza/oauth-service) - OAuth service in Django/Flask (proof of concept/example app)
@@ -2046,7 +3247,7 @@
 - [taskmaster](https://github.com/dcramer/taskmaster) - A simple distributed queue designed for handling one-off tasks with large sets of tasks
 - [libsaas](https://github.com/ducksboard/libsaas) - Python library to take the pain out of using SaaS APIs. It's like an ORM for SaaS!
 - [path.py](https://github.com/jaraco/path.py) - "Path" object conveniently wrapping assorted file/path-related functionality
-- [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
+- [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
 - [pyscale](https://github.com/alexcepoi/pyscale) - General purpose Python framework for writing highly scalable applications
 - [times](https://github.com/nvie/times) - Times and time zones in Python with a focus on best practices.
 - [sh](https://github.com/amoffat/sh) - Python process launching
@@ -2055,13 +3256,12 @@
 - [tforms](https://github.com/lepture/tforms) - 
 - [aero](https://github.com/heynemann/aero) - aero is an extension to tornado web server that provides django-like app support
 - [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
-- [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
+- [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - 💡 Full-featured code intelligence and smart autocomplete for Sublime Text
 - [pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 - [djangy](https://github.com/dpaola2/djangy) - 
-- [django-fiber](https://github.com/ridethepony/django-fiber) - Django Fiber - a simple, user-friendly CMS for all your Django projects
 - [logster](https://github.com/etsy/logster) - Parse log files, generate metrics for Graphite and Ganglia
-- [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt Open software package repository here:
-- [HTTPretty](https://github.com/gabrielfalcao/HTTPretty) - HTTP client mocking tool for Python, it's like ruby's FakeWeb for python
+- [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
+- [HTTPretty](https://github.com/gabrielfalcao/HTTPretty) - HTTP client mocking tool for Python
 - [autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [thoonk.py](https://github.com/andyet/thoonk.py) - Persistent (and fast!) push feeds, queues, and jobs leveraging Redis.
 - [gargoyle](https://github.com/disqus/gargoyle) - Feature switches in Django
@@ -2077,41 +3277,65 @@
 - [prospero](https://github.com/numero/prospero) - Prospero is a datastore which addresses content using a RESTful interface
 - [torneira](https://github.com/marcelnicolay/torneira) - Torneira is a lightweight and rapid web framework build on top of Tornado
 - [Django-facebook](https://github.com/tschellenbach/Django-facebook) - Facebook open graph api implementation using the Django web framework in python
-- [bleach](https://github.com/mozilla/bleach) - An easy, HTML5, whitelisting HTML sanitizer.
+- [personal](https://github.com/osantana/personal) - Personal configuration files and utility scripts
+- [bleach](https://github.com/mozilla/bleach) - Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
 - [PyCow](https://github.com/p2k/PyCow) - A Python to JavsScript with MooTools converter
 - [tinman](https://github.com/gmr/tinman) - Tinman is a Tornado support package including an application wrapper/runner and a set of handy decorators.
 - [repoman](https://github.com/JeremyGrosser/repoman) - A reprepro and pbuilder management API with a RESTful interface
 - [webkit2png](https://github.com/paulhammond/webkit2png) - png screenshots of webpages
 - [tdaemon](https://github.com/brunobord/tdaemon) - Test daemon in Python
 
+## QML 
+
+- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
+
+## R 
+
+- [factoextra](https://github.com/kassambara/factoextra) - Extract and Visualize the Results of Multivariate Data Analyses
+
+## Roff 
+
+- [unix-v4man](https://github.com/dspinellis/unix-v4man) - Typeset the Fourth Research Edition Unix Programmer's Manual
+- [petname](https://github.com/dustinkirkland/petname) - 
+
 ## Ruby 
 
+- [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
+- [lucre](https://github.com/begriffs/lucre) - Let people pay you for any or no reason.
+- [styleguide-git-commit-message](https://github.com/slashsBin/styleguide-git-commit-message) - /sBin/StyleGuide/Git/CommitMessage
+- [pgsync](https://github.com/ankane/pgsync) - Sync Postgres data between databases
+- [postal](https://github.com/atech/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [letsencrypt-webfaction](https://github.com/will-in-wi/letsencrypt-webfaction) - LetsEncrypt utility client for WebFaction hosts.
+- [logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
+- [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
+- [api-umbrella](https://github.com/NREL/api-umbrella) - Open source API management platform
+- [lolcommits](https://github.com/mroth/lolcommits) - :camera: git-based selfies for software developers
+- [pgslice](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie
+- [sharetribe](https://github.com/sharetribe/sharetribe) - Open source marketplace platform
 - [speech2text](https://github.com/taf2/speech2text) - Using Google Speech to Text API  Provide a Simple Interface to Convert Audio Files
 - [foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [letsencrypt-heroku](https://github.com/substrakt/letsencrypt-heroku) - Make any Heroku application secure in just a couple of minutes.
-- [git-fame-rb](https://github.com/oleander/git-fame-rb) - Generates awesome stats from git-blame
-- [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
+- [git-fame-rb](https://github.com/oleander/git-fame-rb) - A command-line tool that helps you summarize and pretty-print collaborators based on contributions
 - [fuzzy_match](https://github.com/seamusabshere/fuzzy_match) - Find a needle (a document or record) in a haystack using string similarity and (optionally) regular expression rules. Uses Dice's Coefficient (aka Pair Similiarity) and Levenshtein Distance internally.
-- [fluentd](https://github.com/fluent/fluentd) - Fluentd data collector
-- [fake_sns](https://github.com/fsouza/fake_sns) - A fake implementation of AWS SNS to test against.
+- [fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate)
 - [fake_sqs](https://github.com/iain/fake_sqs) - Provides a fake SQS server that you can run locally to test against
-- [huginn](https://github.com/cantino/huginn) - Build agents that monitor and act on your behalf.  Your agents are standing by!
-- [pact](https://github.com/realestate-com-au/pact) - Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
+- [huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
+- [pact-ruby](https://github.com/pact-foundation/pact-ruby) - Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 - [gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
 - [asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats.
-- [github-ranking](https://github.com/k0kubun/github-ranking) - GitHub star ranking for users, organizations and repositories
+- [exercism.io](https://github.com/exercism/exercism.io) - Quickly ramp up in new programming languages.
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
-- [markup](https://github.com/github/markup) - The code we use to render README.your_favorite_markup
+- [markup](https://github.com/github/markup) - Determines which markup library to use to render a content file (e.g. README) on GitHub
 - [router](https://github.com/cloudfoundry-attic/router) - Cloud Foundry - the open platform as a service project
 - [programming-principles](https://github.com/webpro/programming-principles) - Categorized overview of Programming Principles & Patterns
 - [xiki](https://github.com/trogdoro/xiki) - A shell console with GUI features
-- [pghero](https://github.com/ankane/pghero) - The missing dashboard for Postgres
+- [pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [heroku-docker](https://github.com/ddollar/heroku-docker) - Turn Heroku apps into Docker images
 - [coderwall-legacy](https://github.com/coderwall/coderwall-legacy) - Professional network for software engineers
-- [sicp-kindle](https://github.com/twcamper/sicp-kindle) - Structure and Interpretation of Computer Programs, 2nd Edition, by  Harold Abelson and Gerald Jay Sussman with Julie Sussman, The MIT Press.formatted and built for mobi/kindle
 - [github-to-bitbucket-issues-migration](https://github.com/sorich87/github-to-bitbucket-issues-migration) - Migrate issues from a Github repository to a Bitbucket one
 - [oulu](https://github.com/flowdock/oulu) - Flowdock IRC Gateway
 - [feedbin](https://github.com/feedbin/feedbin) - RSS Reader
@@ -2119,15 +3343,28 @@
 - [eeepub](https://github.com/jugyo/eeepub) - EeePub is a Ruby  ePub generator
 - [domain-profiler](https://github.com/jpf/domain-profiler) - Given a domain, will tell you the decisions that the domain owner has made.
 - [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
-- [legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) - :skull: The former home of :beer: the missing package manager for OS X
+- [legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) - :skull: The former home of Homebrew/homebrew (deprecated)
 
-## SQL 
+## Rust 
 
-- [fonetica-sql](https://github.com/vyper/fonetica-sql) - BuscaBR algorithm which allow the comparison of words based on their phonetic likeness (in sql)
+- [kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
+- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools, linters and code quality checkers for various programming languages
+- [mentat](https://github.com/mozilla/mentat) - A persistent, relational store inspired by Datomic and DataScript.
+- [turtle](https://github.com/sunjay/turtle) - Create Animated Drawings in Rust
+- [genact](https://github.com/svenstaro/genact) - :cyclone: A nonsense activity generator
+- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+- [pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
+- [ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal
+- [sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
+- [clog-cli](https://github.com/clog-tool/clog-cli) - Generate beautiful changelogs from your Git commit history
+- [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 
 ## Scala 
 
-- [linkerd](https://github.com/BuoyantIO/linkerd) - A dynamic linker for microservices.
+- [codebrag](https://github.com/softwaremill/codebrag) - Your daily code review tool
+- [lila](https://github.com/ornicar/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
+- [linkerd](https://github.com/linkerd/linkerd) - Open source service mesh for cloud-native applications
 - [elasticmq](https://github.com/adamw/elasticmq) - Message queueing system with an actor-based Scala and Amazon SQS-compatible interfaces. Runs stand-alone or embedded.
 - [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 - [diffy](https://github.com/twitter/diffy) - Find potential bugs in your services with Diffy
@@ -2136,22 +3373,46 @@
 
 ## Shell 
 
+- [servicebroker](https://github.com/openservicebrokerapi/servicebroker) - Open Service Broker API Specification
+- [laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
+- [awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
+- [dotfiles](https://github.com/kennethreitz/dotfiles) - My personal dotfiles.
+- [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+- [mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
+- [decentralized-web-primer](https://github.com/flyingzumwalt/decentralized-web-primer) - A primer explaining IPFS and the Decentralized Web, viewable at
+- [awesome-gbdev](https://github.com/avivace/awesome-gbdev) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
+- [osx-iso](https://github.com/busterc/osx-iso) -  Create a bootable ISO of OS X / macOS, from the installation app file
+- [WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
+- [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
+- [pglite](https://github.com/solidsnack/pglite) - A tiny script to manage ephemeral Postgres databases.
+- [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
+- [audio_shop](https://github.com/robertfoss/audio_shop) - Your friendly neighbourhood script for mangling images or video using audio editing tools
+- [dev-guide](https://github.com/luizalabs/dev-guide) - Guias e boas práticas de programação para um melhor desenvolvimento de software
+- [nginx-buildpack](https://github.com/ryandotsmith/nginx-buildpack) - Run NGINX in front of your app server on Heroku
+- [rfbproto](https://github.com/rfbproto/rfbproto) - 
+- [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
+- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run Mac OS X El Capitan, macOS Sierra and High Sierra on QEMU/KVM. No support is provided at the moment.
 - [envirius](https://github.com/ekalinin/envirius) - Universal Virtual Environments Manager
 - [shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
-- [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for Mac OS X
+- [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
+- [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [panfiles](https://github.com/pantuza/panfiles) - Configuration files of environment, bash settings and development tools
 - [warpdrive](https://github.com/GrahamDumpleton/warpdrive) - Build and deployment system for Python web applications.
-- [letsencrypt-cloudns](https://github.com/rafaelmartins/letsencrypt-cloudns) - letsencript.sh hook for ClouDNS.
+- [dehydrated-cloudns](https://github.com/rafaelmartins/dehydrated-cloudns) - dehydrated hook for ClouDNS.
+- [bower-dist](https://github.com/FineUploader/bower-dist) - A bower build for FineUploader/fine-uploader
 - [Continuity-Activation-Tool](https://github.com/dokterdok/Continuity-Activation-Tool) - An all-in-one tool to activate and diagnose macOS 10.10-12 Continuity on compatible Mac configurations.
 - [lambda-packages](https://github.com/Miserlou/lambda-packages) - Various popular python libraries, pre-compiled to be compatible with AWS Lambda
+- [concourse](https://github.com/concourse/concourse) - BOSH release and development workspace for Concourse
 - [pyship](https://github.com/burrows-labs/pyship) - Create statically linked python for easy desktop application distribution
 - [bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 - [awesome-python-talks](https://github.com/jhermann/awesome-python-talks) - :clapper: :mortar_board: An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
 - [osx-setup](https://github.com/viniciusban/osx-setup) - My Mac OS X initial setup from command line
 - [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
-- [Montador_do_Patinho_Feio__Julho1977](https://github.com/felipesanches/Montador_do_Patinho_Feio__Julho1977) - Escaneamento do documento "Montador do Patinho Feio (Julho 1977)"
+- [Montador_do_Patinho_Feio__Julho1977](https://github.com/ArqueologiaDigital/Montador_do_Patinho_Feio__Julho1977) - Escaneamento do documento "Montador do Patinho Feio (Julho 1977)"
 - [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
-- [pyenv](https://github.com/yyuu/pyenv) - Simple Python version management
+- [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [pythonize](https://github.com/princebot/pythonize) - download, install, and configure Python in one line
 - [osx-install](https://github.com/nvie/osx-install) - Personal OSX install scripts / notes
 - [plugin-python](https://github.com/oh-my-fish/plugin-python) - Set of shortcuts to Python based utilities (pybeatifyjson – clean JSON files, pyclean – remove old .pyc, pyhttp & pysmtp – simple HTTP & SMTP servers)
@@ -2160,6 +3421,7 @@
 - [marlito](https://github.com/wiliamsouza/marlito) - 
 - [metamon](https://github.com/tryolabs/metamon) - Collection of Ansible playbooks to quickly start your Django Application
 - [p](https://github.com/qw3rtman/p) - :snake: Python Version Management Made Simple
+- [herokuish](https://github.com/gliderlabs/herokuish) - Utility for emulating Heroku build and runtime tasks in containers
 - [aws-provisioning](https://github.com/dixonwh/aws-provisioning) - Demo code for AWS provisioning solution using Boto, Fabric, and Cloud Formation
 - [sshrc](https://github.com/Russell91/sshrc) - bring your .bashrc, .vimrc, etc. with you when you ssh
 - [stampede](https://github.com/cattleio/stampede) - Hybrid IaaS/Docker orchestration platform running on CoreOS
@@ -2168,37 +3430,70 @@
 - [octohost](https://github.com/octohost/octohost) - Simple web focused Dockerfile based PaaS server.
 - [now](https://github.com/tsuru/now) - Yet another script to install Tsuru and its dependencies.
 - [boot2docker](https://github.com/boot2docker/boot2docker) - Lightweight Linux for Docker
-- [Dockerfiles](https://github.com/crosbymichael/Dockerfiles) - Collection of Dockerfiles
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+
+## Smalltalk 
+
+- [Mathematics](https://github.com/len/Mathematics) - A computational algebra system in Smalltalk.
 
 ## Swift 
 
+- [ClassicKit](https://github.com/Baddaboo/ClassicKit) - 💾 A collection of classic-style UI components for iOS
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
+- [timer-app](https://github.com/michaelvillar/timer-app) - A simple Timer app for Mac
+- [freeotp-ios](https://github.com/freeotp/freeotp-ios) - 
+- [Lona](https://github.com/airbnb/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
+- [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
+- [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
+- [touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac
 - [Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
 
 ## TeX 
 
+- [tufte-latex](https://github.com/edwardtufte/tufte-latex) - Tufte-style documents with LaTex
+- [AlgoXY](https://github.com/liuxinyu95/AlgoXY) - Book of Elementary Algorithms and Data structures
+- [TechMillForKids](https://github.com/jessehamner/TechMillForKids) - An introductory workshop for binary math, basic electronics, logic gates, and basic computing operations. For kids as young as 9.
+- [limecv](https://github.com/opieters/limecv) - A LaTeX CV Document Class
+- [dist-sagas](https://github.com/aphyr/dist-sagas) - A paper on sagas in distributed systems
 - [x86_harmful](https://github.com/rootkovska/x86_harmful) - The "Intel x86 considered harmful" paper
 - [the-little-go-book](https://github.com/karlseguin/the-little-go-book) - 
-- [RE-for-beginners](https://github.com/dennis714/RE-for-beginners) - "Reverse Engineering for Beginners" free book
+- [RE-for-beginners](https://github.com/DennisYurichev/RE-for-beginners) - "Reverse Engineering for Beginners" free book
 - [ThinkOS](https://github.com/AllenDowney/ThinkOS) - Text and supporting code for Think OS: A Brief Introduction to Operating Systems, by Allen Downey.
 - [book](https://github.com/crypto101/book) - Crypto 101, the introductory book on cryptography.
+- [dedrop](https://github.com/kholia/dedrop) - Looking inside the (Drop) box. Security Analysis of Dropbox. Updated WOOT '13 paper and other goodies.
 
 ## TypeScript 
 
-- [ReDoc](https://github.com/Rebilly/ReDoc) - OpenAPI/Swagger-generated API Reference Documentation
-- [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
+- [GhostText](https://github.com/GhostText/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
+- [ShapeShifter](https://github.com/alexjlockwood/ShapeShifter) - SVG icon animation tool for Android, iOS, and the web
+- [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
+- [1backend](https://github.com/1backend/1backend) - Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas.
+- [Eve](https://github.com/witheve/Eve) - Better tools for thought
+- [ReDoc](https://github.com/Rebilly/ReDoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
+- [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
-- [ionic](https://github.com/driftyco/ionic) - Advanced HTML5 mobile development framework and SDK. Build incredible mobile apps with web technologies you already know and love. Best friends with AngularJS.
+- [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
+
+## VHDL 
+
+- [ghdl](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator
+
+## Vim script 
+
+- [dotfiles](https://github.com/rochacon/dotfiles) - My Salt states for desktop setup
+- [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc
 
 ## VimL 
 
-- [InstantRst](https://github.com/Rykka/InstantRst) - instant rst preview in browser
-- [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc
-- [personal](https://github.com/osantana/personal) - Personal configuration files and utility scripts
+- [InstantRst](https://github.com/gu-fan/InstantRst) - instant rst preview in browser
 
 ## Visual Basic 
 
 - [FutureBlocks](https://github.com/fogleman/FutureBlocks) - Tetris clone written in QBasic.
+
+## Vue 
+
+- [docute](https://github.com/egoist/docute) - :scroll: Effortlessly documentation done right.
 
 ## XSLT 
 
